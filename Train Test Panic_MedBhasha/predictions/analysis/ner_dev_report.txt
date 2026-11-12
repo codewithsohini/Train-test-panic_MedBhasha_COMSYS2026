@@ -1,0 +1,20 @@
+backend=banglabert
+CRF baseline dev: {'P': np.float64(0.871268656716418), 'R': np.float64(0.8192982456140351), 'F1': np.float64(0.844484629294756)}
+BanglaBERT dev: {'P': np.float64(0.9013840830449827), 'R': np.float64(0.9140350877192982), 'F1': np.float64(0.9076655052264808)} (best epoch 23)
+
+                      precision    recall  f1-score   support
+
+           BODY_SITE     0.8519    0.8214    0.8364        28
+           DIAGNOSIS     0.8980    0.9778    0.9362        45
+              DOSAGE     0.9706    0.9706    0.9706        34
+          MEDICATION     0.9750    0.8667    0.9176        45
+NEGATION_UNCERTAINTY     0.9773    0.9773    0.9773        44
+           PROCEDURE     0.5806    0.7200    0.6429        25
+             SYMPTOM     0.8762    0.8932    0.8846       103
+            TEMPORAL     0.9138    0.8983    0.9060        59
+                TEST     0.9238    0.9417    0.9327       103
+         TEST_RESULT     0.9294    0.9405    0.9349        84
+
+           micro avg     0.9014    0.9140    0.9077       570
+           macro avg     0.8897    0.9007    0.8939       570
+        weighted avg     0.9053    0.9140    0.9089       570

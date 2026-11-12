@@ -1,0 +1,3908 @@
+entity_type,e,count,notes
+BODY_SITE,পেট,152,152
+BODY_SITE,গলায়,114,99
+BODY_SITE,পেটের ওপরের,92,58
+BODY_SITE,প্লীহা,85,85
+BODY_SITE,তলপেটে,84,52
+BODY_SITE,যকৃৎ,81,81
+BODY_SITE,গলা,77,77
+BODY_SITE,মুখে,77,72
+BODY_SITE,পেটে,70,62
+BODY_SITE,টনসিল,66,66
+BODY_SITE,সারা গায়ে,66,64
+BODY_SITE,সারা শরীরে,66,63
+BODY_SITE,বুকে,64,64
+BODY_SITE,ফুসফুসে,63,63
+BODY_SITE,বুক,58,58
+BODY_SITE,মুখ,58,58
+BODY_SITE,কোমর,57,57
+BODY_SITE,ঘাড়ে,57,50
+BODY_SITE,কপালে,53,53
+BODY_SITE,কানে,52,44
+BODY_SITE,ঘাড়,52,32
+BODY_SITE,কানের পর্দা,51,51
+BODY_SITE,গালে,51,51
+BODY_SITE,গোড়ালিতে,50,34
+BODY_SITE,গোড়ালির,50,32
+BODY_SITE,ডান চোখ,50,34
+BODY_SITE,বাম চোখ,50,34
+BODY_SITE,পিঠে,49,49
+BODY_SITE,অন্ত্রের,48,48
+BODY_SITE,আঙুলের ফাঁকে,47,35
+BODY_SITE,গাল,45,45
+BODY_SITE,ত্বক,45,36
+BODY_SITE,পায়ে,43,43
+BODY_SITE,কান,40,28
+BODY_SITE,কপাল,39,39
+BODY_SITE,গলার পেছনের,39,39
+BODY_SITE,জিভে,39,39
+BODY_SITE,নাকের,39,39
+BODY_SITE,গোড়ালি,38,21
+BODY_SITE,কর্নিয়া,37,37
+BODY_SITE,কোমরে,36,36
+BODY_SITE,হাঁটুতে,35,22
+BODY_SITE,কনুই,34,21
+BODY_SITE,মূত্রথলি,34,21
+BODY_SITE,জয়েন্ট,33,33
+BODY_SITE,কাঁধে,32,32
+BODY_SITE,ঘাড়ের লসিকা গ্রন্থি,32,32
+BODY_SITE,ফুসফুস,32,32
+BODY_SITE,কাঁধ,31,24
+BODY_SITE,চোখের পাতা,31,31
+BODY_SITE,মাথার,31,31
+BODY_SITE,চোখের পাতায়,30,30
+BODY_SITE,প্রস্টেট,30,18
+BODY_SITE,ত্বকে,29,29
+BODY_SITE,ডান ফুসফুসের,28,28
+BODY_SITE,কোমরের,27,25
+BODY_SITE,গায়ে,27,24
+BODY_SITE,নাকের শ্লেষ্মা,27,27
+BODY_SITE,কর্নিয়ায়,26,26
+BODY_SITE,চোখের নিচে,26,26
+BODY_SITE,ঠোঁট,26,22
+BODY_SITE,কব্জি,25,25
+BODY_SITE,জিভের নিচে,25,25
+BODY_SITE,বুড়ো আঙুলের গোড়ায়,25,25
+BODY_SITE,মাড়ি,25,21
+BODY_SITE,শরীরে,25,25
+BODY_SITE,হাত,25,25
+BODY_SITE,কুঁচকিতে,24,24
+BODY_SITE,ঘাড়ের পেশিতে,24,24
+BODY_SITE,পেটের ওপরের অংশে,23,23
+BODY_SITE,মুখের ভেতরে,23,23
+BODY_SITE,কব্জিতে,21,21
+BODY_SITE,কানের পেছনে,21,21
+BODY_SITE,চোয়ালে,21,21
+BODY_SITE,ঠোঁটের ভেতরে,21,12
+BODY_SITE,বাঁ হাত,21,21
+BODY_SITE,বুকের চারপাশে,21,21
+BODY_SITE,লোম,21,15
+BODY_SITE,শরীরের,21,21
+BODY_SITE,কানের নালিতে,20,20
+BODY_SITE,ভ্রু,20,12
+BODY_SITE,চোখের,19,19
+BODY_SITE,দুই চোখে,19,19
+BODY_SITE,দুই হাঁটুতে,19,19
+BODY_SITE,নাক,19,19
+BODY_SITE,নাকের ভেতরে,19,19
+BODY_SITE,মুখের,19,19
+BODY_SITE,হাঁটুর জয়েন্ট লাইনে,19,19
+BODY_SITE,কনজাংটিভা,18,18
+BODY_SITE,কোমরের পেশিতে,18,18
+BODY_SITE,গালের,18,18
+BODY_SITE,ঠোঁটের ওপরে,18,18
+BODY_SITE,ডান পাঁজরের নিচে,18,18
+BODY_SITE,তলপেট,18,18
+BODY_SITE,নাকের উপরে,18,18
+BODY_SITE,নাকের সামনের দিকে,18,18
+BODY_SITE,মাথা,18,18
+BODY_SITE,যোনিপথে,18,18
+BODY_SITE,যোনিমুখ,18,18
+BODY_SITE,লসিকা,18,18
+BODY_SITE,হাতে,18,18
+BODY_SITE,অন্য চোখেও,17,17
+BODY_SITE,একটি চোখে,17,17
+BODY_SITE,চোখের পাতার কিনারা,17,17
+BODY_SITE,ডান দিকের কপালে,17,17
+BODY_SITE,নিচের ডান মোলার দাঁতে,17,17
+BODY_SITE,নিচের বাঁ দিকে,17,17
+BODY_SITE,পায়ের আঙুল,17,17
+BODY_SITE,মাথার ত্বকে,17,17
+BODY_SITE,মেমব্রেন,17,17
+BODY_SITE,স্ক্লেরা,17,17
+BODY_SITE,হাঁটুর,17,14
+BODY_SITE,কটিদেশে,16,16
+BODY_SITE,গোড়ালির নিচের দিকে,16,16
+BODY_SITE,চোখের পেছনে,16,16
+BODY_SITE,চোখের সাদা অংশ,16,16
+BODY_SITE,ডার্মাটোম,16,16
+BODY_SITE,দাঁতে,16,12
+BODY_SITE,নখ,16,14
+BODY_SITE,পায়ের,16,16
+BODY_SITE,কনুইয়ের ভাঁজে,15,15
+BODY_SITE,গলার ভাঁজে,15,15
+BODY_SITE,গোড়ালির জয়েন্টে,15,15
+BODY_SITE,ফোড়া,15,15
+BODY_SITE,বগল,15,15
+BODY_SITE,মাথার দুই পাশে,15,15
+BODY_SITE,মুখের ভেতরেও,15,15
+BODY_SITE,হাত-পায়ের ভাঁজে,15,15
+BODY_SITE,হাতের পিঠে,15,15
+BODY_SITE,Little's area,14,14
+BODY_SITE,কিনারা,14,14
+BODY_SITE,গলার পেছনে,14,14
+BODY_SITE,চোখ,14,14
+BODY_SITE,জিভ,14,14
+BODY_SITE,হাঁটু,14,13
+BODY_SITE,হৃদযন্ত্রে,14,14
+BODY_SITE,কোমরের একপাশ,13,13
+BODY_SITE,ডান,13,13
+BODY_SITE,ডান দিকের কটিদেশে,13,13
+BODY_SITE,নাকের চারপাশে,13,13
+BODY_SITE,নিতম্ব,13,13
+BODY_SITE,পায়ুপথে,13,13
+BODY_SITE,বুকের,13,13
+BODY_SITE,মাথায়,13,13
+BODY_SITE,সারা,13,13
+BODY_SITE,উরুতে,12,12
+BODY_SITE,কণ্ঠনালীতে,12,12
+BODY_SITE,কাঁধের,12,11
+BODY_SITE,কাঁধের পেশিতে,12,12
+BODY_SITE,গলার ভেতরে,12,12
+BODY_SITE,গলার ভেতরের,12,12
+BODY_SITE,গোড়ালিব্যথা,12,12
+BODY_SITE,ঘাড়ের পেছনে,12,12
+BODY_SITE,দুই চোখের কনজাংটিভা,12,12
+BODY_SITE,নাকের পেছন,12,12
+BODY_SITE,পিঠ,12,12
+BODY_SITE,সেপ্টামে,12,12
+BODY_SITE,খালি পেটে,11,11
+BODY_SITE,গালের শ্লেষ্মায়,11,11
+BODY_SITE,জয়েন্টের,11,11
+BODY_SITE,ডান নিচের,11,11
+BODY_SITE,পায়ের পাতার,11,11
+BODY_SITE,ব্যথার,11,11
+BODY_SITE,হাঁটুর ভাঁজে,11,11
+BODY_SITE,arch,10,10
+BODY_SITE,উভয় দিকে,10,10
+BODY_SITE,কানের পর্দায়,10,10
+BODY_SITE,ঘাড় ও কাঁধের,10,10
+BODY_SITE,ঘাড়ের,10,9
+BODY_SITE,পা,10,10
+BODY_SITE,পেটে অন্ত্রের,10,10
+BODY_SITE,প্রি-অরিকুলার লসিকা গ্রন্থি,10,10
+BODY_SITE,হাতের তালুতে,10,10
+BODY_SITE,উরুর ভাঁজে,9,9
+BODY_SITE,কুঁচকি,9,9
+BODY_SITE,গলার লসিকা গ্রন্থি,9,9
+BODY_SITE,চোখে,9,9
+BODY_SITE,ডান নিচের লোবে,9,9
+BODY_SITE,দিকে,9,9
+BODY_SITE,নখে,9,9
+BODY_SITE,নাকের ভেতরের পর্দা,9,9
+BODY_SITE,নিতম্বে,9,9
+BODY_SITE,পাতার,9,9
+BODY_SITE,ফুসফুসে উভয় দিকে,9,9
+BODY_SITE,ফুসফুসের,9,9
+BODY_SITE,বাইরের কানের নালিতে,9,9
+BODY_SITE,বালিশের,9,9
+BODY_SITE,ভাঁজে,9,9
+BODY_SITE,ভাঁজের,9,9
+BODY_SITE,মাথার ত্বক,9,9
+BODY_SITE,উপরের পাতার,8,8
+BODY_SITE,কবজি,8,8
+BODY_SITE,কানের,8,8
+BODY_SITE,কিডনিতে,8,8
+BODY_SITE,ঠোঁটের চারপাশে,8,8
+BODY_SITE,দুই হাঁটু,8,8
+BODY_SITE,নাকের দুপাশে,8,8
+BODY_SITE,নিচের বাঁ দিকে পেটে,8,8
+BODY_SITE,পাতার কিনারা,8,8
+BODY_SITE,পাপড়ির গোড়ায়,8,8
+BODY_SITE,পায়ুপথের চারপাশে,8,8
+BODY_SITE,পায়ের পাতা,8,8
+BODY_SITE,ব্রণ,8,8
+BODY_SITE,মুখের একপাশের,8,8
+BODY_SITE,গাঁটে,7,7
+BODY_SITE,গালের ওপর,7,7
+BODY_SITE,ঘড়ির স্ট্র্যাপের,7,7
+BODY_SITE,ঘাড়ের লসিকা,7,7
+BODY_SITE,দুই চোখের,7,7
+BODY_SITE,পাকস্থলীর,7,7
+BODY_SITE,মুখের ডান পাশ,7,7
+BODY_SITE,লেন্স,7,7
+BODY_SITE,হাত-পায়ের গাঁটে,7,7
+BODY_SITE,কটিদেশের,6,6
+BODY_SITE,কর্নিয়াল,6,6
+BODY_SITE,চোখের পাতার,6,5
+BODY_SITE,ডান পাঁজরের নিচে পেটে,6,6
+BODY_SITE,হাঁটুর ব্রেস,6,6
+BODY_SITE,হাড়ের,6,6
+BODY_SITE,গালের বাইরের দিকে,5,5
+BODY_SITE,ঠোঁটের,5,5
+BODY_SITE,ডান নিচের অংশে,5,5
+BODY_SITE,ডান পাঁজরের,5,5
+BODY_SITE,থাইরয়েড,5,5
+BODY_SITE,ফোসকায়,5,5
+BODY_SITE,Auspitz,4,4
+BODY_SITE,area,4,4
+BODY_SITE,অগ্রভাগ,4,4
+BODY_SITE,ওপরের লোম,4,4
+BODY_SITE,গোড়ালির নিচের,4,4
+BODY_SITE,চোখের কনজাংটিভা,4,4
+BODY_SITE,ছিদ্র,4,4
+BODY_SITE,তলপেটের,4,4
+BODY_SITE,পাপড়ির,4,4
+BODY_SITE,ভোকাল কর্ডকে,4,4
+BODY_SITE,সেপ্টামে রক্তনালী,4,4
+BODY_SITE,কনুই ও,3,3
+BODY_SITE,গলার,3,3
+BODY_SITE,গ্রন্থির,3,3
+BODY_SITE,গ্রন্থির মুখ,3,3
+BODY_SITE,ঘড়ির স্ট্র্যাপের স্থানে,3,3
+BODY_SITE,ঘাড় ও পিঠে,3,3
+BODY_SITE,নাক দিয়ে,3,3
+BODY_SITE,নাকে,3,3
+BODY_SITE,প্রি-অরিকুলার লসিকা,3,3
+BODY_SITE,ফুসফুসে উভয়,3,3
+BODY_SITE,মাথা ও,3,3
+BODY_SITE,মুখের সামনের,3,3
+BODY_SITE,লসিকা গ্রন্থি,3,3
+BODY_SITE,স্ট্র্যাপের,3,3
+BODY_SITE,CVA,2,2
+BODY_SITE,mild,2,2
+BODY_SITE,কর্ডকে,2,2
+BODY_SITE,গোড়ালির বাইরের দিকে,2,2
+BODY_SITE,চাপে,2,2
+BODY_SITE,চোখ দিয়ে,2,2
+BODY_SITE,থাইরয়েড গ্রন্থি,2,2
+BODY_SITE,দাগের জায়গার,2,2
+BODY_SITE,নাসোলাবিয়াল ভাঁজে,2,2
+BODY_SITE,নিচের বাঁ,2,2
+BODY_SITE,ফ্লুরেসিন,2,2
+BODY_SITE,যকৃতবান্ধব,2,2
+BODY_SITE,রেনাল,2,2
+BODY_SITE,arch),1,1
+BODY_SITE,bronchial,1,1
+BODY_SITE,burrow,1,1
+BODY_SITE,epigastrium,1,1
+BODY_SITE,mild pallor,1,1
+BODY_SITE,অংশে,1,1
+BODY_SITE,অ্যাউস্পিৎজ,1,1
+BODY_SITE,উভয়,1,1
+BODY_SITE,একটি চোখ,1,1
+BODY_SITE,ওপর,1,1
+BODY_SITE,কৃমির,1,1
+BODY_SITE,কোমর বা,1,1
+BODY_SITE,গাল ও,1,1
+BODY_SITE,গোড়ালির নিচে,1,1
+BODY_SITE,ঘাড় ও,1,1
+BODY_SITE,চোখের সাদা,1,1
+BODY_SITE,জায়গায়,1,1
+BODY_SITE,জায়গার,1,1
+BODY_SITE,জায়গার লোম,1,1
+BODY_SITE,জিভের,1,1
+BODY_SITE,ডান দিকে,1,1
+BODY_SITE,ডান ফুসফুসের ওপরের,1,1
+BODY_SITE,নাকের পেছন দিয়ে,1,1
+BODY_SITE,নিচের,1,1
+BODY_SITE,নিচের অংশে,1,1
+BODY_SITE,পাতার ভেতরের দিকে,1,1
+BODY_SITE,পেটের,1,1
+BODY_SITE,ফোসকা,1,1
+BODY_SITE,মাথার ও,1,1
+BODY_SITE,রেনাল কলিক,1,1
+BODY_SITE,শ্বাসনালী,1,1
+BODY_SITE,শ্লেষ্মায়,1,1
+BODY_SITE,স্টেনে,1,1
+BODY_SITE,হাত-পায়ের,1,1
+DIAGNOSIS,ডায়াবেটিস,127,125
+DIAGNOSIS,উচ্চ রক্তচাপ,117,114
+DIAGNOSIS,টনসিলাইটিস,43,35
+DIAGNOSIS,জল বসন্ত,36,30
+DIAGNOSIS,স্ক্যাবিস,32,32
+DIAGNOSIS,অ্যাটোপিক ডার্মাটাইটিস,26,26
+DIAGNOSIS,epigastrium,24,24
+DIAGNOSIS,অ্যালার্জিক রাইনাইটিস,22,22
+DIAGNOSIS,বিষণ্নতা,22,22
+DIAGNOSIS,suprapubic,21,21
+DIAGNOSIS,ছানি,20,16
+DIAGNOSIS,হাঁপানি,20,20
+DIAGNOSIS,টাইপ-২ ডায়াবেটিস,19,19
+DIAGNOSIS,তীব্র আর্টিকারিয়া,19,19
+DIAGNOSIS,ফোড়া,19,19
+DIAGNOSIS,মাইগ্রেন,19,19
+DIAGNOSIS,লিউকোপেনিয়া,19,19
+DIAGNOSIS,ইউরিক অ্যাসিড,18,18
+DIAGNOSIS,কানের সংক্রমণ,17,17
+DIAGNOSIS,তীব্র ডায়রিয়া,17,17
+DIAGNOSIS,ভাইরাল জ্বর,17,17
+DIAGNOSIS,মায়োপিয়া,17,17
+DIAGNOSIS,মেলাজমা,17,17
+DIAGNOSIS,যক্ষ্মার,17,17
+DIAGNOSIS,নিউমোনিয়া,16,16
+DIAGNOSIS,আর্টিকারিয়া,15,15
+DIAGNOSIS,ইস্কিমিক হৃদরোগ,15,15
+DIAGNOSIS,ক্রেপিটাস,15,15
+DIAGNOSIS,ডেঙ্গু NS1,15,15
+DIAGNOSIS,ত্বকের অ্যাবসেস,15,15
+DIAGNOSIS,উচ্চ,14,14
+DIAGNOSIS,একজিমা,14,14
+DIAGNOSIS,গাউট,14,14
+DIAGNOSIS,তীব্র ওটাইটিস,14,14
+DIAGNOSIS,তীব্র গাউটি আর্থ্রাইটিস,14,14
+DIAGNOSIS,পেপটিক আলসার,14,14
+DIAGNOSIS,মৃদু,14,14
+DIAGNOSIS,angioedema,13,13
+DIAGNOSIS,depigmented,13,13
+DIAGNOSIS,আমবাত,13,13
+DIAGNOSIS,ডেঙ্গু জ্বর,13,13
+DIAGNOSIS,তীব্র ব্রংকাইটিস,13,13
+DIAGNOSIS,তীব্র ভাইরাল ফিভার,13,13
+DIAGNOSIS,দীর্ঘস্থায়ী কাশি,13,13
+DIAGNOSIS,ব্রংকিয়াল অ্যাজমা,13,13
+DIAGNOSIS,ভাইরাল সংক্রমণজনিত জ্বর,13,13
+DIAGNOSIS,মৌসুমি অ্যালার্জিক রাইনাইটিস,13,13
+DIAGNOSIS,যক্ষ্মা,13,13
+DIAGNOSIS,allergic,12,12
+DIAGNOSIS,এসেনশিয়াল হাইপারটেনশন,12,12
+DIAGNOSIS,চিকুনগুনিয়া,12,10
+DIAGNOSIS,ডিসমেনোরিয়া,12,12
+DIAGNOSIS,তীব্র ফ্যারিঞ্জাইটিস,12,12
+DIAGNOSIS,তীব্র ব্যাকটেরিয়াল কনজাংটিভাইটিস,12,12
+DIAGNOSIS,সেবোরিক ডার্মাটাইটিস,12,12
+DIAGNOSIS,IBS,11,11
+DIAGNOSIS,allergic shiners,11,11
+DIAGNOSIS,cellulitis,11,11
+DIAGNOSIS,dermatophytosis,11,11
+DIAGNOSIS,অ্যাকনে ভালগারিস,11,11
+DIAGNOSIS,অ্যাঞ্জাইনা,11,11
+DIAGNOSIS,অ্যালার্জিক কনজাংটিভাইটিস,11,11
+DIAGNOSIS,অ্যালার্জিক কন্ট্যাক্ট ডার্মাটাইটিস,11,11
+DIAGNOSIS,ইনফ্লুয়েঞ্জা,11,11
+DIAGNOSIS,ইমপেটিগো,11,11
+DIAGNOSIS,গাউটি আর্থ্রাইটিস,11,11
+DIAGNOSIS,ছত্রাকজনিত ত্বকের সংক্রমণ,11,11
+DIAGNOSIS,টাইফয়েড,11,11
+DIAGNOSIS,ডিউডেনাল আলসার,11,11
+DIAGNOSIS,ডেঙ্গু,11,11
+DIAGNOSIS,ড্রাই আই সিন্ড্রোম,11,11
+DIAGNOSIS,ব্যাকটেরিয়াল টনসিলোফ্যারিঞ্জাইটিস,11,11
+DIAGNOSIS,সাইনুসাইটিস,11,11
+DIAGNOSIS,সেরুমেন ইমপ্যাকশন,11,11
+DIAGNOSIS,acanthosis nigricans,10,10
+DIAGNOSIS,annular,10,10
+DIAGNOSIS,pale boggy turbinate,10,10
+DIAGNOSIS,post-nasal drip,10,10
+DIAGNOSIS,relative bradycardia,10,10
+DIAGNOSIS,অ্যান্টিরিয়র ব্লেফারাইটিস,10,10
+DIAGNOSIS,এপিস্ট্যাক্সিস,10,10
+DIAGNOSIS,এসাইটিস,10,10
+DIAGNOSIS,কনজাংটিভাইটিস,10,10
+DIAGNOSIS,টিনিয়া করপোরিস,10,10
+DIAGNOSIS,তীব্র ওটাইটিস মিডিয়া,10,10
+DIAGNOSIS,তীব্র নাসিকাপ্রদাহ,10,10
+DIAGNOSIS,তীব্র সিস্টাইটিস,10,10
+DIAGNOSIS,থাইরয়েড গ্রন্থি,10,10
+DIAGNOSIS,প্লান্টার ফ্যাসাইটিস,10,10
+DIAGNOSIS,ফুসফুসের সংক্রমণ,10,10
+DIAGNOSIS,ভাইরাল ফ্যারিঞ্জাইটিস,10,10
+DIAGNOSIS,ভ্যাজাইনাল ক্যানডিডিয়াসিস,10,10
+DIAGNOSIS,caries,9,9
+DIAGNOSIS,এন্টেরিক ফিভার,9,9
+DIAGNOSIS,কমন কোল্ড,9,9
+DIAGNOSIS,কর্নিয়াল অ্যাব্রেশন,9,9
+DIAGNOSIS,ক্রাস্ট,9,9
+DIAGNOSIS,গলাব্যথা,9,9
+DIAGNOSIS,গ্যাস্ট্রাইটিস,9,9
+DIAGNOSIS,টাইফয়েড জ্বর,9,9
+DIAGNOSIS,টেনশন-টাইপ হেডেক,9,9
+DIAGNOSIS,তীব্র গ্যাস্ট্রোএন্টেরাইটিস,9,9
+DIAGNOSIS,তীব্র ডেঙ্গু সংক্রমণ,9,9
+DIAGNOSIS,পেপিলেডিমা,9,9
+DIAGNOSIS,ফেসিয়াল নার্ভ প্যালসি,9,9
+DIAGNOSIS,ভ্যারিসেলা,9,9
+DIAGNOSIS,যোনিপথের ছত্রাক সংক্রমণ,9,9
+DIAGNOSIS,লোবার নিউমোনিয়া,9,9
+DIAGNOSIS,হাঁটুর বাত,9,9
+DIAGNOSIS,হারপিস জোস্টার,9,9
+DIAGNOSIS,হিল পেইন,9,9
+DIAGNOSIS,dehydration,8,8
+DIAGNOSIS,delayed,8,8
+DIAGNOSIS,injected,8,8
+DIAGNOSIS,maxillary,8,8
+DIAGNOSIS,অস্টিওআর্থ্রাইটিস,8,8
+DIAGNOSIS,অ্যাজমা,8,8
+DIAGNOSIS,অ্যাডহেসিভ ক্যাপসুলাইটিস,8,8
+DIAGNOSIS,অ্যান্টিরিয়র এপিস্ট্যাক্সিস,8,8
+DIAGNOSIS,অ্যালার্জিজনিত আমবাত,8,8
+DIAGNOSIS,ইরিটেবল বাওয়েল সিন্ড্রোম,8,8
+DIAGNOSIS,ওটাইটিস,8,8
+DIAGNOSIS,কৃমি,8,8
+DIAGNOSIS,গ্যাস্ট্রোএন্টেরাইটিস,8,8
+DIAGNOSIS,ডিপ্রেসিভ এপিসোড,8,8
+DIAGNOSIS,ডেঙ্গু ফিভার,8,8
+DIAGNOSIS,ত্বকের ব্যাকটেরিয়াল সংক্রমণ,8,8
+DIAGNOSIS,দীর্ঘস্থায়ী অ্যালার্জিক রাইনাইটিস,8,8
+DIAGNOSIS,নিউমোকক্কাল,8,8
+DIAGNOSIS,প্লাক সোরিয়াসিস,8,8
+DIAGNOSIS,ফুসফুসের যক্ষ্মা,8,8
+DIAGNOSIS,বসন্তকালীন অ্যালার্জিক চোখের প্রদাহ,8,8
+DIAGNOSIS,ব্লেফারাইটিস,8,8
+DIAGNOSIS,ভালভোভ্যাজাইনাল ক্যানডিডিয়াসিস,8,8
+DIAGNOSIS,মধ্যকর্ণের সংক্রমণ,8,8
+DIAGNOSIS,রেটিনোপ্যাথির,8,8
+DIAGNOSIS,সার্ভাইকাল স্পন্ডিলোসিস,8,8
+DIAGNOSIS,স্থায়ী অ্যাজমা,8,8
+DIAGNOSIS,allergic salute,7,7
+DIAGNOSIS,allodynia,7,7
+DIAGNOSIS,crepitation,7,7
+DIAGNOSIS,nuclear sclerosis,7,7
+DIAGNOSIS,অ্যাউস্পিৎজ,7,7
+DIAGNOSIS,অ্যামিবিক আমাশয়,7,7
+DIAGNOSIS,অ্যালার্জি,7,7
+DIAGNOSIS,আয়রন ডেফিসিয়েন্সি অ্যানিমিয়া,7,7
+DIAGNOSIS,আয়রনের ঘাটতিজনিত রক্তাল্পতা,7,7
+DIAGNOSIS,আলসার,7,7
+DIAGNOSIS,এন্টেরোবিয়াসিস,7,7
+DIAGNOSIS,কানে,7,7
+DIAGNOSIS,গ্যাস্ট্রিক আলসার,7,7
+DIAGNOSIS,গ্রন্থি,7,7
+DIAGNOSIS,চিকেনপক্স,7,7
+DIAGNOSIS,ডায়াবেটিসে,7,7
+DIAGNOSIS,তীব্র টনসিলোফ্যারিঞ্জাইটিস,7,7
+DIAGNOSIS,তীব্র ল্যারিঞ্জাইটিস,7,7
+DIAGNOSIS,দাদ,7,7
+DIAGNOSIS,প্রাইমারি হাইপোথাইরয়েডিজম,7,7
+DIAGNOSIS,মূত্রনালীর সংক্রমণ,7,7
+DIAGNOSIS,মেছতা,7,7
+DIAGNOSIS,লাম্বার স্পন্ডিলোসিস,7,7
+DIAGNOSIS,শ্বেতী,7,7
+DIAGNOSIS,হাইপারকোলেস্টেরোলেমিয়া,7,7
+DIAGNOSIS,হাইপারটেনশন,7,7
+DIAGNOSIS,paraspinal spasm,6,6
+DIAGNOSIS,অনিয়ন্ত্রিত ডায়াবেটিস,6,6
+DIAGNOSIS,অ্যাকিউট ব্রংকাইটিস,6,6
+DIAGNOSIS,অ্যাসিডিটি,6,6
+DIAGNOSIS,কনজাংটিভা,6,6
+DIAGNOSIS,তীব্র ব্যাকটেরিয়াল রাইনোসাইনুসাইটিস,6,6
+DIAGNOSIS,দাঁতের ক্যারিজ,6,6
+DIAGNOSIS,দীর্ঘস্থায়ী একজিমা,6,6
+DIAGNOSIS,পালপাইটিস,6,6
+DIAGNOSIS,প্রাইমারি ডিসমেনোরিয়া,6,6
+DIAGNOSIS,ফ্রোজেন শোল্ডার,6,6
+DIAGNOSIS,ব্রণ,6,6
+DIAGNOSIS,ভাইরাল কনজাংটিভাইটিস,6,6
+DIAGNOSIS,ভাইরাল হেপাটাইটিস,6,6
+DIAGNOSIS,ভোকাল,6,6
+DIAGNOSIS,ভোকাল কর্ডের প্রদাহ,6,6
+DIAGNOSIS,মধ্যম মাত্রার ব্রণ,6,6
+DIAGNOSIS,মানসিক,6,6
+DIAGNOSIS,হাইপোথাইরয়েডিজম,6,6
+DIAGNOSIS,হৃদরোগের,6,6
+DIAGNOSIS,হেপাটাইটিস A,6,6
+DIAGNOSIS,GERD,5,5
+DIAGNOSIS,PCOS,5,5
+DIAGNOSIS,acute tonsillitis,5,5
+DIAGNOSIS,laryngitis,5,5
+DIAGNOSIS,macule,5,5
+DIAGNOSIS,অ্যামিবিয়াসিস,5,5
+DIAGNOSIS,অ্যাস্টিগম্যাটিজমসহ,5,5
+DIAGNOSIS,ইনফ্লুয়েঞ্জা-সদৃশ অসুখ,5,5
+DIAGNOSIS,কমিউনিটি-অ্যাকোয়ার্ড,5,5
+DIAGNOSIS,কৃমি সংক্রমণ,5,5
+DIAGNOSIS,খুশকি,5,5
+DIAGNOSIS,ঘামাচির,5,5
+DIAGNOSIS,চিকুনগুনিয়া জ্বর,5,5
+DIAGNOSIS,ডায়রিয়া-প্রধান,5,5
+DIAGNOSIS,ডিসলিপিডেমিয়া,5,5
+DIAGNOSIS,তীব্র টনসিলাইটিস,5,5
+DIAGNOSIS,দীর্ঘস্থায়ী সাইনুসাইটিস,5,5
+DIAGNOSIS,নিস্ট্যাগমাস,5,5
+DIAGNOSIS,পলিসিস্টিক ওভারি সিন্ড্রোম,5,5
+DIAGNOSIS,প্লাক টাইপ,5,5
+DIAGNOSIS,ফ্যাসিয়া,5,5
+DIAGNOSIS,ভিটিলিগো,5,5
+DIAGNOSIS,মাইক্রোসাইটিক হাইপোক্রোমিক অ্যানিমিয়া,5,5
+DIAGNOSIS,রক্তচাপ,5,5
+DIAGNOSIS,রিফ্র্যাক্টিভ এরর,5,5
+DIAGNOSIS,রেনাল কলিক,5,5
+DIAGNOSIS,লো ব্যাক পেইন,5,5
+DIAGNOSIS,শিংলস,5,5
+DIAGNOSIS,শ্বাসনালী,5,5
+DIAGNOSIS,সংক্রামক,5,5
+DIAGNOSIS,সর্দি-কাশি,5,5
+DIAGNOSIS,সোরিয়াসিস,5,5
+DIAGNOSIS,স্নায়ুর প্রদাহ,5,5
+DIAGNOSIS,Typhidot,4,4
+DIAGNOSIS,UTI),4,4
+DIAGNOSIS,annular plaque,4,4
+DIAGNOSIS,breathing,4,4
+DIAGNOSIS,hyperactive,4,4
+DIAGNOSIS,hyperactive bowel,4,4
+DIAGNOSIS,nail pitting,4,4
+DIAGNOSIS,tender,4,4
+DIAGNOSIS,vesicle,4,4
+DIAGNOSIS,xanthelasma,4,4
+DIAGNOSIS,অ্যাফথাস আলসার,4,4
+DIAGNOSIS,ইউরিক,4,4
+DIAGNOSIS,উচ্চ কোলেস্টেরল,4,4
+DIAGNOSIS,উদ্বেগজনিত ব্যাধি,4,4
+DIAGNOSIS,এন্টেরিক ফিভার),4,4
+DIAGNOSIS,ওটাইটিস মিডিয়া,4,4
+DIAGNOSIS,কন্ট্যাক্ট ডার্মাটাইটিস,4,4
+DIAGNOSIS,কোষ্ঠকাঠিন্য,4,4
+DIAGNOSIS,ক্যাটারাক্ট,4,4
+DIAGNOSIS,গ্যাস্ট্রো-ইসোফেজিয়াল রিফ্লাক্স,4,4
+DIAGNOSIS,গ্রীষ্মকালীন,4,4
+DIAGNOSIS,জল,4,4
+DIAGNOSIS,জল শূন্যতা,4,4
+DIAGNOSIS,জেনারালাইজড অ্যাংজাইটি,4,4
+DIAGNOSIS,টেনশন টাইপ,4,4
+DIAGNOSIS,ডায়াবেটিসের,4,4
+DIAGNOSIS,ডেন্টাল অ্যাবসেস,4,4
+DIAGNOSIS,তীব্র,4,4
+DIAGNOSIS,তীব্র ভাইরাল হেপাটাইটিস,4,4
+DIAGNOSIS,নিম্ন মূত্রনালীর সংক্রমণ,4,4
+DIAGNOSIS,ফ্র্যাকচার,4,4
+DIAGNOSIS,বেলস প্যালসি,4,4
+DIAGNOSIS,মোম,4,4
+DIAGNOSIS,যান্ত্রিক,4,4
+DIAGNOSIS,রেনাল স্টোন,4,4
+DIAGNOSIS,র্যাপিড ইনফ্লুয়েঞ্জা,4,4
+DIAGNOSIS,হাশিমোটো থাইরয়ডাইটিস,4,4
+DIAGNOSIS,হ্রস্বদৃষ্টি,4,4
+DIAGNOSIS,congestion,3,3
+DIAGNOSIS,staining,3,3
+DIAGNOSIS,turbinate congestion,3,3
+DIAGNOSIS,wheals,3,3
+DIAGNOSIS,অম্বল,3,3
+DIAGNOSIS,উচ্চ রক্তচাপের,3,3
+DIAGNOSIS,কৃমির,3,3
+DIAGNOSIS,কোয়াড্রিসেপস,3,3
+DIAGNOSIS,কোয়াড্রিসেপস পেশি,3,3
+DIAGNOSIS,ক্যাটারাক্ট),3,3
+DIAGNOSIS,খাদ্যজনিত ডায়রিয়া,3,3
+DIAGNOSIS,গ্যাস্ট্রো-ইসোফেজিয়াল,3,3
+DIAGNOSIS,জন্ডিস,3,3
+DIAGNOSIS,জন্ডিস),3,3
+DIAGNOSIS,টাইডট,3,3
+DIAGNOSIS,দাঁতের পোকা,3,3
+DIAGNOSIS,নিউমোনিয়া),3,3
+DIAGNOSIS,পাথর,3,3
+DIAGNOSIS,প্যালসি,3,3
+DIAGNOSIS,প্রদাহ,3,3
+DIAGNOSIS,প্রি-অরিকুলার,3,3
+DIAGNOSIS,ফুরানকল,3,3
+DIAGNOSIS,বাহ্যিক স্টাই,3,3
+DIAGNOSIS,মাঝারি বিষণ্নতা,3,3
+DIAGNOSIS,মানসিক চাপজনিত অনিদ্রা,3,3
+DIAGNOSIS,মাসিকের,3,3
+DIAGNOSIS,মুখের ঘা,3,3
+DIAGNOSIS,মেটাটারসোফ্যালানজিয়াল,3,3
+DIAGNOSIS,মেলিটাস,3,3
+DIAGNOSIS,ম্যালেরিয়া পরজীবী,3,3
+DIAGNOSIS,যান্ত্রিক কোমরব্যথা,3,3
+DIAGNOSIS,লাইকেনিফিকেশন,3,3
+DIAGNOSIS,সিরাম,3,3
+DIAGNOSIS,স্পন্ডিলোসিস,3,3
+DIAGNOSIS,হর্ডিওলাম,3,3
+DIAGNOSIS,হিরসুটিজম,3,3
+DIAGNOSIS,UTI,2,2
+DIAGNOSIS,boggy turbinate,2,2
+DIAGNOSIS,bronchial,2,2
+DIAGNOSIS,bronchial breathing,2,2
+DIAGNOSIS,neck,2,2
+DIAGNOSIS,pale,2,2
+DIAGNOSIS,pale boggy,2,2
+DIAGNOSIS,paraspinal,2,2
+DIAGNOSIS,pitting,2,2
+DIAGNOSIS,post-nasal,2,2
+DIAGNOSIS,punctate staining,2,2
+DIAGNOSIS,rose,2,2
+DIAGNOSIS,senile cataract,2,2
+DIAGNOSIS,অনিয়ন্ত্রিত ডায়াবেটিস মেলিটাস,2,2
+DIAGNOSIS,অ্যাবসেস,2,2
+DIAGNOSIS,অ্যাব্রেশন,2,2
+DIAGNOSIS,অ্যালার্জির,2,2
+DIAGNOSIS,আউরাসহ,2,2
+DIAGNOSIS,কলিক,2,2
+DIAGNOSIS,খাদ্য অ্যালার্জি,2,2
+DIAGNOSIS,খাদ্যজনিত অ্যাঞ্জিওইডিমা,2,2
+DIAGNOSIS,খোসপাঁচড়া,2,2
+DIAGNOSIS,গ্লুকোজ,2,2
+DIAGNOSIS,ঘাড়ের স্পন্ডিলোসিস,2,2
+DIAGNOSIS,চিকুনগুনিয়া IgM,2,2
+DIAGNOSIS,চোখের পাতার প্রদাহ,2,2
+DIAGNOSIS,জোস্টার,2,2
+DIAGNOSIS,জ্বরে,2,2
+DIAGNOSIS,ঠান্ডা,2,2
+DIAGNOSIS,ডায়রিয়া,2,2
+DIAGNOSIS,ডিজিটাল আই স্ট্রেন,2,2
+DIAGNOSIS,তীব্র অ্যালার্জিক,2,2
+DIAGNOSIS,দাঁতের,2,2
+DIAGNOSIS,দীর্ঘস্থায়ী,2,2
+DIAGNOSIS,নন-সেগমেন্টাল ভিটিলিগো,2,2
+DIAGNOSIS,পরিণত ছানি,2,2
+DIAGNOSIS,প্লান্টার ফ্যাসিয়া,2,2
+DIAGNOSIS,ফুসফুসে crepitation,2,2
+DIAGNOSIS,ফ্যাসাইটিস,2,2
+DIAGNOSIS,ফ্রোজেন,2,2
+DIAGNOSIS,বেলস,2,2
+DIAGNOSIS,মানসিক চাপজনিত,2,2
+DIAGNOSIS,মার্মার,2,2
+DIAGNOSIS,ম্যালেরিয়া,2,2
+DIAGNOSIS,শকের,2,2
+DIAGNOSIS,সর্দির,2,2
+DIAGNOSIS,হাঁটুর অস্টিওআর্থ্রাইটিস,2,2
+DIAGNOSIS,হাঁপানি),2,2
+DIAGNOSIS,ILI),1,1
+DIAGNOSIS,Little's,1,1
+DIAGNOSIS,NSAID,1,1
+DIAGNOSIS,PCOS),1,1
+DIAGNOSIS,bowel,1,1
+DIAGNOSIS,burrow,1,1
+DIAGNOSIS,hyperactive bowel sound,1,1
+DIAGNOSIS,laryngitis),1,1
+DIAGNOSIS,mild,1,1
+DIAGNOSIS,mild dehydration,1,1
+DIAGNOSIS,neck stiffness,1,1
+DIAGNOSIS,pylori,1,1
+DIAGNOSIS,ureteric,1,1
+DIAGNOSIS,অনিদ্রা,1,1
+DIAGNOSIS,অসুখের,1,1
+DIAGNOSIS,অ্যালার্জি স্কিন,1,1
+DIAGNOSIS,ইওসিনোফিল,1,1
+DIAGNOSIS,ইনফ্লুয়েঞ্জা-সদৃশ,1,1
+DIAGNOSIS,ইমপেটিগো),1,1
+DIAGNOSIS,ইম্পিড্যান্স অডিওমেট্রি,1,1
+DIAGNOSIS,উচ্চ কোলেস্টেরল),1,1
+DIAGNOSIS,উচ্চ ক্যালরিযুক্ত,1,1
+DIAGNOSIS,উদ্বেগ,1,1
+DIAGNOSIS,এন্টেরোবিয়াসিস),1,1
+DIAGNOSIS,এভাপোরেটিভ ড্রাই আই,1,1
+DIAGNOSIS,গর্ভকালীন ডায়াবেটিস,1,1
+DIAGNOSIS,গর্ভাবস্থা,1,1
+DIAGNOSIS,গ্রন্থির,1,1
+DIAGNOSIS,চোখের,1,1
+DIAGNOSIS,চোখের কনজাংটিভা,1,1
+DIAGNOSIS,ছত্রাক সংক্রমণ,1,1
+DIAGNOSIS,টাইপ-২ ডায়াবেটিস মেলিটাস,1,1
+DIAGNOSIS,টাক্রোলিমাস,1,1
+DIAGNOSIS,টেনশন,1,1
+DIAGNOSIS,টেনশন টাইপ মাথাব্যথা,1,1
+DIAGNOSIS,ঠান্ডা লাগা,1,1
+DIAGNOSIS,ত্বকের অ্যাবসেস),1,1
+DIAGNOSIS,দীর্ঘস্থায়ী কোষ্ঠকাঠিন্য,1,1
+DIAGNOSIS,দ্বিতীয়,1,1
+DIAGNOSIS,ধুলো,1,1
+DIAGNOSIS,নার্ভ প্যালসি,1,1
+DIAGNOSIS,নিকেল,1,1
+DIAGNOSIS,পক্ষাঘাত,1,1
+DIAGNOSIS,ফুসফুসে,1,1
+DIAGNOSIS,বিনাইন প্যারক্সিসমাল,1,1
+DIAGNOSIS,বিনাইন প্যারক্সিসমাল পজিশনাল ভার্টিগো,1,1
+DIAGNOSIS,ব্যথা,1,1
+DIAGNOSIS,ব্যাক,1,1
+DIAGNOSIS,ভাইটাল,1,1
+DIAGNOSIS,ভার্টিগো,1,1
+DIAGNOSIS,মধ্যম,1,1
+DIAGNOSIS,মিলিয়ারিয়া,1,1
+DIAGNOSIS,মূত্রনালীর পাথর,1,1
+DIAGNOSIS,মৃদু ও,1,1
+DIAGNOSIS,মেইবোমিয়ান,1,1
+DIAGNOSIS,মেইবোমিয়ান গ্রন্থির,1,1
+DIAGNOSIS,মেমব্রেন,1,1
+DIAGNOSIS,যোনিপথের,1,1
+DIAGNOSIS,রিবাউন্ড টেন্ডারনেস,1,1
+DIAGNOSIS,রোগ,1,1
+DIAGNOSIS,শিশুর,1,1
+DIAGNOSIS,শিশুর কানের সংক্রমণ,1,1
+DIAGNOSIS,সর্দি,1,1
+DIAGNOSIS,সেনসিটিভিটি,1,1
+DIAGNOSIS,স্ক্যাবিস),1,1
+DIAGNOSIS,স্থিতিশীল অ্যাঞ্জাইনা,1,1
+DIAGNOSIS,হারপিস,1,1
+DIAGNOSIS,হেপাটাইটিস,1,1
+DOSAGE,দিনে ২ বার,314,278
+DOSAGE,দিনে ৩ বার,158,158
+DOSAGE,দিনে ৪ বার,156,106
+DOSAGE,১০ মি.গ্রা. রাতে ১টি,146,146
+DOSAGE,দিনে ১টি,137,137
+DOSAGE,দিনে ৩-৪ বার,124,124
+DOSAGE,৫০০ মি.গ্রা. প্রয়োজনে,112,112
+DOSAGE,৫০০,91,91
+DOSAGE,একবার,90,90
+DOSAGE,রাতে,84,84
+DOSAGE,রাতে ১টি,80,80
+DOSAGE,৫০০ মি.গ্রা,79,79
+DOSAGE,ওজন অনুযায়ী,74,74
+DOSAGE,প্রয়োজনে,70,70
+DOSAGE,৪০ মি.গ্রা. সকালে,61,61
+DOSAGE,খাবারের পর,59,59
+DOSAGE,১%,57,57
+DOSAGE,রাতে বয়স,52,52
+DOSAGE,৫ মি.গ্রা. রাতে ১টি,52,52
+DOSAGE,ওজন অনুযায়ী দিনে ৩ বার,49,49
+DOSAGE,পর,49,49
+DOSAGE,১২০ মি.গ্রা. দিনে ১টি,47,47
+DOSAGE,১০,46,46
+DOSAGE,দিনে ২-৩ বার,44,44
+DOSAGE,৫০০ মি.গ্রা. দিনে ১টি,39,39
+DOSAGE,৫০০ মি.গ্রা. দিনে ২ বার,39,39
+DOSAGE,৫০০ মি.গ্রা. দিনে ৩ বার,38,38
+DOSAGE,বার,37,37
+DOSAGE,সকালে,36,36
+DOSAGE,১০ মি.লি. দিনে ৩ বার,35,35
+DOSAGE,৮০০ মি.গ্রা. দিনে ৫ বার,34,34
+DOSAGE,২০,33,33
+DOSAGE,দিনে ৩ লিটার,31,31
+DOSAGE,৫০০ মি.গ্রা. প্রয়োজনে দিনে ৩ বার,30,30
+DOSAGE,২০০ মি.গ্রা. দিনে ২ বার,29,29
+DOSAGE,৫০ মি.গ্রা. দিনে ২ বার,29,29
+DOSAGE,৭৫,29,29
+DOSAGE,দিনে ১টি খাবারের পর,27,27
+DOSAGE,২-৩ ফোঁটা দিনে ২ বার,27,27
+DOSAGE,১০ মি.গ্রা. সকালে ১টি,24,24
+DOSAGE,৫%,24,24
+DOSAGE,দিনে ৫ বার,23,23
+DOSAGE,২%,23,23
+DOSAGE,২০ মি.গ্রা. সকালে,23,23
+DOSAGE,৮০০,23,23
+DOSAGE,জ্বরে,22,22
+DOSAGE,দিনে ৪-৫ বার,22,22
+DOSAGE,৪০ মি.গ্রা. সকালে খালি পেটে ১টি,22,22
+DOSAGE,৪০০,22,21
+DOSAGE,৫০০ মি.গ্রা. দিনে ২ বার খাবারের পর,22,22
+DOSAGE,৫০০ মি.গ্রা. ব্যথায়,21,21
+DOSAGE,দিনে ১ বার,20,20
+DOSAGE,৫০ মি.গ্রা. দিনে ১টি,20,20
+DOSAGE,৫০০ মি.গ্রা. দিনে ৪ বার,20,20
+DOSAGE,লবণ দিয়ে গার্গল,19,19
+DOSAGE,দিনে,18,18
+DOSAGE,নাকের ভেতরে দিনে ২ বার,18,18
+DOSAGE,১ গ্রাম দিনে ২ বার,18,18
+DOSAGE,ওজন অনুযায়ী প্রয়োজনে,17,17
+DOSAGE,চুলকানির স্থানে,17,17
+DOSAGE,প্রতি ৩-৪ ঘণ্টা,17,17
+DOSAGE,২০ মি.গ্রা. খালি পেটে দিনে ১টি,17,17
+DOSAGE,প্রতি নাকে ২ বার করে দিনে ১ বার,16,16
+DOSAGE,৭৫ মি.গ্রা. রাতে ১টি,16,16
+DOSAGE,কুসুম গরম জল,15,15
+DOSAGE,প্রতিটি পাতলা পায়খানার পর বয়স অনুযায়ী,15,15
+DOSAGE,রাতে খাবারের পর ১টি,15,15
+DOSAGE,২৫,15,15
+DOSAGE,৫ মি.গ্রা. দিনে ১টি,15,15
+DOSAGE,চুলকানির,14,14
+DOSAGE,প্রতি ৬,14,14
+DOSAGE,১০০ মাইক্রোগ্রাম প্রয়োজনে ২ পাফ,14,14
+DOSAGE,৬০ মি.গ্রা. সকালে,14,14
+DOSAGE,অল্প,13,13
+DOSAGE,আক্রান্ত স্থানে দিনে ৩ বার,13,13
+DOSAGE,প্রতি,13,13
+DOSAGE,১০০ মি.গ্রা. দিনে ১টি,13,13
+DOSAGE,১০০ মি.গ্রা. শিরায়,13,13
+DOSAGE,২৫ মি.গ্রা. দিনে ২ বার,13,13
+DOSAGE,৭৫ মাইক্রোগ্রাম সকালে খালি পেটে ১টি,13,13
+DOSAGE,কাপ,12,12
+DOSAGE,মলম,12,12
+DOSAGE,স্থানে,12,12
+DOSAGE,১০ মি.গ্রা. রাতে ১টি ৩-৫,12,12
+DOSAGE,২.৫% জেল রাতে,12,12
+DOSAGE,৪০০ মি.গ্রা. একবার,12,12
+DOSAGE,৫০০ মি.গ্রা. জ্বরে,12,12
+DOSAGE,৫০০ মি.গ্রা. ব্যথায় প্রয়োজনে,12,12
+DOSAGE,গলা থেকে পা পর্যন্ত রাতে,11,11
+DOSAGE,ঘামে,11,11
+DOSAGE,ঘায়ে দিনে ৩ বার,11,11
+DOSAGE,দিনে ৪টির,11,11
+DOSAGE,রাতে দিনে ২ বার,11,11
+DOSAGE,সপ্তাহে ২-৩ বার,11,11
+DOSAGE,১টি একবার,11,11
+DOSAGE,১৬ মি.গ্রা. দিনে ৩ বার,11,11
+DOSAGE,২.৫-৩ লিটার,11,11
+DOSAGE,৪০,11,11
+DOSAGE,৭৫ মি.গ্রা. দিনে ১টি খাবারের পর,11,11
+DOSAGE,ঘন ঘন অল্প অল্প,10,10
+DOSAGE,জন্য,10,10
+DOSAGE,দিনে ২ বার খাবারের পর,10,10
+DOSAGE,দিনে ২ বার খাবারের ৩০ মিনিট আগে,10,10
+DOSAGE,দিনে ২ বার ১ পাফ,10,10
+DOSAGE,ব্যথার স্থানে দিনে ৩ বার,10,10
+DOSAGE,১ গ্রাম দিনে ১ বার শিরায়,10,10
+DOSAGE,১টি আয়রনের,10,10
+DOSAGE,১০০ মি.গ্রা. দিনে ২ বার,10,10
+DOSAGE,১০০ মি.গ্রা. দিনে ৩ বার,10,10
+DOSAGE,৩০ মি.গ্রা. সকালে,10,10
+DOSAGE,৪ মি.গ্রা,10,10
+DOSAGE,৫ মি.গ্রা. সকালে ১টি,10,10
+DOSAGE,৮ মি.গ্রা,10,10
+DOSAGE,অন্তর,9,9
+DOSAGE,অল্প অল্প করে চামচে,9,9
+DOSAGE,আক্রান্ত স্থানে দিনে ১ বার,9,9
+DOSAGE,কানের,9,9
+DOSAGE,পরপর,9,9
+DOSAGE,প্রতিটি পাতলা পায়খানার পর ১ গ্লাস,9,9
+DOSAGE,১% ক্রিম,9,9
+DOSAGE,৪ লিটার/মিনিট,9,9
+DOSAGE,৪০ মি.গ্রা. সকালে ১টি,9,9
+DOSAGE,৫০০ মি.গ্রা. প্রয়োজনে প্রতি ৬ ঘণ্টায়,9,9
+DOSAGE,৫০০ মি.গ্রা. রাতে ১টি,9,9
+DOSAGE,অনুযায়ী,8,8
+DOSAGE,আক্রান্ত স্থানে,8,8
+DOSAGE,ওজন,8,8
+DOSAGE,ওজন অনুযায়ী ৬ ঘণ্টা পরপর শিরায়,8,8
+DOSAGE,খাবারের আগে দিনে ৩ বার,8,8
+DOSAGE,খাবারের ১ ঘণ্টা পর প্রয়োজনে,8,8
+DOSAGE,চিবানো,8,8
+DOSAGE,দিনে ৪-৬ বার,8,8
+DOSAGE,দিনে ৫ গ্রামের কম,8,8
+DOSAGE,পাতলা করে,8,8
+DOSAGE,ব্যথা,8,8
+DOSAGE,সকালে নাস্তার আগে,8,8
+DOSAGE,স্নানের পর,8,8
+DOSAGE,০.১%,8,8
+DOSAGE,১০-১৪,8,8
+DOSAGE,১০০০ মি.গ্রা. দিনে ২ বার,8,8
+DOSAGE,১৩৫ মি.গ্রা. খাবারের ২০ মিনিট আগে দিনে ২-৩ বার,8,8
+DOSAGE,১৫ মি.লি. রাতে,8,8
+DOSAGE,২ পাফ,8,8
+DOSAGE,২৫০ মি.গ্রা. ট্যাবলেট,8,8
+DOSAGE,৫০,8,8
+DOSAGE,ওজন অনুযায়ী জ্বরে প্রয়োজনে,7,7
+DOSAGE,ওজন অনুযায়ী দিনে ২ বার,7,7
+DOSAGE,কুসুম গরম,7,7
+DOSAGE,পাতলা করে দিনে ২ বার,7,7
+DOSAGE,প্রতিটি পাতলা পায়খানার পর,7,7
+DOSAGE,প্রয়োজনে ২ পাফ,7,7
+DOSAGE,শরীরে,7,7
+DOSAGE,শিরায় তরল প্রয়োজনে,7,7
+DOSAGE,১.২ গ্রাম ৮ ঘণ্টা পরপর শিরায়,7,7
+DOSAGE,১২ মি.গ্রা. ট্যাবলেট,7,7
+DOSAGE,২ মি.লি. পেশিতে,7,7
+DOSAGE,২০ মি.গ্রা. সকালে খালি পেটে ১টি,7,7
+DOSAGE,৪০ মি.গ্রা. রাতে ১টি,7,7
+DOSAGE,৪০০ মি.গ্রা,7,7
+DOSAGE,৫০০ মি.গ্রা. একবার রাতে,7,7
+DOSAGE,৬০,7,7
+DOSAGE,ওজন অনুযায়ী জ্বরে প্রয়োজনে ৬ ঘণ্টা পরপর,6,6
+DOSAGE,ঘামে ভেজা স্থানে,6,6
+DOSAGE,চুষে,6,6
+DOSAGE,জ্বরে ওজন অনুযায়ী,6,6
+DOSAGE,দিনে একবার,6,6
+DOSAGE,নেবুলাইজেশন,6,6
+DOSAGE,পেশিতে,6,6
+DOSAGE,মাথার ত্বকে রাতে,6,6
+DOSAGE,সময়ে খালি পেটে,6,6
+DOSAGE,১০ মি.গ্রা. খাবারের আগে দিনে ৩ বার,6,6
+DOSAGE,১২০,6,6
+DOSAGE,১৫০ মি.গ্রা. একবার,6,6
+DOSAGE,২ বার,6,6
+DOSAGE,২ মি.গ্রা,6,6
+DOSAGE,৪০০ মি.গ্রা. দিনে ৩ বার,6,6
+DOSAGE,৪০০ মি.গ্রা. প্রয়োজনে,6,6
+DOSAGE,৭৫ মি.গ্রা. দিনে ২ বার,6,6
+DOSAGE,কুসুম গরম জলে,5,5
+DOSAGE,খাবারের আগে,5,5
+DOSAGE,গরম,5,5
+DOSAGE,দিনে ২ বার খাবারের আগে,5,5
+DOSAGE,দিনে ৩-৪ লিটার,5,5
+DOSAGE,লবণ দিয়ে,5,5
+DOSAGE,সকালে ১টি,5,5
+DOSAGE,সপ্তাহে ১টি,5,5
+DOSAGE,সারা শরীরে,5,5
+DOSAGE,১ গ্রাম ইনফিউশন প্রয়োজনে,5,5
+DOSAGE,১ চা-চামচ রাতে,5,5
+DOSAGE,১% জেল,5,5
+DOSAGE,২০ মি.গ্রা. সকালে খালি পেটে,5,5
+DOSAGE,৪/৫ মি.গ্রা.) রাতে ১টি,5,5
+DOSAGE,৪৫,5,5
+DOSAGE,৫০০ মি.গ্রা. জ্বরে প্রয়োজনে,5,5
+DOSAGE,৬০ মি.গ্রা. দিনে ১টি,5,5
+DOSAGE,অটো-ইনজেক্টর,4,4
+DOSAGE,ওজন অনুযায়ী জ্বরে,4,4
+DOSAGE,খাবারের ২০ মিনিট আগে দিনে ২-৩ বার,4,4
+DOSAGE,ঘষে,4,4
+DOSAGE,দিনে ২ বার ১ পাফ করে,4,4
+DOSAGE,দিনে ৩,4,4
+DOSAGE,প্রতিদিন,4,4
+DOSAGE,প্রয়োজনে ৬ ঘণ্টা পরপর,4,4
+DOSAGE,মিনিট,4,4
+DOSAGE,রোজ একই সময়ে খালি পেটে,4,4
+DOSAGE,লবণ,4,4
+DOSAGE,১ গ্রাম ইনফিউশন,4,4
+DOSAGE,১% ভ্যাজাইনাল,4,4
+DOSAGE,১০ মি.গ্রা,4,4
+DOSAGE,১০০,4,4
+DOSAGE,১২ মি.গ্রা,4,4
+DOSAGE,১৩৫,4,4
+DOSAGE,২% শ্যাম্পু,4,4
+DOSAGE,২০ মি.গ্রা. দিনে ২ বার খাবারের ৩০ মিনিট আগে,4,4
+DOSAGE,৩০,4,4
+DOSAGE,৪ মি.গ্রা. দিনে ২ বার,4,4
+DOSAGE,৫ গ্রামের কম,4,4
+DOSAGE,৫০ মাইক্রোগ্রাম সকালে খালি পেটে ১টি,4,4
+DOSAGE,৫০০ মি.গ্রা. প্রয়োজনে দিনে ২ বার,4,4
+DOSAGE,একই সময়ে খালি পেটে,3,3
+DOSAGE,ঘণ্টা পরপর,3,3
+DOSAGE,ঘন ঘন,3,3
+DOSAGE,ঘন ঘন অল্প অল্প করে,3,3
+DOSAGE,চারপাশে দিনে ২ বার,3,3
+DOSAGE,চুলকানিতে,3,3
+DOSAGE,জ্বরে প্রয়োজনে,3,3
+DOSAGE,প্রয়োজনমতো,3,3
+DOSAGE,প্রয়োজনে দিনে ২ বার,3,3
+DOSAGE,প্রয়োজনে প্রতি ৬ ঘণ্টায়,3,3
+DOSAGE,ফুট দূরে,3,3
+DOSAGE,মি.গ্রা,3,3
+DOSAGE,মিনিট আগে,3,3
+DOSAGE,রাতে ১টি ৩-৫,3,3
+DOSAGE,রোজ,3,3
+DOSAGE,সকালে খালি পেটে ১টি,3,3
+DOSAGE,১ চা-চামচ রাতে কুসুম গরম জলে,3,3
+DOSAGE,১০০ মি.গ্রা,3,3
+DOSAGE,১০০ মি.গ্রা. ক্যাপসুল,3,3
+DOSAGE,১২০ মি.গ্রা. রাতে ১টি,3,3
+DOSAGE,১৫০,3,3
+DOSAGE,২০ মি.গ্রা. দিনে ১টি,3,3
+DOSAGE,২০ মি.গ্রা. দিনে ২ বার,3,3
+DOSAGE,২০ মি.গ্রা. দিনে ২ বার খাবারের আগে,3,3
+DOSAGE,৪০০ মি.গ্রা. ব্যথায়,3,3
+DOSAGE,একবার রাতে,2,2
+DOSAGE,ওজন অনুযায়ী জ্বরে প্রয়োজনে ৬,2,2
+DOSAGE,ওজন অনুযায়ী ৫-৭,2,2
+DOSAGE,গ্রাম ৮ ঘণ্টা পরপর শিরায়,2,2
+DOSAGE,দিনে ১টি ১,2,2
+DOSAGE,দিনে ২,2,2
+DOSAGE,দিনে ২ বার খাবারের,2,2
+DOSAGE,প্রয়োজনে দিনে ৩ বার,2,2
+DOSAGE,মাত্রায় প্রতি,2,2
+DOSAGE,মি.গ্রা. সকালে ১টি,2,2
+DOSAGE,মৃদু ঘষে,2,2
+DOSAGE,লিটার,2,2
+DOSAGE,স্নানের পর সঙ্গে সঙ্গে,2,2
+DOSAGE,০.৪ মি.গ্রা. রাতে ১টি,2,2
+DOSAGE,১০ মি.গ্রা. ব্যথায়,2,2
+DOSAGE,১০ মি.গ্রা. ব্যথায় প্রয়োজনে,2,2
+DOSAGE,১২.৫ মি.গ্রা. সকালে ১টি,2,2
+DOSAGE,১৬,2,2
+DOSAGE,২% মলম,2,2
+DOSAGE,২০ মি.গ্রা. দিনে ২ বার খাবারের,2,2
+DOSAGE,৫০ মি.গ্রা,2,2
+DOSAGE,৫০০ মি.গ্রা. প্রয়োজনে প্রতি ৬,2,2
+DOSAGE,৫০০ মি.গ্রা. প্রয়োজনে ৬ ঘণ্টা পরপর,2,2
+DOSAGE,৯০,2,2
+DOSAGE,অল্প অল্প,1,1
+DOSAGE,আঁশের,1,1
+DOSAGE,আক্রান্ত স্থানে ও চারপাশে দিনে ২ বার,1,1
+DOSAGE,ওরাল,1,1
+DOSAGE,গরম জলে,1,1
+DOSAGE,গার্গল,1,1
+DOSAGE,ঘণ্টা,1,1
+DOSAGE,ঘায়ে,1,1
+DOSAGE,দিনে ১টি ৩,1,1
+DOSAGE,ধুয়ে,1,1
+DOSAGE,পরিমাণে,1,1
+DOSAGE,পুরো,1,1
+DOSAGE,প্রতি ৩-৪,1,1
+DOSAGE,প্রতি ৬ ঘণ্টা অন্তর,1,1
+DOSAGE,প্রতিদিন কমপক্ষে,1,1
+DOSAGE,বেশি পরিমাণে,1,1
+DOSAGE,ব্যথায়,1,1
+DOSAGE,ব্যথায় প্রয়োজনে,1,1
+DOSAGE,ব্যবধান,1,1
+DOSAGE,মলম আঁশের,1,1
+DOSAGE,মি.গ্রা. রাতে ১টি,1,1
+DOSAGE,মি.গ্রা.) রাতে ১টি,1,1
+DOSAGE,মিনিট আগে দিনে ২-৩ বার,1,1
+DOSAGE,মিনিট করে,1,1
+DOSAGE,লাল,1,1
+DOSAGE,সপ্তাহে,1,1
+DOSAGE,সপ্তাহে ৩,1,1
+DOSAGE,সেকেন্ড,1,1
+DOSAGE,স্নানের পর সঙ্গে,1,1
+DOSAGE,০.৩%,1,1
+DOSAGE,০.৫%,1,1
+DOSAGE,১০০০,1,1
+DOSAGE,১৩৫ মি.গ্রা. খাবারের,1,1
+DOSAGE,২% পাউডার,1,1
+DOSAGE,২-৩ বার,1,1
+DOSAGE,২.৫% জেল,1,1
+DOSAGE,২০ ফুট দূরে,1,1
+DOSAGE,২০ মি.গ্রা,1,1
+DOSAGE,২০ সেকেন্ড,1,1
+DOSAGE,২০০,1,1
+DOSAGE,২৫০ মি.গ্রা,1,1
+DOSAGE,৩ দিন,1,1
+DOSAGE,৩% মলম,1,1
+DOSAGE,৩-৪,1,1
+DOSAGE,৩-৪ বার,1,1
+DOSAGE,৩-৪ লিটার,1,1
+DOSAGE,৩০ মিনিট আগে,1,1
+DOSAGE,৩০),1,1
+DOSAGE,৪ বার,1,1
+DOSAGE,৪/৫ মি.গ্রা,1,1
+DOSAGE,৫ গ্রামের,1,1
+DOSAGE,৫০),1,1
+DOSAGE,৫০০ মি.গ্রা. দিনে,1,1
+DOSAGE,৬০ মি.গ্রা,1,1
+DOSAGE,৯০ মি.গ্রা. দিনে ১টি,1,1
+MEDICATION,প্যারাসিটামল,400,400
+MEDICATION,সিটিরিজিন,192,192
+MEDICATION,পেনিসিলিন,125,125
+MEDICATION,ওআরএস,112,103
+MEDICATION,অ্যামোক্সিসিলিন,106,106
+MEDICATION,ক্যালামাইন লোশন,97,97
+MEDICATION,আই ড্রপ,95,69
+MEDICATION,অ্যাসপিরিন,77,77
+MEDICATION,ডাইক্লোফেনাক,76,76
+MEDICATION,প্যান্টোপ্রাজল,76,76
+MEDICATION,ইবুপ্রোফেন,72,72
+MEDICATION,লুব্রিকেন্ট আই ড্রপ,64,64
+MEDICATION,প্রেডনিসোলোন,61,61
+MEDICATION,অ্যাসাইক্লোভির,57,57
+MEDICATION,আয়রন,55,55
+MEDICATION,ফলিক অ্যাসিড,53,53
+MEDICATION,ফেক্সোফেনাডিন,50,50
+MEDICATION,জিঙ্ক,48,48
+MEDICATION,ডমপেরিডোন,48,48
+MEDICATION,প্যারাসিটামল সিরাপ,45,45
+MEDICATION,ডাইক্লোফেনাক জেল,44,44
+MEDICATION,মেটফর্মিন,43,43
+MEDICATION,মন্টেলুকাস্ট,41,41
+MEDICATION,অ্যাজিথ্রোমাইসিন,39,39
+MEDICATION,ক্যালসিয়াম,38,38
+MEDICATION,মক্সিফ্লক্সাসিন,38,38
+MEDICATION,অ্যাটরভাস্টাটিন,35,35
+MEDICATION,ময়েশ্চারাইজার,35,32
+MEDICATION,ট্যামসুলোসিন,34,34
+MEDICATION,স্যালাইন নাসাল ড্রপ,34,34
+MEDICATION,নাকের স্যালাইন ড্রপ,32,32
+MEDICATION,ওমিপ্রাজল,31,31
+MEDICATION,ভিটামিন ডি৩,31,31
+MEDICATION,স্যালাইন নাসাল স্প্রে,31,31
+MEDICATION,সেফিক্সিম,30,30
+MEDICATION,epigastrium,29,29
+MEDICATION,প্রেগাবালিন,29,29
+MEDICATION,মেটোপ্রোলল,29,29
+MEDICATION,ইটোরিকক্সিব,28,28
+MEDICATION,ক্ল্যারিথ্রোমাইসিন,27,27
+MEDICATION,ক্লাভুলানিক অ্যাসিড,25,25
+MEDICATION,লেভোসিটিরিজিন,25,25
+MEDICATION,হাইড্রোকর্টিসোন,25,25
+MEDICATION,পারমেথ্রিন,24,24
+MEDICATION,সেফুরক্সিম,24,24
+MEDICATION,সেফালেক্সিন,23,23
+MEDICATION,অ্যালবেন্ডাজল,22,22
+MEDICATION,ইনজেকশন,22,22
+MEDICATION,এসসিটালোপ্রাম,22,22
+MEDICATION,ওনডানসেট্রন,22,22
+MEDICATION,ন্যাপ্রক্সেন,22,22
+MEDICATION,লজেঞ্জ,22,22
+MEDICATION,WHO,21,21
+MEDICATION,অ্যামলোডিপিন,21,21
+MEDICATION,ক্লোরহেক্সিডিন মাউথওয়াশ,21,21
+MEDICATION,প্রোবায়োটিক,21,21
+MEDICATION,সিলিকন হিল,21,21
+MEDICATION,ইমোলিয়েন্ট ক্রিম,20,20
+MEDICATION,H. pylori,19,18
+MEDICATION,সাইক্লোপেন্টোলেট,19,19
+MEDICATION,অ্যাজিথ্রোমাইসিন আই ড্রপ,18,18
+MEDICATION,কৃত্রিম অশ্রু আই ড্রপ,18,18
+MEDICATION,ক্লোট্রিমাজোল,18,18
+MEDICATION,ট্রেটিনোইন,18,18
+MEDICATION,প্যারাসিটামল ইনফিউশন,18,18
+MEDICATION,মুপিরোসিন মলম,18,18
+MEDICATION,সেরুমেন সফটনার কানের ড্রপ,18,18
+MEDICATION,হাইড্রোকুইনোন,18,18
+MEDICATION,কমেডোন,17,17
+MEDICATION,গ্লিসারিল ট্রাইনাইট্রেট,17,17
+MEDICATION,ট্রানেক্সামিক অ্যাসিড,17,17
+MEDICATION,লেভোথাইরক্সিন,17,17
+MEDICATION,সুক্রালফেট সাসপেনশন,17,17
+MEDICATION,NSAID,16,16
+MEDICATION,ক্যালামাইন,16,16
+MEDICATION,বিলাস্টিন,16,16
+MEDICATION,মোমেটাসোন নাসাল স্প্রে,16,16
+MEDICATION,সালবিউটামল,16,16
+MEDICATION,কটন বাড্স,15,15
+MEDICATION,ক্যালসিয়ামের,15,15
+MEDICATION,ফিনাস্টেরাইড,15,15
+MEDICATION,ফ্লুটিকাসোন নাসাল স্প্রে,15,15
+MEDICATION,বুডেসোনাইড ইনহেলার স্পেসারসহ,15,15
+MEDICATION,ভিটামিন বি১২,15,15
+MEDICATION,ভিটামিন সি সিরাম,15,15
+MEDICATION,সালবিউটামল ইনহেলার স্পেসারসহ,15,15
+MEDICATION,আই অয়েন্টমেন্ট,14,14
+MEDICATION,ইসবগুলের ভুসি,14,14
+MEDICATION,ক্রিম,14,14
+MEDICATION,নাসাল স্প্রে,14,14
+MEDICATION,ফরমোটেরল ইনহেলার,14,14
+MEDICATION,বুডেসোনাইড,14,14
+MEDICATION,মোমেটাসোন,14,14
+MEDICATION,সানস্ক্রিন,14,14
+MEDICATION,সালবিউটামল ইনহেলার,14,14
+MEDICATION,papillae,13,13
+MEDICATION,আয়রনের,13,13
+MEDICATION,কলচিসিন,13,13
+MEDICATION,জাইলোমেটাজোলিন নাসাল ড্রপ,13,13
+MEDICATION,ডক্সিসাইক্লিন,13,13
+MEDICATION,ফেনিরামিন ইনজেকশন,13,13
+MEDICATION,বেটাহিস্টিন,13,13
+MEDICATION,বেনজয়েল পারঅক্সাইড,13,13
+MEDICATION,মিবেভেরিন,13,13
+MEDICATION,মুপিরোসিন,13,13
+MEDICATION,রেসেকাডোট্রিল,13,13
+MEDICATION,হাইড্রোকর্টিসোন ইনজেকশন,13,13
+MEDICATION,leukotrichia,12,12
+MEDICATION,কিটোকোনাজল,12,12
+MEDICATION,কিটোটিফেন,12,12
+MEDICATION,থাইরয়েড,12,12
+MEDICATION,মেইবোমিয়ান,12,12
+MEDICATION,লোসারটান,12,12
+MEDICATION,হালকা স্টেরয়েড লোশন,12,12
+MEDICATION,অক্সালেটযুক্ত,11,11
+MEDICATION,আইভারমেক্টিন,11,11
+MEDICATION,কনজাংটিভা,11,11
+MEDICATION,ক্রেপ ব্যান্ডেজ,11,11
+MEDICATION,ক্লোরামফেনিকল আই ড্রপ,11,11
+MEDICATION,টিটেনাস টক্সয়েড,11,11
+MEDICATION,ট্রায়ামসিনোলোন ওরাল পেস্ট,11,11
+MEDICATION,নাইট্রোফুরান্টোইন,11,11
+MEDICATION,পালংশাক,11,11
+MEDICATION,পোভিডোন আয়োডিন,11,11
+MEDICATION,ব্রোমহেক্সিন,11,11
+MEDICATION,মধু-আদা-তুলসী,11,11
+MEDICATION,pustule,10,10
+MEDICATION,ইনহেলার,10,10
+MEDICATION,ইমোলিয়েন্ট লোশন,10,10
+MEDICATION,ওমেগা-৩,10,10
+MEDICATION,কনড্রয়েটিন সালফেট,10,10
+MEDICATION,গ্লিমিপিরাইড,10,10
+MEDICATION,গ্লুকোসামিন,10,10
+MEDICATION,টিম্পানিক,10,10
+MEDICATION,ডিটারজেন্ট,10,10
+MEDICATION,ড্রপ,10,10
+MEDICATION,নাসোলাবিয়াল,10,10
+MEDICATION,প্লান্টার ফ্যাসিয়া,10,10
+MEDICATION,হাইড্রোকর্টিসোন ১%,10,10
+MEDICATION,অফলক্সাসিন,9,9
+MEDICATION,ইথিনাইলএস্ট্রাডিয়ল,9,9
+MEDICATION,ক্লক্সাসিলিন,9,9
+MEDICATION,টিনিডাজল,9,9
+MEDICATION,টেরবিনাফিন,9,9
+MEDICATION,টেলমিসারটান,9,9
+MEDICATION,ডাইসাইক্লোমিন,9,9
+MEDICATION,ডাপাগ্লিফ্লোজিন,9,9
+MEDICATION,ফেরাস ফিউমারেট,9,9
+MEDICATION,ফ্লুকোনাজল,9,9
+MEDICATION,বি-কমপ্লেক্স,9,9
+MEDICATION,ভিটামিন সি ট্যাবলেট,9,9
+MEDICATION,মৃদু শ্যাম্পু,9,9
+MEDICATION,মেট্রোনিডাজল,9,9
+MEDICATION,লুলিকোনাজল,9,9
+MEDICATION,সাইপ্রোটেরন অ্যাসিটেট,9,9
+MEDICATION,সিটাগ্লিপটিন,9,9
+MEDICATION,অশ্রু আই ড্রপ,8,8
+MEDICATION,অ্যান্টাসিড জেল,8,8
+MEDICATION,অ্যান্টিবায়োটিক আই ড্রপ,8,8
+MEDICATION,অ্যামোক্সিসিলিন সিরাপ,8,8
+MEDICATION,অ্যাম্ব্রোক্সল,8,8
+MEDICATION,ওসেলটামিভির,8,8
+MEDICATION,কাঠি/কটন বাড্স,8,8
+MEDICATION,কার্বক্সিমিথাইলসেলুলোজ,8,8
+MEDICATION,টাক্রোলিমাস,8,8
+MEDICATION,টোব্রামাইসিন,8,8
+MEDICATION,টোব্রামাইসিন আই ড্রপ,8,8
+MEDICATION,ফিউসিডিক অ্যাসিড আই অয়েন্টমেন্ট,8,8
+MEDICATION,মধু-আদা,8,8
+MEDICATION,ল্যাকটুলোজ সিরাপ,8,8
+MEDICATION,সেফট্রিয়াক্সোন,8,8
+MEDICATION,স্টেরয়েড,8,8
+MEDICATION,ওরাল কন্ট্রাসেপটিভ পিল,7,7
+MEDICATION,ওলোপাটাডিন,7,7
+MEDICATION,ক্যালসিপোট্রিওল,7,7
+MEDICATION,ঘামাচির,7,7
+MEDICATION,ট্রামাডল,7,7
+MEDICATION,প্রোবায়োটিক ক্যাপসুল,7,7
+MEDICATION,বাড্স,7,7
+MEDICATION,বিটামেথাসোন,7,7
+MEDICATION,বিটামেথাসোন মলম,7,7
+MEDICATION,বিসাকোডিল,7,7
+MEDICATION,বেনজাইডামিন গার্গল,7,7
+MEDICATION,ময়েশ্চারাইজার ক্রিম,7,7
+MEDICATION,সিটিরিজিন সিরাপ,7,7
+MEDICATION,সুক্রালফেট,7,7
+MEDICATION,সুমাট্রিপট্যান,7,7
+MEDICATION,সেরুমেন,7,7
+MEDICATION,স্যালিসিলিক অ্যাসিড,7,7
+MEDICATION,H. pylori স্টুল অ্যান্টিজেন,6,6
+MEDICATION,Ottawa,6,6
+MEDICATION,অ্যাঙ্কল লিগামেন্ট স্প্রেন,6,6
+MEDICATION,অ্যাঙ্কল স্প্রেন,6,6
+MEDICATION,অ্যাডাপালিন,6,6
+MEDICATION,অ্যাম্পিসিলিন,6,6
+MEDICATION,আই,6,6
+MEDICATION,ইট্রাকোনাজল,6,6
+MEDICATION,টেস্টোস্টেরন,6,6
+MEDICATION,ডিউটাস্টেরাইড কম্বিনেশন,6,6
+MEDICATION,থায়োকলচিকোসাইড,6,6
+MEDICATION,পটাশিয়াম সাইট্রেট,6,6
+MEDICATION,প্রোপ্রানোলল,6,6
+MEDICATION,প্রোল্যাকটিন,6,6
+MEDICATION,ফিউসিডিক অ্যাসিড,6,6
+MEDICATION,ফেরিটিন,6,6
+MEDICATION,ফ্লুনারিজিন,6,6
+MEDICATION,বিটামেথাসোন লোশন,6,6
+MEDICATION,ভিটামিন বি-কমপ্লেক্স,6,6
+MEDICATION,মেফেনামিক অ্যাসিড,6,6
+MEDICATION,রেবিপ্রাজল,6,6
+MEDICATION,রোজুভাস্টাটিন,6,6
+MEDICATION,লোশন,6,6
+MEDICATION,paraspinal spasm,5,5
+MEDICATION,অশ্রু আই,5,5
+MEDICATION,অ্যাড্রেনালিন অটো-ইনজেক্টর,5,5
+MEDICATION,কৃমির,5,5
+MEDICATION,ক্লিন্ডামাইসিন,5,5
+MEDICATION,ক্লোট্রিমাজোল ভ্যাজাইনাল,5,5
+MEDICATION,জিঙ্ক সিরাপ,5,5
+MEDICATION,টিটি,5,5
+MEDICATION,ডাইক্লোফেনাক ইনজেকশন,5,5
+MEDICATION,ন্যারোব্যান্ড,5,5
+MEDICATION,ফাস্টিং ইনসুলিন,5,5
+MEDICATION,মাইকোনাজল,5,5
+MEDICATION,র্যামিপ্রিল,5,5
+MEDICATION,শিরায় ডেক্সট্রোজ স্যালাইন,5,5
+MEDICATION,হাইড্রোক্লোরোথায়াজাইড,5,5
+MEDICATION,annular,4,4
+MEDICATION,অ্যাড্রেনালিন,4,4
+MEDICATION,অ্যামিট্রিপটিলিন,4,4
+MEDICATION,ইওসিনোফিল,4,4
+MEDICATION,কোল-টার শ্যাম্পু,4,4
+MEDICATION,গ্লিসারিল,4,4
+MEDICATION,ফিউসিডিক অ্যাসিড মলম,4,4
+MEDICATION,লুব্রিকেন্ট,4,4
+MEDICATION,Auspitz,3,3
+MEDICATION,Rx,3,3
+MEDICATION,maxillary,3,3
+MEDICATION,pale boggy turbinate,3,3
+MEDICATION,turbinate,3,3
+MEDICATION,turbinate congestion,3,3
+MEDICATION,ওমেগা-৩ ক্যাপসুল,3,3
+MEDICATION,কৃত্রিম অশ্রু,3,3
+MEDICATION,ক্লাভুলানিক,3,3
+MEDICATION,ক্লোট্রিমাজোল ভ্যাজাইনাল পেসারি,3,3
+MEDICATION,থাইরয়েড ওষুধের,3,3
+MEDICATION,পটাশিয়াম সাইট্রেট সিরাপ,3,3
+MEDICATION,প্লান্টার,3,3
+MEDICATION,বি-কমপ্লেক্স ট্যাবলেট,3,3
+MEDICATION,ভিটামিন বি১২ ট্যাবলেট,3,3
+MEDICATION,ভ্যাজাইনাল ক্রিম,3,3
+MEDICATION,মেফেনামিক,3,3
+MEDICATION,হর্ডিওলাম,3,3
+MEDICATION,annular plaque,2,2
+MEDICATION,fluctuant,2,2
+MEDICATION,pale,2,2
+MEDICATION,paraspinal,2,2
+MEDICATION,vesicle,2,2
+MEDICATION,অয়েন্টমেন্ট,2,2
+MEDICATION,অশ্রু,2,2
+MEDICATION,আঞ্জনি,2,2
+MEDICATION,ইনজেকশন অ্যাম্পিসিলিন,2,2
+MEDICATION,ইনজেকশন সেফট্রিয়াক্সোন,2,2
+MEDICATION,ওরাল কন্ট্রাসেপটিভ,2,2
+MEDICATION,কুসুম,2,2
+MEDICATION,কোল-টার,2,2
+MEDICATION,ক্রেপ,2,2
+MEDICATION,ট্রপোনিন-I,2,2
+MEDICATION,ডায়লোক্সানাইড ফুরোয়েট,2,2
+MEDICATION,ডি৩,2,2
+MEDICATION,নিকেল,2,2
+MEDICATION,ফলিক অ্যাসিড সিরাপ,2,2
+MEDICATION,ফ্লুরেসিন,2,2
+MEDICATION,ফ্লুরেসিন স্টেনে,2,2
+MEDICATION,মৃদু,2,2
+MEDICATION,রিল্যাক্সান্ট,2,2
+MEDICATION,সাইক্লোপেন্টোলেট ১% আই ড্রপ,2,2
+MEDICATION,সিরাম,2,2
+MEDICATION,সিরাম ক্রিয়েটিনিন,2,2
+MEDICATION,স্টাই,2,2
+MEDICATION,H. pylori স্টুল,1,1
+MEDICATION,HbA1c,1,1
+MEDICATION,allergic,1,1
+MEDICATION,mild,1,1
+MEDICATION,অ্যাউস্পিৎজ,1,1
+MEDICATION,অ্যাঙ্কল লিগামেন্ট,1,1
+MEDICATION,অ্যান্টি-গ্লেয়ার,1,1
+MEDICATION,ইনজেকশন অ্যামোক্সিসিলিন,1,1
+MEDICATION,ইসবগুলের,1,1
+MEDICATION,এভাপোরেটিভ,1,1
+MEDICATION,কচুশাক,1,1
+MEDICATION,ক্রেপিটাস,1,1
+MEDICATION,ক্লিন্ডামাইসিন ১% জেল,1,1
+MEDICATION,ক্লোট্রিমাজোল ১% ভ্যাজাইনাল ক্রিম,1,1
+MEDICATION,জাইলোমেটাজোলিন নাসাল,1,1
+MEDICATION,জোস্টার,1,1
+MEDICATION,টিম্পানিক মেমব্রেন,1,1
+MEDICATION,টোব্রামাইসিন আই,1,1
+MEDICATION,ট্রায়ামসিনোলোন,1,1
+MEDICATION,ডেক্সট্রোজ স্যালাইন,1,1
+MEDICATION,নর্মাল স্যালাইন,1,1
+MEDICATION,পাপিউল,1,1
+MEDICATION,পেস্ট,1,1
+MEDICATION,ফলিক অ্যাসিড ক্যাপসুল,1,1
+MEDICATION,ফুরানকল,1,1
+MEDICATION,বাঁধাকপি,1,1
+MEDICATION,ভিটামিন ডি৩ ট্যাবলেট,1,1
+MEDICATION,ভিটামিন সি,1,1
+MEDICATION,ভ্যাজাইনাল,1,1
+MEDICATION,মলম,1,1
+MEDICATION,মাইকোনাজল ২%,1,1
+MEDICATION,মাসল রিল্যাক্সান্ট,1,1
+MEDICATION,লবণজলে,1,1
+MEDICATION,লালচে পাপিউল,1,1
+MEDICATION,লুব্রিকেন্ট আই,1,1
+MEDICATION,শিরায়,1,1
+MEDICATION,সিরাম ভিটামিন বি১২,1,1
+MEDICATION,সেঁক,1,1
+MEDICATION,সেফালেক্সিন সিরাপ,1,1
+MEDICATION,সোডিয়াম,1,1
+MEDICATION,স্পেসার,1,1
+MEDICATION,হারপিস,1,1
+MEDICATION,হিরসুটিজম,1,1
+NEGATION_UNCERTAINTY,নেই,1170,909
+NEGATION_UNCERTAINTY,না,504,445
+NEGATION_UNCERTAINTY,নয়,192,186
+NEGATION_UNCERTAINTY,পাননি,111,111
+NEGATION_UNCERTAINTY,হয়নি,69,69
+NEGATION_UNCERTAINTY,দেবেন না,48,48
+NEGATION_UNCERTAINTY,সামান্য,39,39
+NEGATION_UNCERTAINTY,সন্দেহ,36,36
+NEGATION_UNCERTAINTY,কোনো,17,14
+NEGATION_UNCERTAINTY,দেখা যাচ্ছে না,17,17
+NEGATION_UNCERTAINTY,পড়ছে না,16,16
+NEGATION_UNCERTAINTY,হচ্ছে না,16,16
+NEGATION_UNCERTAINTY,বাদ,14,14
+NEGATION_UNCERTAINTY,সন্দেহজনক,14,14
+NEGATION_UNCERTAINTY,ছিল না,13,13
+NEGATION_UNCERTAINTY,পাওয়া যায়নি,13,13
+NEGATION_UNCERTAINTY,বন্ধ,11,11
+NEGATION_UNCERTAINTY,যায় না,11,11
+NEGATION_UNCERTAINTY,সীমিত,11,11
+NEGATION_UNCERTAINTY,করেনি,10,10
+NEGATION_UNCERTAINTY,শুষ্ক,10,10
+NEGATION_UNCERTAINTY,করবেন না,9,9
+NEGATION_UNCERTAINTY,নির্মূল,9,9
+NEGATION_UNCERTAINTY,পাকা,8,8
+NEGATION_UNCERTAINTY,কম,7,7
+NEGATION_UNCERTAINTY,দেখা,7,7
+NEGATION_UNCERTAINTY,ছাড়া,6,6
+NEGATION_UNCERTAINTY,এড়ানো,5,5
+NEGATION_UNCERTAINTY,বাঁধা,5,5
+NEGATION_UNCERTAINTY,রাখবেন না,4,4
+NEGATION_UNCERTAINTY,এড়ান,3,3
+NEGATION_UNCERTAINTY,কমান,3,2
+NEGATION_UNCERTAINTY,স্পষ্ট,3,3
+NEGATION_UNCERTAINTY,কমেছে,2,2
+NEGATION_UNCERTAINTY,না হওয়া,2,2
+NEGATION_UNCERTAINTY,মিলিয়ে,2,2
+NEGATION_UNCERTAINTY,সংক্রামক নয়,2,2
+NEGATION_UNCERTAINTY,গেছে,1,1
+NEGATION_UNCERTAINTY,জমেছে,1,1
+NEGATION_UNCERTAINTY,থামছে না,1,1
+NEGATION_UNCERTAINTY,দুর্বল,1,1
+NEGATION_UNCERTAINTY,দেন,1,1
+NEGATION_UNCERTAINTY,বাদ না দেওয়া,1,1
+NEGATION_UNCERTAINTY,মিডিয়া,1,1
+NEGATION_UNCERTAINTY,যাচ্ছে না,1,1
+PROCEDURE,ফিজিওথেরাপি,87,70
+PROCEDURE,গরম সেঁক,73,73
+PROCEDURE,সানস্ক্রিন,33,31
+PROCEDURE,সেঁক,28,28
+PROCEDURE,ব্যায়াম,25,25
+PROCEDURE,crepitation,23,23
+PROCEDURE,হালকা ব্যায়াম,22,22
+PROCEDURE,বাষ্প নেওয়া,21,21
+PROCEDURE,স্ট্রেচিং,19,16
+PROCEDURE,অক্সিজেন থেরাপি,18,18
+PROCEDURE,কান পরিষ্কার,18,18
+PROCEDURE,ড্রেসিং,18,16
+PROCEDURE,ফ্লু টিকা,18,18
+PROCEDURE,সিরিঞ্জিং,18,18
+PROCEDURE,CBT,16,16
+PROCEDURE,ঠান্ডা সেঁক,16,16
+PROCEDURE,ওআরএস,15,15
+PROCEDURE,কৃত্রিম,15,15
+PROCEDURE,Epley maneuver,13,13
+PROCEDURE,এপলি ম্যানুভার,13,13
+PROCEDURE,কোমরের ব্যায়াম,13,13
+PROCEDURE,ফেসিয়াল ব্লিচ,13,13
+PROCEDURE,বরফ সেঁক,13,13
+PROCEDURE,অ্যাকটিভ,12,12
+PROCEDURE,ঘাড়ের ব্যায়াম,12,10
+PROCEDURE,ছোট অপারেশনের,12,12
+PROCEDURE,voice rest,11,11
+PROCEDURE,আপার জিআই এন্ডোস্কপি,11,11
+PROCEDURE,টয়লেটের,11,11
+PROCEDURE,টিকাদান,11,11
+PROCEDURE,সাইকোথেরাপি,11,11
+PROCEDURE,ইনসিশন,10,10
+PROCEDURE,ড্রেনেজ,10,10
+PROCEDURE,মুখের ব্যায়াম,10,10
+PROCEDURE,ল্যারিঙ্গোস্কপি,10,10
+PROCEDURE,হালকা ম্যাসাজ,10,10
+PROCEDURE,NSAID,9,9
+PROCEDURE,RICE,9,9
+PROCEDURE,curdy discharge,9,9
+PROCEDURE,কনট্যাক্ট,9,9
+PROCEDURE,নেবুলাইজেশন,9,9
+PROCEDURE,বরফ,9,9
+PROCEDURE,বাঁধাকপি,9,9
+PROCEDURE,ব্যান্ডেজ,9,9
+PROCEDURE,IOL ইমপ্লান্ট,8,8
+PROCEDURE,plaque,8,8
+PROCEDURE,কাউন্সেলিং,8,8
+PROCEDURE,কৃমির,8,8
+PROCEDURE,গরম,8,8
+PROCEDURE,চোখ টেপ,8,8
+PROCEDURE,ড্রপ,8,8
+PROCEDURE,নাকের ডায়াগনস্টিক এন্ডোস্কপি,8,8
+PROCEDURE,ফ্যাকোইমালসিফিকেশন,8,8
+PROCEDURE,বাষ্প,8,8
+PROCEDURE,percussion,7,7
+PROCEDURE,ইনহেলার,7,7
+PROCEDURE,কগনিটিভ বিহেভিয়ারাল থেরাপি,7,7
+PROCEDURE,কৃত্রিম অশ্রু,7,7
+PROCEDURE,খাবারের,7,7
+PROCEDURE,চশমা,7,7
+PROCEDURE,ফুসফুস,7,7
+PROCEDURE,মুখ কুলকুচি,7,7
+PROCEDURE,সেঁকের,7,7
+PROCEDURE,I&C,6,6
+PROCEDURE,I&D,6,6
+PROCEDURE,অ্যান্টিবায়োটিক,6,6
+PROCEDURE,ইলেক্ট্রোলাইট,6,6
+PROCEDURE,এন্ডোস্কপি,6,6
+PROCEDURE,কচুশাক,6,6
+PROCEDURE,কানে কাঠি,6,6
+PROCEDURE,কোয়াড্রিসেপস,6,6
+PROCEDURE,টিটি,6,6
+PROCEDURE,বিশ্রাম,6,6
+PROCEDURE,মোছা,6,6
+PROCEDURE,স্পেসার,6,6
+PROCEDURE,DOTS,5,5
+PROCEDURE,mild retraction,5,5
+PROCEDURE,salute,5,5
+PROCEDURE,অডিওমেট্রি,5,5
+PROCEDURE,আই,5,4
+PROCEDURE,আপার,5,5
+PROCEDURE,ওজন নিয়ন্ত্রণ,5,5
+PROCEDURE,গার্গল,5,5
+PROCEDURE,ট্র্যাকশন,5,5
+PROCEDURE,ডায়াবেটিস,5,5
+PROCEDURE,ফুসফুস পরিষ্কার,5,5
+PROCEDURE,যোগব্যায়াম,5,5
+PROCEDURE,রক্তচাপ,5,5
+PROCEDURE,রিলাক্সেশন,5,5
+PROCEDURE,রুট ক্যানাল,5,5
+PROCEDURE,লুব্রিকেন্ট,5,5
+PROCEDURE,শ্বাসের ব্যায়াম,5,5
+PROCEDURE,CBC,4,4
+PROCEDURE,HRZE,4,4
+PROCEDURE,chest indrawing,4,4
+PROCEDURE,অ্যান্টি-গ্লেয়ার লেন্সসহ,4,4
+PROCEDURE,অ্যান্টিজেন,4,4
+PROCEDURE,অ্যালার্জি,4,4
+PROCEDURE,আন্ডারগার্মেন্ট,4,4
+PROCEDURE,ইউরিক অ্যাসিড,4,4
+PROCEDURE,ওষুধের,4,4
+PROCEDURE,কণ্ঠস্বরের,4,4
+PROCEDURE,কর্ডকে,4,4
+PROCEDURE,কাউন্সেলিংয়ের,4,4
+PROCEDURE,কাঠি/কটন,4,4
+PROCEDURE,কুলকুচি,4,4
+PROCEDURE,কোয়াড্রিসেপস ব্যায়াম,4,4
+PROCEDURE,গরম জলের,4,4
+PROCEDURE,গা মোছা,4,4
+PROCEDURE,চিকিৎসা,4,4
+PROCEDURE,টেনশন,4,4
+PROCEDURE,টেপ,4,4
+PROCEDURE,পাউডার,4,4
+PROCEDURE,পালং,4,4
+PROCEDURE,ফেসিয়াল,4,4
+PROCEDURE,ভার্টিগো,4,4
+PROCEDURE,মাসল রিল্যাক্সান্ট,4,4
+PROCEDURE,যকৃতবান্ধব,4,4
+PROCEDURE,হালকা,4,4
+PROCEDURE,punctate,3,3
+PROCEDURE,অপারেশনের,3,3
+PROCEDURE,অ্যাসিড,3,3
+PROCEDURE,ডিটারজেন্ট,3,3
+PROCEDURE,নিউমোকক্কাল,3,3
+PROCEDURE,পরীক্ষা,3,3
+PROCEDURE,পর্যবেক্ষণ,3,3
+PROCEDURE,পালংশাক,3,3
+PROCEDURE,প্লান্টার,3,3
+PROCEDURE,বাহ্যিক স্টাই,3,3
+PROCEDURE,ব্রেস,3,3
+PROCEDURE,লেন্সসহ,3,3
+PROCEDURE,সিরাম ক্রিয়েটিনিন,3,3
+PROCEDURE,BPPV,2,2
+PROCEDURE,UVB,2,2
+PROCEDURE,UVB ফটোথেরাপির,2,2
+PROCEDURE,breathing,2,2
+PROCEDURE,drip,2,2
+PROCEDURE,injected,2,2
+PROCEDURE,percussion tender,2,2
+PROCEDURE,rest,2,2
+PROCEDURE,shiners,2,2
+PROCEDURE,অটোস্কপি,2,2
+PROCEDURE,অ্যান্টি-TPO অ্যান্টিবডি,2,2
+PROCEDURE,আই অয়েন্টমেন্ট,2,2
+PROCEDURE,আই ড্রপ,2,2
+PROCEDURE,ইনজেকশন,2,2
+PROCEDURE,উচ্চ,2,2
+PROCEDURE,কান খোঁচাবেন,2,2
+PROCEDURE,কোমরের,2,2
+PROCEDURE,গর্ভাবস্থা,2,2
+PROCEDURE,জ্বরে,2,2
+PROCEDURE,টিকা,2,2
+PROCEDURE,ডেন্টাল,2,2
+PROCEDURE,দানা,2,2
+PROCEDURE,নাকের,2,2
+PROCEDURE,পরিষ্কার,2,2
+PROCEDURE,প্রস্টেট,2,2
+PROCEDURE,প্লান্টার ফ্যাসিয়া স্ট্রেচিং,2,2
+PROCEDURE,ফ্লুরেসিন স্টেন,2,2
+PROCEDURE,ভেন্টিলেশনযুক্ত,2,2
+PROCEDURE,ভোকাল কর্ডকে,2,2
+PROCEDURE,মাসল,2,2
+PROCEDURE,রস/গ্লুকোজ,2,2
+PROCEDURE,শিরায়,2,2
+PROCEDURE,সাবান,2,2
+PROCEDURE,সিরাম,2,2
+PROCEDURE,স্ক্যাবিস,2,2
+PROCEDURE,স্ক্রিন,2,2
+PROCEDURE,স্পাইরোমেট্রি,2,2
+PROCEDURE,caries,1,1
+PROCEDURE,dehydration,1,1
+PROCEDURE,delayed,1,1
+PROCEDURE,discharge,1,1
+PROCEDURE,indrawing,1,1
+PROCEDURE,pallor,1,1
+PROCEDURE,post-nasal drip,1,1
+PROCEDURE,retraction,1,1
+PROCEDURE,vesicle,1,1
+PROCEDURE,অ্যান্টি-গ্লেয়ার,1,1
+PROCEDURE,ইউরিক,1,1
+PROCEDURE,ইওসিনোফিল,1,1
+PROCEDURE,ইমপেটিগো,1,1
+PROCEDURE,ইম্পিড্যান্স অডিওমেট্রি,1,1
+PROCEDURE,এভাপোরেটিভ,1,1
+PROCEDURE,কণ্ঠস্বরের সম্পূর্ণ বিশ্রাম,1,1
+PROCEDURE,কাঠি,1,1
+PROCEDURE,কান,1,1
+PROCEDURE,কানে,1,1
+PROCEDURE,ক্যাটারাক্ট,1,1
+PROCEDURE,ক্রাস্ট,1,1
+PROCEDURE,ক্রিয়েটিনিন,1,1
+PROCEDURE,গরম জলের ভাপ,1,1
+PROCEDURE,গর্ভাবস্থার,1,1
+PROCEDURE,গ্যাস্ট্রো-ইসোফেজিয়াল,1,1
+PROCEDURE,গ্লুকোজ,1,1
+PROCEDURE,ঘাড়ের,1,1
+PROCEDURE,চিকুনগুনিয়া IgM,1,1
+PROCEDURE,চোখে,1,1
+PROCEDURE,চোখের,1,1
+PROCEDURE,জলযুক্ত,1,1
+PROCEDURE,টেনশন ও,1,1
+PROCEDURE,ডার্মাটোম,1,1
+PROCEDURE,ড্রাই আই,1,1
+PROCEDURE,দ্বিতীয়,1,1
+PROCEDURE,নড়াচড়া,1,1
+PROCEDURE,ন্যারোব্যান্ড UVB,1,1
+PROCEDURE,ন্যারোব্যান্ড UVB ফটোথেরাপির,1,1
+PROCEDURE,পাতা,1,1
+PROCEDURE,পুনরায়,1,1
+PROCEDURE,প্যাড,1,1
+PROCEDURE,ফটোথেরাপির,1,1
+PROCEDURE,ফিল্টার,1,1
+PROCEDURE,ফোটানো,1,1
+PROCEDURE,ফোসকার,1,1
+PROCEDURE,ফ্যাসিয়া স্ট্রেচিং,1,1
+PROCEDURE,ফ্র্যাকচার,1,1
+PROCEDURE,ফ্লু,1,1
+PROCEDURE,ব্যথানাশক,1,1
+PROCEDURE,ব্রেন MRI,1,1
+PROCEDURE,ভাইটাল,1,1
+PROCEDURE,ভিজিট,1,1
+PROCEDURE,মাত্রার,1,1
+PROCEDURE,মুখের,1,1
+PROCEDURE,যক্ষ্মার,1,1
+PROCEDURE,যক্ষ্মার চিকিৎসা,1,1
+PROCEDURE,সংক্ষিপ্ত,1,1
+PROCEDURE,সাসপেনশন,1,1
+PROCEDURE,সিন্থেটিক,1,1
+PROCEDURE,সিরাম ইলেক্ট্রোলাইট,1,1
+PROCEDURE,সুরক্ষা,1,1
+PROCEDURE,স্টেন,1,1
+PROCEDURE,স্টেরয়েড,1,1
+PROCEDURE,স্প্রেন,1,1
+PROCEDURE,স্লিট,1,1
+PROCEDURE,হিরসুটিজম,1,1
+PROCEDURE,হিল স্পার,1,1
+SYMPTOM,ব্যথা,888,512
+SYMPTOM,জ্বর,494,311
+SYMPTOM,ফোলা,457,404
+SYMPTOM,শ্বাসকষ্ট,225,184
+SYMPTOM,চুলকানি,211,185
+SYMPTOM,তীব্র ব্যথা,163,149
+SYMPTOM,অ্যালার্জি,145,145
+SYMPTOM,চুলকাচ্ছে,132,132
+SYMPTOM,জ্বালা,129,119
+SYMPTOM,রক্ত,118,88
+SYMPTOM,অ্যালার্জির,114,114
+SYMPTOM,বমিভাব,111,109
+SYMPTOM,লালচে,106,106
+SYMPTOM,মাথাব্যথা,103,103
+SYMPTOM,কাশি,94,73
+SYMPTOM,পুঁজ,93,85
+SYMPTOM,হালকা জ্বর,93,93
+SYMPTOM,র্যাশ,89,66
+SYMPTOM,ফোসকা,84,62
+SYMPTOM,ফুসকুড়ি,80,61
+SYMPTOM,শ্লেষ্মা,78,69
+SYMPTOM,দাগ,77,65
+SYMPTOM,ঘা,75,57
+SYMPTOM,ফুলে,75,69
+SYMPTOM,পাতলা পায়খানা,69,56
+SYMPTOM,হাঁচি,67,67
+SYMPTOM,বমি,61,58
+SYMPTOM,ত্বক শুষ্ক,59,43
+SYMPTOM,ঘাম,57,46
+SYMPTOM,জল,57,57
+SYMPTOM,চুলকানোর দাগ,56,56
+SYMPTOM,কফসহ কাশি,55,55
+SYMPTOM,চোখ লাল,53,53
+SYMPTOM,নাক দিয়ে জল,53,53
+SYMPTOM,অস্বস্তি,52,52
+SYMPTOM,ব্রণ,50,31
+SYMPTOM,দুর্বল,49,49
+SYMPTOM,লালচে ভাব,49,49
+SYMPTOM,দুর্বলতা,48,48
+SYMPTOM,গায়ে,47,47
+SYMPTOM,চোখ,45,45
+SYMPTOM,নাক বন্ধ,45,45
+SYMPTOM,চাপ ধরা ব্যথা,44,44
+SYMPTOM,ত্বকে,44,44
+SYMPTOM,পায়ে ফোলা,43,43
+SYMPTOM,ক্ষুধামান্দ্য,42,42
+SYMPTOM,চাপে,42,38
+SYMPTOM,বমিভাবে,42,42
+SYMPTOM,পেটে ব্যথা,41,41
+SYMPTOM,কালো পায়খানা,40,40
+SYMPTOM,জলযুক্ত,38,38
+SYMPTOM,স্পর্শে ব্যথা,38,38
+SYMPTOM,অস্থির,37,37
+SYMPTOM,ঠোঁট,37,33
+SYMPTOM,সর্দি,37,37
+SYMPTOM,শুকনো কাশি,36,36
+SYMPTOM,ক্রমাগত বমি,35,35
+SYMPTOM,মাথা ঘুরছে,35,35
+SYMPTOM,চুল পড়ছে,34,34
+SYMPTOM,মুখ,34,34
+SYMPTOM,লালচে র্যাশ,34,29
+SYMPTOM,খিঁচুনি,33,33
+SYMPTOM,ত্বক,33,29
+SYMPTOM,শব্দ,33,33
+SYMPTOM,সাঁ সাঁ শব্দ,33,28
+SYMPTOM,কাঁপুনি,32,32
+SYMPTOM,গলা ব্যথা,32,32
+SYMPTOM,পেট ফাঁপা,32,32
+SYMPTOM,চোখ কচলাবেন,31,31
+SYMPTOM,ফাটা,31,22
+SYMPTOM,বুক ধড়ফড়,31,31
+SYMPTOM,ব্যথায়,31,31
+SYMPTOM,রক্তপাত,31,31
+SYMPTOM,শক্ত,31,31
+SYMPTOM,চোখে ঝাপসা দেখছেন,30,30
+SYMPTOM,কোষ্ঠকাঠিন্য,29,29
+SYMPTOM,গলা খুসখুস,29,29
+SYMPTOM,গায়ে ফোসকার মতো দানা,29,29
+SYMPTOM,দুর্বল লাগছে,29,29
+SYMPTOM,নাক দিয়ে রক্তপাত,29,29
+SYMPTOM,পুঁজযুক্ত নিঃসরণ,29,29
+SYMPTOM,প্রস্রাব,29,27
+SYMPTOM,ক্লান্তি,28,28
+SYMPTOM,গিলতে কষ্ট,28,28
+SYMPTOM,ঘন ঘন প্রস্রাব,28,28
+SYMPTOM,ফ্যাকাশে ভাব,28,28
+SYMPTOM,লালচে দাগ,28,27
+SYMPTOM,আঁশ,27,27
+SYMPTOM,চোখের পাতা,27,27
+SYMPTOM,নাক দিয়ে রক্ত,27,18
+SYMPTOM,কালচে ছোপ,26,26
+SYMPTOM,জল শূন্যতা,26,26
+SYMPTOM,জ্বালাভাব,26,26
+SYMPTOM,ব্যথার,26,26
+SYMPTOM,অবসন্ন,25,25
+SYMPTOM,খারাপ,25,25
+SYMPTOM,মন,25,25
+SYMPTOM,কষ্ট,24,24
+SYMPTOM,ক্ষুধা,24,24
+SYMPTOM,লাল,24,24
+SYMPTOM,চোখে জ্বালা,23,23
+SYMPTOM,ধুলো,23,23
+SYMPTOM,নীলচে,23,23
+SYMPTOM,পুঁজযুক্ত,23,23
+SYMPTOM,বুকে ব্যথা,23,23
+SYMPTOM,সর্দি-কাশি,23,23
+SYMPTOM,স্রাব,23,15
+SYMPTOM,উদাস লাগছে,22,22
+SYMPTOM,কান্নাকাটি,22,22
+SYMPTOM,কিরকির,22,22
+SYMPTOM,খসখসে,22,22
+SYMPTOM,গ্যাস,22,22
+SYMPTOM,চোখ জ্বালা করছে,22,22
+SYMPTOM,তীব্র মাথাব্যথা,22,22
+SYMPTOM,বসা,22,22
+SYMPTOM,লালচে চাকা চাকা,22,22
+SYMPTOM,ক্ষুধা কমেছে,21,21
+SYMPTOM,চুলকানির,21,21
+SYMPTOM,জিভ শুষ্ক,21,21
+SYMPTOM,জ্বালা করছে,21,21
+SYMPTOM,জ্বালাপোড়া ব্যথা,21,21
+SYMPTOM,ঠান্ডা লাগলে,21,21
+SYMPTOM,তীব্র জ্বর,21,21
+SYMPTOM,তীব্র পেটব্যথা,21,21
+SYMPTOM,দুশ্চিন্তা,21,21
+SYMPTOM,মাসিক অনিয়মিত,21,21
+SYMPTOM,সর্দির,21,21
+SYMPTOM,সারা গায়ে ব্যথা,21,21
+SYMPTOM,কম কথা বলছেন,20,20
+SYMPTOM,কানে,20,19
+SYMPTOM,ক্রাস্ট,20,18
+SYMPTOM,চাপে ব্যথা,20,20
+SYMPTOM,ভারী,20,20
+SYMPTOM,মাড়ি,20,20
+SYMPTOM,মানসিক,20,20
+SYMPTOM,রক্তবমি,20,20
+SYMPTOM,গলায় ব্যথা,19,19
+SYMPTOM,গায়ে পুঁজ,19,19
+SYMPTOM,ঘড়ঘড় শব্দ,19,19
+SYMPTOM,চাইছে না,19,19
+SYMPTOM,চুলকানিযুক্ত,19,19
+SYMPTOM,চোখে চাপ,19,19
+SYMPTOM,দপদপে ব্যথা,19,19
+SYMPTOM,দুর্বলতা লাগছে,19,19
+SYMPTOM,পুঁজের,19,19
+SYMPTOM,ফুলে গেছে,19,19
+SYMPTOM,বন্ধ,19,19
+SYMPTOM,ব্যথাযুক্ত ফোলা,19,19
+SYMPTOM,লালচে ফোলা,19,19
+SYMPTOM,আঁশযুক্ত লালচে ছোপ,18,18
+SYMPTOM,কম শুনছেন,18,18
+SYMPTOM,কান বন্ধ লাগছে,18,18
+SYMPTOM,কালচে,18,18
+SYMPTOM,খোসপাঁচড়া,18,18
+SYMPTOM,চুলকাতে,18,9
+SYMPTOM,চোখ বন্ধ,18,15
+SYMPTOM,ঝিনঝিন,18,18
+SYMPTOM,ঠান্ডা,18,18
+SYMPTOM,দম নিতে কষ্ট,18,18
+SYMPTOM,দানা,18,17
+SYMPTOM,প্রস্রাবে জ্বালাপোড়া,18,18
+SYMPTOM,ফ্যাকাশে,18,18
+SYMPTOM,বাদামি ছোপ,18,18
+SYMPTOM,সরু,18,18
+SYMPTOM,সাদা দাগ,18,18
+SYMPTOM,অতিরিক্ত ক্লান্তি,17,17
+SYMPTOM,অতিরিক্ত তৃষ্ণা পাচ্ছে,17,17
+SYMPTOM,অসুবিধা,17,17
+SYMPTOM,আঁশযুক্ত,17,17
+SYMPTOM,ঘাড় শক্ত,17,17
+SYMPTOM,ঘুম ঘুম ভাব,17,17
+SYMPTOM,ব্যথাযুক্ত,17,17
+SYMPTOM,ভাঁজ,17,17
+SYMPTOM,রোগা,17,17
+SYMPTOM,হাঁটতে কষ্ট,17,17
+SYMPTOM,উষ্ণতা,16,16
+SYMPTOM,কড়কড় শব্দ,16,16
+SYMPTOM,কানে ব্যথা,16,16
+SYMPTOM,গ্রন্থি ফোলা,16,16
+SYMPTOM,চোখ চুলকাচ্ছে,16,16
+SYMPTOM,তীব্র,16,16
+SYMPTOM,তীব্র দুর্বলতা,16,16
+SYMPTOM,প্রস্রাব হলুদ,16,16
+SYMPTOM,অনিদ্রা,15,15
+SYMPTOM,অস্বাভাবিক শব্দ,15,15
+SYMPTOM,ক্ষুধা কমে গেছে,15,15
+SYMPTOM,খিটখিটে,15,15
+SYMPTOM,ঘন ঘন প্রস্রাবের বেগ,15,15
+SYMPTOM,দুর্গন্ধযুক্ত,15,15
+SYMPTOM,নাক চুলকানি,15,15
+SYMPTOM,পায়ে ঝিনঝিন,15,15
+SYMPTOM,প্রস্রাব বন্ধ,15,15
+SYMPTOM,বুক জ্বালা,15,15
+SYMPTOM,বুকে সাঁ সাঁ শব্দ,15,15
+SYMPTOM,বুকের ব্যথা,15,15
+SYMPTOM,মৃদু ব্যথা,15,15
+SYMPTOM,হাত-পা,15,15
+SYMPTOM,rhonchi,14,14
+SYMPTOM,কান ভারী,14,14
+SYMPTOM,কিরকির করছে,14,14
+SYMPTOM,গায়ে প্রচণ্ড ব্যথা,14,14
+SYMPTOM,ঘন ঘন বমি,14,14
+SYMPTOM,চাকা চাকা দাগ,14,14
+SYMPTOM,পেশিতে,14,14
+SYMPTOM,বুক ভারী লাগছে,14,14
+SYMPTOM,মোশন,14,14
+SYMPTOM,শ্লেষ্মাযুক্ত,14,14
+SYMPTOM,অচেতন ভাব,13,13
+SYMPTOM,আত্মহননের চিন্তা,13,13
+SYMPTOM,কফ,13,13
+SYMPTOM,কালচে পায়খানা,13,13
+SYMPTOM,গায়ে ব্যথা,13,13
+SYMPTOM,চোখ শুকনো লাগছে,13,13
+SYMPTOM,চোখে,13,12
+SYMPTOM,জল শূন্যতার,13,13
+SYMPTOM,জল শূন্যতাসহ,13,13
+SYMPTOM,টান,13,13
+SYMPTOM,ঠোঁট/মুখ ফুলে,13,13
+SYMPTOM,নাক খোঁচানোর,13,13
+SYMPTOM,নাক চুলকাচ্ছে,13,13
+SYMPTOM,পেট ভার লাগছে,13,13
+SYMPTOM,প্রস্রাব কম,13,13
+SYMPTOM,ফোসকা চুলকাবেন,13,13
+SYMPTOM,মাথা ভার,13,13
+SYMPTOM,মুখ ফুলে গেছে,13,13
+SYMPTOM,হাঁপিয়ে,13,13
+SYMPTOM,হাত-পা দুর্বল,13,13
+SYMPTOM,হাত-পায়ের,13,13
+SYMPTOM,burrow,12,12
+SYMPTOM,অতিরিক্ত খুশকি,12,12
+SYMPTOM,অতিরিক্ত শব্দ,12,12
+SYMPTOM,আমযুক্ত,12,12
+SYMPTOM,আমাশয়ের,12,12
+SYMPTOM,ওজন কমে,12,12
+SYMPTOM,কানে ভোঁ ভোঁ শব্দ,12,12
+SYMPTOM,কোমরব্যথা,12,12
+SYMPTOM,ক্লান্ত,12,12
+SYMPTOM,খুশকি,12,12
+SYMPTOM,গা ব্যথা,12,12
+SYMPTOM,ঘামাচি,12,12
+SYMPTOM,চুলকানোর,12,12
+SYMPTOM,চোখে ধুলো পড়েছে,12,12
+SYMPTOM,চোখে ধুলো/কণা পড়া,12,12
+SYMPTOM,জল পড়ছে,12,12
+SYMPTOM,জিভে ফোলা,12,12
+SYMPTOM,টক ঢেকুর,12,12
+SYMPTOM,নাক খোঁচাবেন,12,12
+SYMPTOM,নাক বন্ধ হয়ে,12,12
+SYMPTOM,পাতলা,12,12
+SYMPTOM,ফ্যাসফেসে,12,12
+SYMPTOM,বমি করছে,12,12
+SYMPTOM,ব্রণে ব্যথা,12,12
+SYMPTOM,ব্রণের দাগ,12,12
+SYMPTOM,ভার লাগছে,12,12
+SYMPTOM,মাথাব্যথার,12,12
+SYMPTOM,মুখে দুর্গন্ধ,12,12
+SYMPTOM,রক্তমিশ্রিত পায়খানা,12,12
+SYMPTOM,শক্ত পায়খানা,12,12
+SYMPTOM,অতিরিক্ত তৃষ্ণা,11,11
+SYMPTOM,আঁশযুক্ত ফুসকুড়ি,11,11
+SYMPTOM,আলো,11,11
+SYMPTOM,ওজন কমে যাচ্ছে,11,11
+SYMPTOM,কথা বলতে,11,11
+SYMPTOM,কষ্টদায়ক,11,11
+SYMPTOM,কাশছে,11,11
+SYMPTOM,ক্লান্তি লাগছে,11,11
+SYMPTOM,ক্ষুধার্ত থাকা,11,11
+SYMPTOM,গা গরম,11,11
+SYMPTOM,গা ম্যাজম্যাজ,11,11
+SYMPTOM,ঘড়ঘড়ানি,11,11
+SYMPTOM,ঘুমের অভাব,11,11
+SYMPTOM,চোখে জল,11,11
+SYMPTOM,জলের মতো সর্দি,11,11
+SYMPTOM,জিভ ফুললে,11,11
+SYMPTOM,দিয়ে,11,11
+SYMPTOM,নাক ডাকছে,11,11
+SYMPTOM,নিঃসরণ,11,11
+SYMPTOM,পায়খানার বেগ,11,11
+SYMPTOM,ভোঁ ভোঁ শব্দ,11,11
+SYMPTOM,মাথায়,11,11
+SYMPTOM,মার্মার,11,11
+SYMPTOM,শব্দ অসহ্য লাগছে,11,11
+SYMPTOM,ওজন কমা,10,10
+SYMPTOM,কাঁটা ফোটার মতো,10,10
+SYMPTOM,কান্না,10,10
+SYMPTOM,কালচে দাগ,10,10
+SYMPTOM,কাশির,10,10
+SYMPTOM,কোমরে ব্যথা,10,10
+SYMPTOM,খিটখিটে ভাব,10,10
+SYMPTOM,ঘড়ঘড় আওয়াজ,10,10
+SYMPTOM,ঘুম আসছে না,10,10
+SYMPTOM,চোখ ওঠা,10,10
+SYMPTOM,চোখ লাল হয়ে,10,10
+SYMPTOM,চোখ লালচে,10,10
+SYMPTOM,চোখে ঝাপসা,10,10
+SYMPTOM,চোখের পাতা ভারী লাগছে,10,10
+SYMPTOM,জমে যাওয়া,10,10
+SYMPTOM,ঝাপসা,10,10
+SYMPTOM,ঠোঁট নীলচে,10,10
+SYMPTOM,ঢোক গিলতে,10,10
+SYMPTOM,দাঁতে,10,10
+SYMPTOM,ধোঁয়া,10,10
+SYMPTOM,ব্যথাযুক্ত ফোলা দানা,10,10
+SYMPTOM,ভারী লাগছে,10,10
+SYMPTOM,মচকে,10,10
+SYMPTOM,মাথা,10,10
+SYMPTOM,মাসিকের অতিরিক্ত রক্তপাত,10,10
+SYMPTOM,রক্তপাতের,10,10
+SYMPTOM,লালচে শুষ্ক দাগ,10,10
+SYMPTOM,শুষ্ক চোখ,10,10
+SYMPTOM,স্ট্রাইডর,10,10
+SYMPTOM,স্বর বসা,10,10
+SYMPTOM,হাঁপিয়ে যাচ্ছেন,10,10
+SYMPTOM,হালকা শ্বাসকষ্ট,10,10
+SYMPTOM,halo,9,9
+SYMPTOM,neck stiffness,9,9
+SYMPTOM,অসাড়তা,9,9
+SYMPTOM,উষ্ণ,9,9
+SYMPTOM,কটকট শব্দ,9,9
+SYMPTOM,গরম,9,9
+SYMPTOM,গা চুলকাচ্ছে,9,9
+SYMPTOM,গেছে,9,9
+SYMPTOM,ঘষা,9,9
+SYMPTOM,ঘা চুলকাতে,9,9
+SYMPTOM,ঘাড় ঘোরাতে কষ্ট,9,9
+SYMPTOM,ঘুরছে,9,9
+SYMPTOM,চোখ কচলাতে ইচ্ছে,9,9
+SYMPTOM,চোখে অন্ধকার দেখছেন,9,9
+SYMPTOM,চোখে ধুলো,9,9
+SYMPTOM,জ্বরমুক্ত,9,9
+SYMPTOM,ত্বকে জ্বালার চিহ্ন,9,9
+SYMPTOM,দাঁত কিড়মিড়,9,9
+SYMPTOM,ধোঁয়াশা,9,9
+SYMPTOM,না,9,8
+SYMPTOM,পায়খানা শক্ত,9,9
+SYMPTOM,পেট ফোলা,9,9
+SYMPTOM,পেটে মোচড় দিয়ে ব্যথা,9,9
+SYMPTOM,বারবার,9,9
+SYMPTOM,বুকে,9,9
+SYMPTOM,বেঁকে,9,9
+SYMPTOM,বেঁকে গেছে,9,9
+SYMPTOM,মানসিক চাপে,9,9
+SYMPTOM,মুখ শুকিয়ে যাচ্ছে,9,9
+SYMPTOM,শব্দ কম,9,9
+SYMPTOM,অবাঞ্ছিত লোম,8,8
+SYMPTOM,অস্থিরতা,8,8
+SYMPTOM,কালশিটে দাগ,8,8
+SYMPTOM,কাশি থামছে,8,8
+SYMPTOM,ঘা চুলকাচ্ছে,8,8
+SYMPTOM,চোখ ফুলে গেছে,8,8
+SYMPTOM,চোখের সামনে ঝিলিক,8,8
+SYMPTOM,ছড়ে যাওয়া দাগ,8,8
+SYMPTOM,তাকাতে অস্বস্তি,8,8
+SYMPTOM,ত্বক চুলকানোর,8,8
+SYMPTOM,ত্বক চুলকাবেন,8,8
+SYMPTOM,দুর্গন্ধ,8,8
+SYMPTOM,দেখতে কষ্ট,8,8
+SYMPTOM,নাক ঘষার,8,8
+SYMPTOM,পায়খানায় রক্ত,8,8
+SYMPTOM,পুঁজভরা ফোসকা,8,8
+SYMPTOM,বন্ধ লাগছে,8,8
+SYMPTOM,বসে উঠতে কষ্ট,8,8
+SYMPTOM,ব্রণ খুঁটবেন,8,8
+SYMPTOM,মুখের ঘা,8,8
+SYMPTOM,লালচে দানা,8,8
+SYMPTOM,শরীর কাঁপুনি দিয়ে,8,8
+SYMPTOM,স্পর্শানুভূতি,8,8
+SYMPTOM,হাঁপানি,8,8
+SYMPTOM,আটকে থাকার মতো,7,7
+SYMPTOM,ঘুম কমে গেছে,7,7
+SYMPTOM,চিবোতে কষ্ট,7,7
+SYMPTOM,চুলকাবেন,7,7
+SYMPTOM,চোখের পলক,7,7
+SYMPTOM,জোরে নাক ঝাড়বেন,7,7
+SYMPTOM,ঝাপসা দেখছেন,7,7
+SYMPTOM,ঠান্ডা লাগা,7,7
+SYMPTOM,তৈলাক্ত,7,7
+SYMPTOM,দাঁড়াতে,7,7
+SYMPTOM,দেখতে অসুবিধা,7,7
+SYMPTOM,নখ,7,7
+SYMPTOM,নাক,7,7
+SYMPTOM,নাকে অস্বস্তি,7,7
+SYMPTOM,পক্ষাঘাত,7,7
+SYMPTOM,পেট,7,7
+SYMPTOM,প্রস্রাবে রক্ত,7,7
+SYMPTOM,প্রস্রাবের ধারা,7,7
+SYMPTOM,ফোলা টিপে,7,7
+SYMPTOM,ফোসকার মতো দানা,7,7
+SYMPTOM,মাথা ঘোরাবেন,7,7
+SYMPTOM,যাওয়া দাগ,7,7
+SYMPTOM,শরীর ম্যাজম্যাজ,7,7
+SYMPTOM,শুষ্ক লালচে ছোপ,7,7
+SYMPTOM,স্বর,7,5
+SYMPTOM,স্বর কর্কশ,7,7
+SYMPTOM,অম্বল,6,6
+SYMPTOM,উচ্চ জ্বর,6,6
+SYMPTOM,কানে কম শুনতে পাচ্ছেন,6,6
+SYMPTOM,কানে জল,6,6
+SYMPTOM,গলার স্বর,6,6
+SYMPTOM,গেছেন,6,6
+SYMPTOM,ঘন ঘন পায়খানার বেগ,6,6
+SYMPTOM,ঘুম,6,6
+SYMPTOM,চোখ কুঁচকে,6,6
+SYMPTOM,চোখ ক্লান্ত হয়ে,6,6
+SYMPTOM,চোখের পাতা ফোলা,6,6
+SYMPTOM,জয়েন্টের ব্যথা,6,6
+SYMPTOM,ঠোঁট/মুখ ফুলে গেলে,6,6
+SYMPTOM,ত্বকে আঘাত,6,6
+SYMPTOM,দাগে চুলকানি,6,6
+SYMPTOM,দ্রুত শ্বাস,6,6
+SYMPTOM,নাক জোরে ঝাড়বেন,6,6
+SYMPTOM,পাতা ভারী,6,6
+SYMPTOM,পুঁজযুক্ত ঘা,6,6
+SYMPTOM,ফোসকায়,6,6
+SYMPTOM,বেগ,6,6
+SYMPTOM,ভঙ্গুর,6,6
+SYMPTOM,ভাব,6,6
+SYMPTOM,মদ্যপানের,6,6
+SYMPTOM,মুখ দিয়ে লালা,6,6
+SYMPTOM,লালা,6,6
+SYMPTOM,শরীর কাঁপুনি,6,6
+SYMPTOM,শুষ্ক,6,6
+SYMPTOM,সমস্যা,6,6
+SYMPTOM,হাঁপিয়ে যাচ্ছে,6,6
+SYMPTOM,হালকা ফোলা,6,6
+SYMPTOM,ওজন,5,5
+SYMPTOM,কথা বলতে কষ্ট,5,5
+SYMPTOM,কম কথা,5,5
+SYMPTOM,কাঁটা ফোটার মতো অনুভূতি,5,5
+SYMPTOM,কোমর শক্ত,5,5
+SYMPTOM,ক্ষুধা কমে,5,5
+SYMPTOM,গায়ে র্যাশ,5,5
+SYMPTOM,গ্রন্থি,5,5
+SYMPTOM,চাপ,5,5
+SYMPTOM,চুল,5,5
+SYMPTOM,চোখে ক্লান্তি,5,5
+SYMPTOM,চোখে চাপ অনুভব,5,5
+SYMPTOM,চোখে প্যাড বাঁধা,5,5
+SYMPTOM,থেকে,5,5
+SYMPTOM,দাগে,5,5
+SYMPTOM,দিতে,5,5
+SYMPTOM,দৃষ্টি ঝাপসা,5,5
+SYMPTOM,নরম,5,5
+SYMPTOM,নাক জোরে,5,5
+SYMPTOM,নাকে,5,5
+SYMPTOM,পাতা ভারী লাগছে,5,5
+SYMPTOM,পুঁজের দাগ,5,5
+SYMPTOM,পেটে ব্যথায়,5,5
+SYMPTOM,প্যাড বাঁধা,5,5
+SYMPTOM,প্রচণ্ড,5,5
+SYMPTOM,প্রস্রাবে জ্বালা,5,5
+SYMPTOM,ফোড়া,5,5
+SYMPTOM,ফোসকার,5,5
+SYMPTOM,মচকানো,5,5
+SYMPTOM,মাথা ঘোরা,5,5
+SYMPTOM,মানসিক চাপ,5,5
+SYMPTOM,মাসিকের ব্যথা,5,5
+SYMPTOM,লালচে ফুসকুড়ি,5,5
+SYMPTOM,শুষ্ক দাগ,5,5
+SYMPTOM,সাঁ শব্দ,5,5
+SYMPTOM,wheeze,4,4
+SYMPTOM,অ্যালার্জিক প্রতিক্রিয়া,4,4
+SYMPTOM,আগ্রহ,4,4
+SYMPTOM,একটানা হাঁচি,4,4
+SYMPTOM,কফসহ,4,4
+SYMPTOM,কিছু আটকে থাকার মতো,4,4
+SYMPTOM,ক্রমাগত,4,4
+SYMPTOM,ক্ষুধা একদম,4,4
+SYMPTOM,গন্ধ,4,4
+SYMPTOM,গলার স্বর বসে গেছে,4,4
+SYMPTOM,গিলতে কান্না,4,4
+SYMPTOM,চাকা চাকা,4,4
+SYMPTOM,চিৎকার,4,4
+SYMPTOM,চুলকিয়ে,4,2
+SYMPTOM,চোখ কচলাতে ইচ্ছে করছে,4,4
+SYMPTOM,চোখ জ্বালা,4,4
+SYMPTOM,চোখের পাতায় ফোলা,4,4
+SYMPTOM,ছানি,4,4
+SYMPTOM,ছোট ঘা,4,4
+SYMPTOM,ছোপ,4,4
+SYMPTOM,জমা,4,4
+SYMPTOM,ত্বকের,4,4
+SYMPTOM,নাক দিয়ে,4,4
+SYMPTOM,নাক দিয়ে জল পড়ছে,4,4
+SYMPTOM,পাতা,4,4
+SYMPTOM,প্যাড,4,4
+SYMPTOM,ফাটাবেন,4,4
+SYMPTOM,ফ্যাকাশে ও,4,4
+SYMPTOM,বারবার হাঁচি,4,4
+SYMPTOM,বিরক্ত,4,4
+SYMPTOM,বুকে অস্বস্তি,4,4
+SYMPTOM,ব্যথাযুক্ত ঘা,4,4
+SYMPTOM,ভোরে,4,4
+SYMPTOM,মোচড়ানো ব্যথা,4,4
+SYMPTOM,শকের,4,4
+SYMPTOM,শীত বেশি লাগছে,4,4
+SYMPTOM,শ্বাস,4,4
+SYMPTOM,সজাগ,4,4
+SYMPTOM,সারা,4,4
+SYMPTOM,স্পর্শে,4,4
+SYMPTOM,হলুদ,4,4
+SYMPTOM,হাত কাঁপছে,4,4
+SYMPTOM,হৃদযন্ত্রে অতিরিক্ত শব্দ,4,4
+SYMPTOM,হৃদযন্ত্রে অস্বাভাবিক শব্দ,4,4
+SYMPTOM,wheals,3,3
+SYMPTOM,অতিরিক্ত রক্তপাত,3,3
+SYMPTOM,অ্যাসিডিটি,3,3
+SYMPTOM,আমবাত,3,3
+SYMPTOM,উজ্জ্বলতা,3,3
+SYMPTOM,উদাস,3,3
+SYMPTOM,উদ্বিগ্ন,3,3
+SYMPTOM,কানে চুলকানি,3,3
+SYMPTOM,কানে সংক্রমণের,3,3
+SYMPTOM,গলাব্যথা,3,3
+SYMPTOM,গলায় জ্বালা,3,3
+SYMPTOM,ঘন,3,3
+SYMPTOM,ঘর ঘুরছে,3,3
+SYMPTOM,ঘুম কমে,3,3
+SYMPTOM,চাকা,3,3
+SYMPTOM,চোখ ক্লান্ত,3,3
+SYMPTOM,চোখ বন্ধ হচ্ছে,3,3
+SYMPTOM,চোখে ক্লান্তি অনুভব,3,3
+SYMPTOM,চোখের পাতা ভারী,3,3
+SYMPTOM,জলযুক্ত ক্ষুদ্র ফোসকা,3,3
+SYMPTOM,জ্বালাপোড়া,3,3
+SYMPTOM,ঝুলে,3,3
+SYMPTOM,ত্বক পুরু হওয়া,3,3
+SYMPTOM,দ্রুত শ্বাস নিচ্ছে,3,3
+SYMPTOM,নাক ঝাড়বেন,3,3
+SYMPTOM,পড়তে,3,3
+SYMPTOM,পা,3,3
+SYMPTOM,পাতা ফোলা,3,3
+SYMPTOM,পায়ে,3,3
+SYMPTOM,পায়ে স্পর্শানুভূতি,3,3
+SYMPTOM,পুঁজকণা,3,3
+SYMPTOM,পুঁজভরা,3,3
+SYMPTOM,পেটে তীব্র ব্যথা,3,3
+SYMPTOM,পেশিতে স্পর্শে ব্যথা,3,3
+SYMPTOM,প্রচণ্ড ব্যথা,3,3
+SYMPTOM,প্রদাহ,3,3
+SYMPTOM,বসে,3,3
+SYMPTOM,বিরক্ত লাগছে,3,3
+SYMPTOM,বুক,3,3
+SYMPTOM,মাথা ঘোরালে,3,3
+SYMPTOM,মুখ কুলকুচি,3,3
+SYMPTOM,মুখ থেকে দুর্গন্ধ,3,3
+SYMPTOM,যাওয়া,3,3
+SYMPTOM,রক্তক্ষরণ,3,3
+SYMPTOM,রাতে ঘাম,3,3
+SYMPTOM,লাগছে,3,3
+SYMPTOM,শক্ত লাগছে,3,3
+SYMPTOM,শীত,3,3
+SYMPTOM,শুনতে,3,3
+SYMPTOM,শূন্যতার,3,3
+SYMPTOM,হাঁটু,3,3
+SYMPTOM,হাতে,3,3
+SYMPTOM,হাতে ঝিনঝিন,3,3
+SYMPTOM,delayed,2,2
+SYMPTOM,উঠতে কষ্ট,2,2
+SYMPTOM,উদ্বেগ,2,2
+SYMPTOM,ওজন বাড়ছে,2,2
+SYMPTOM,ওজন বেড়ে যাচ্ছে,2,2
+SYMPTOM,কচলাবেন,2,2
+SYMPTOM,কম,2,2
+SYMPTOM,কমে,2,2
+SYMPTOM,কাঁধে ব্যথা,2,2
+SYMPTOM,কান থেকে পুঁজ,2,2
+SYMPTOM,কানে কম শুনতে,2,2
+SYMPTOM,কাশি থামছে না,2,2
+SYMPTOM,কোমরে,2,2
+SYMPTOM,ক্রেপিটাস,2,2
+SYMPTOM,খুঁটবেন,2,2
+SYMPTOM,গন্ধ কম,2,2
+SYMPTOM,গা-হাত-পায়ে,2,2
+SYMPTOM,গায়ে লালচে র্যাশ,2,2
+SYMPTOM,ঘাড়,2,2
+SYMPTOM,ঘাম বেশি,2,2
+SYMPTOM,ঘুম আসছে,2,2
+SYMPTOM,ঘোলাটে,2,2
+SYMPTOM,চোখে কিছু আটকে থাকার মতো,2,2
+SYMPTOM,চোখের,2,2
+SYMPTOM,চোখের পাতা ফুলে গেছে,2,2
+SYMPTOM,জয়েন্টের নড়াচড়া ব্যথার,2,2
+SYMPTOM,ঠান্ডা লাগাবেন,2,2
+SYMPTOM,তীব্র অ্যালার্জিক প্রতিক্রিয়া,2,2
+SYMPTOM,ত্বক কালচে,2,2
+SYMPTOM,ত্বকে জ্বালার,2,2
+SYMPTOM,ধুলোবালি,2,2
+SYMPTOM,পড়ে গেছেন,2,2
+SYMPTOM,পরাগ,2,2
+SYMPTOM,পরিবর্তন,2,2
+SYMPTOM,পায়খানা,2,2
+SYMPTOM,পায়ের পালস,2,2
+SYMPTOM,পেটে,2,2
+SYMPTOM,পেটে মোচড়ানো ব্যথা,2,2
+SYMPTOM,পোকা,2,2
+SYMPTOM,প্রস্রাব চেপে,2,2
+SYMPTOM,ফোসকা ফাটাবেন,2,2
+SYMPTOM,মাথায় খুশকি,2,2
+SYMPTOM,মানসিক চাপের,2,2
+SYMPTOM,রেঞ্জ,2,2
+SYMPTOM,লাগা,2,2
+SYMPTOM,শ্বাস নিলে,2,2
+SYMPTOM,সংক্রামক,2,2
+SYMPTOM,সাদা-হলুদ ঘা,2,2
+SYMPTOM,সাদাটে পুঁজের দাগ,2,2
+SYMPTOM,হওয়া,2,2
+SYMPTOM,হাঁটু শক্ত,2,2
+SYMPTOM,হৃদযন্ত্রে,2,2
+SYMPTOM,bronchial,1,1
+SYMPTOM,percussion tender,1,1
+SYMPTOM,অফ মোশন,1,1
+SYMPTOM,অ্যাকটিভ,1,1
+SYMPTOM,অ্যালার্জিজনিত,1,1
+SYMPTOM,আউরা,1,1
+SYMPTOM,আটকে থাকার,1,1
+SYMPTOM,আত্মহননের,1,1
+SYMPTOM,আলোর দিকে তাকাতে অস্বস্তি,1,1
+SYMPTOM,একটানা,1,1
+SYMPTOM,করার,1,1
+SYMPTOM,কাঁধ শক্ত লাগছে,1,1
+SYMPTOM,কান থেকে,1,1
+SYMPTOM,কানে তীব্র ব্যথা,1,1
+SYMPTOM,কোমর,1,1
+SYMPTOM,কোমরের,1,1
+SYMPTOM,কোমরের নড়াচড়া ব্যথার,1,1
+SYMPTOM,ক্ষতি করার,1,1
+SYMPTOM,খিটখিটে হয়ে,1,1
+SYMPTOM,গন্ধ কম পাচ্ছেন,1,1
+SYMPTOM,গা,1,1
+SYMPTOM,গায়ে লাল,1,1
+SYMPTOM,গিলতে,1,1
+SYMPTOM,ঘন পায়খানার বেগ,1,1
+SYMPTOM,ঘুমাতে পারছে না,1,1
+SYMPTOM,ঘুমের ব্যাঘাত,1,1
+SYMPTOM,চুলকাতে চুলকাতে,1,1
+SYMPTOM,চুলকানিতে,1,1
+SYMPTOM,চোখ ক্লান্ত হয়ে যাচ্ছে,1,1
+SYMPTOM,চোখ বন্ধ করতে,1,1
+SYMPTOM,চোখ হাত,1,1
+SYMPTOM,চোখের পাতা গরম সেঁক,1,1
+SYMPTOM,জয়েন্ট শক্ত,1,1
+SYMPTOM,জয়েন্টের নড়াচড়া,1,1
+SYMPTOM,জলের মতো,1,1
+SYMPTOM,জিভ,1,1
+SYMPTOM,জ্বালার,1,1
+SYMPTOM,টেন্ডারনেস,1,1
+SYMPTOM,তেলঘি,1,1
+SYMPTOM,তৈলাক্ত হয়ে,1,1
+SYMPTOM,ত্বক খসখসে,1,1
+SYMPTOM,ত্বক টানলে,1,1
+SYMPTOM,ত্বকে লালচে র্যাশ,1,1
+SYMPTOM,থেকে পুঁজ,1,1
+SYMPTOM,দিকে তাকাতে পারছেন না,1,1
+SYMPTOM,দিয়ে রক্তপাত,1,1
+SYMPTOM,দৃষ্টিশক্তি,1,1
+SYMPTOM,নখ ভঙ্গুর,1,1
+SYMPTOM,নড়াচড়া,1,1
+SYMPTOM,নাক দিয়ে জলের মতো সর্দি,1,1
+SYMPTOM,নিষ্ক্রিয়,1,1
+SYMPTOM,নিষ্ক্রিয় নড়াচড়া,1,1
+SYMPTOM,পরিকল্পনা,1,1
+SYMPTOM,পাতা গরম সেঁক,1,1
+SYMPTOM,পায়ের,1,1
+SYMPTOM,পুঁজের বিন্দু,1,1
+SYMPTOM,পুরু,1,1
+SYMPTOM,পেইন,1,1
+SYMPTOM,পেশিতে স্পর্শে,1,1
+SYMPTOM,প্যাসিভ,1,1
+SYMPTOM,প্যাসিভ রেঞ্জ অফ মোশন,1,1
+SYMPTOM,প্রস্টেট,1,1
+SYMPTOM,প্রস্রাব হলুদ হয়ে গেছে,1,1
+SYMPTOM,বারবার মুখের ঘা,1,1
+SYMPTOM,বুক পরিষ্কার,1,1
+SYMPTOM,ব্যাঘাত,1,1
+SYMPTOM,মনোযোগ কমে,1,1
+SYMPTOM,মনোযোগ কমে গেছে,1,1
+SYMPTOM,মল,1,1
+SYMPTOM,মশার,1,1
+SYMPTOM,মানসিক চাপে ব্যথা,1,1
+SYMPTOM,মাসিকের,1,1
+SYMPTOM,মৃদু,1,1
+SYMPTOM,যাচ্ছে,1,1
+SYMPTOM,রক্ত পড়ছে,1,1
+SYMPTOM,লাইকেনিফিকেশন,1,1
+SYMPTOM,লাল লাল চাকা চাকা দাগ,1,1
+SYMPTOM,লালচে চাকা,1,1
+SYMPTOM,লো,1,1
+SYMPTOM,লো ব্যাক পেইন,1,1
+SYMPTOM,শুকিয়ে,1,1
+SYMPTOM,শূন্যতা,1,1
+SYMPTOM,শ্রবণ,1,1
+SYMPTOM,সারাক্ষণ,1,1
+SYMPTOM,সুড়ঙ্গের মতো দাগ,1,1
+SYMPTOM,স্ক্রিনের উজ্জ্বলতা,1,1
+SYMPTOM,স্বর কর্কশ ও,1,1
+SYMPTOM,হাঁটু ফুলে,1,1
+SYMPTOM,হাঁটু ফুলে যাচ্ছে,1,1
+SYMPTOM,হাত,1,1
+SYMPTOM,হাত-পায়ের গাঁটে,1,1
+SYMPTOM,হাতের,1,1
+SYMPTOM,হালকা,1,1
+TEMPORAL,৫ দিন,495,470
+TEMPORAL,১ সপ্তাহ পর,295,291
+TEMPORAL,৩ দিন,232,222
+TEMPORAL,৭ দিন,212,211
+TEMPORAL,৩ দিন পর,208,208
+TEMPORAL,৫ দিন পর,189,189
+TEMPORAL,৭ দিন পর,181,181
+TEMPORAL,২ সপ্তাহ পর,131,131
+TEMPORAL,২ দিন,111,107
+TEMPORAL,১ মাস পর,108,106
+TEMPORAL,২ সপ্তাহ,101,98
+TEMPORAL,প্রতিদিন,95,81
+TEMPORAL,২ দিন ধরে,95,95
+TEMPORAL,৩ মাস পর,93,93
+TEMPORAL,১ মাস,89,85
+TEMPORAL,৬ সপ্তাহ পর,88,88
+TEMPORAL,১০ দিন,85,85
+TEMPORAL,প্রতি মাসে,84,84
+TEMPORAL,৪ দিন ধরে,79,79
+TEMPORAL,দিনে,78,78
+TEMPORAL,৫-৭ দিন,76,76
+TEMPORAL,৩ দিন ধরে,70,70
+TEMPORAL,৪ দিন,70,70
+TEMPORAL,১ দিন,68,68
+TEMPORAL,১ দিন ধরে,65,65
+TEMPORAL,৬ মাস,61,61
+TEMPORAL,৩ মাস,59,57
+TEMPORAL,৩ দিনের বেশি,55,45
+TEMPORAL,৬ মাস ধরে,54,54
+TEMPORAL,১ মাস ধরে,53,53
+TEMPORAL,২ সপ্তাহ ধরে,51,51
+TEMPORAL,১ বছর ধরে,49,49
+TEMPORAL,৫ দিন ধরে,49,49
+TEMPORAL,সারা,46,41
+TEMPORAL,১ বছর,46,46
+TEMPORAL,২ বছর ধরে,46,46
+TEMPORAL,২ মাস ধরে,45,45
+TEMPORAL,৩ সপ্তাহ ধরে,43,43
+TEMPORAL,১ সপ্তাহ,42,40
+TEMPORAL,১০ দিন ধরে,37,37
+TEMPORAL,১০ মিনিট,37,37
+TEMPORAL,১৪ দিন,36,36
+TEMPORAL,২ মাস,36,36
+TEMPORAL,প্রায়,35,35
+TEMPORAL,৩ সপ্তাহ,34,34
+TEMPORAL,২ সপ্তাহের বেশি,33,33
+TEMPORAL,দিন,32,32
+TEMPORAL,৪ সপ্তাহ,32,32
+TEMPORAL,৮ সপ্তাহ,32,32
+TEMPORAL,২ বছর,28,28
+TEMPORAL,৩ বছর,28,28
+TEMPORAL,৩ বছর ধরে,28,28
+TEMPORAL,রাতে,27,27
+TEMPORAL,৫ মিনিট,25,25
+TEMPORAL,৫ বছর ধরে,24,24
+TEMPORAL,১৫ মিনিটের বেশি,22,22
+TEMPORAL,৪ ঘণ্টা,22,15
+TEMPORAL,৬-৭ বার,22,22
+TEMPORAL,৩ মাস ধরে,21,21
+TEMPORAL,১৫ দিন,20,20
+TEMPORAL,২ ঘণ্টা,20,20
+TEMPORAL,৫-৬ বার,20,20
+TEMPORAL,৫-১০ মিনিটে,19,19
+TEMPORAL,কিছুদিন,18,18
+TEMPORAL,দিন দিন,18,18
+TEMPORAL,১ সপ্তাহ ধরে,18,18
+TEMPORAL,প্রতি ৩ মাসে,17,17
+TEMPORAL,ঘণ্টায়,16,16
+TEMPORAL,প্রতি ২০ মিনিট পর,16,16
+TEMPORAL,প্রতি ৬-১২ মাস অন্তর,16,16
+TEMPORAL,বছরে একবার,15,15
+TEMPORAL,২-৩ মাস পরপর,15,15
+TEMPORAL,২৪ ঘণ্টায়,15,15
+TEMPORAL,৩-৪ দিনে,15,15
+TEMPORAL,৩-৪ বার,15,15
+TEMPORAL,৫-১০ মিনিট,15,15
+TEMPORAL,৬ ঘণ্টায়,15,15
+TEMPORAL,৬ মাসের,15,15
+TEMPORAL,কয়েক ঘণ্টা পর,14,14
+TEMPORAL,রোজ,14,14
+TEMPORAL,১০-১৪ দিন,14,14
+TEMPORAL,২০,14,13
+TEMPORAL,২০ সেকেন্ড,14,14
+TEMPORAL,৩-৬ মাস,14,14
+TEMPORAL,৫ বছর,14,14
+TEMPORAL,খাবারের আগে,13,13
+TEMPORAL,ঘণ্টা,13,13
+TEMPORAL,প্রায় ২ মাস ধরে,13,13
+TEMPORAL,১ ঘণ্টা পর,13,13
+TEMPORAL,৩ দিনের,13,13
+TEMPORAL,৪৫ মিনিট,13,13
+TEMPORAL,৮ ঘণ্টা পর,13,13
+TEMPORAL,কয়েক দিন ধরে,12,12
+TEMPORAL,মাসিকের প্রথম ২ দিন,12,12
+TEMPORAL,সময়,12,12
+TEMPORAL,১ সপ্তাহে,12,12
+TEMPORAL,১৫ মিনিট,12,12
+TEMPORAL,২ দিন পর,12,12
+TEMPORAL,৩-৬ সপ্তাহে,12,12
+TEMPORAL,৪-৬ ঘণ্টা,12,12
+TEMPORAL,প্রতি ৪৫ মিনিট পর,11,11
+TEMPORAL,৬ ঘণ্টা পরপর,11,11
+TEMPORAL,৭ দিনের,11,11
+TEMPORAL,প্রতি,10,10
+TEMPORAL,প্রতি বছর,10,10
+TEMPORAL,৩-৪,10,10
+TEMPORAL,৮-১২ ঘণ্টা পর,10,10
+TEMPORAL,প্রতি ৬ ঘণ্টা পরপর,9,9
+TEMPORAL,বার,9,9
+TEMPORAL,২১ দিনের,9,9
+TEMPORAL,৩-৪ সপ্তাহ,9,9
+TEMPORAL,৫ দিনের,9,9
+TEMPORAL,৬ দিন,9,9
+TEMPORAL,৬ মাস পর,9,9
+TEMPORAL,কয়েক ঘণ্টা ধরে,8,8
+TEMPORAL,১ বছর পর,8,8
+TEMPORAL,আগে,7,7
+TEMPORAL,খাবারের,7,7
+TEMPORAL,রাতের,7,7
+TEMPORAL,সপ্তাহে,7,7
+TEMPORAL,৩০ মিনিট,7,7
+TEMPORAL,৩০-৪৫ মিনিট,7,7
+TEMPORAL,৬ মাসের বেশি,7,7
+TEMPORAL,কয়েক সপ্তাহ,6,6
+TEMPORAL,প্রতি ৬ ঘণ্টা অন্তর,6,6
+TEMPORAL,মাসিকের আগে,6,6
+TEMPORAL,সন্ধ্যার,6,6
+TEMPORAL,১৫ মিনিটের,6,6
+TEMPORAL,৩০,6,6
+TEMPORAL,৬ ঘণ্টা,6,6
+TEMPORAL,কয়েক ঘণ্টা,5,5
+TEMPORAL,প্রথম ২ দিন,5,5
+TEMPORAL,প্রয়োজনে,5,5
+TEMPORAL,সপ্তাহে ৩ দিন,5,5
+TEMPORAL,১-২ মিনিট,5,5
+TEMPORAL,১০ বছর ধরে,5,5
+TEMPORAL,৮ দিন,5,5
+TEMPORAL,বিকেলের,4,4
+TEMPORAL,১০,4,4
+TEMPORAL,২-৩,4,4
+TEMPORAL,৩ বার,4,4
+TEMPORAL,৩-৫ দিন,4,4
+TEMPORAL,৩৮ সপ্তাহ,4,2
+TEMPORAL,৪ মাস,4,4
+TEMPORAL,৪ সপ্তাহ পর,4,4
+TEMPORAL,৬-৮ সপ্তাহ পর,4,4
+TEMPORAL,থেকে,3,3
+TEMPORAL,পর,3,3
+TEMPORAL,প্রতি মাসে একবার,3,3
+TEMPORAL,মাস,3,3
+TEMPORAL,সাময়িক,3,3
+TEMPORAL,২ সপ্তাহের,3,3
+TEMPORAL,২-৩ বার,3,3
+TEMPORAL,২০ ফুট,3,3
+TEMPORAL,৩০-৪৫,3,3
+TEMPORAL,৩৭ সপ্তাহ,3,2
+TEMPORAL,৬ সেকেন্ড,3,3
+TEMPORAL,অনেকক্ষণ,2,2
+TEMPORAL,কিছু সময়,2,2
+TEMPORAL,ঘন,2,2
+TEMPORAL,দিনে ৫-৬ বার,2,2
+TEMPORAL,পুরো,2,2
+TEMPORAL,মিনিট,2,2
+TEMPORAL,১৮ সপ্তাহ,2,1
+TEMPORAL,২২ সপ্তাহ,2,1
+TEMPORAL,২৫ সপ্তাহ,2,1
+TEMPORAL,২৭ সপ্তাহ,2,1
+TEMPORAL,২৯ সপ্তাহ,2,1
+TEMPORAL,৩ দিনের জন্য,2,2
+TEMPORAL,৩০ সপ্তাহ,2,1
+TEMPORAL,৩২ সপ্তাহ,2,1
+TEMPORAL,৩৫ সপ্তাহ,2,2
+TEMPORAL,৪ মাস ধরে,2,2
+TEMPORAL,খাবারের পর,1,1
+TEMPORAL,ঘণ্টা পরপর,1,1
+TEMPORAL,প্রতি ৬ ঘণ্টা,1,1
+TEMPORAL,বিকেলের দিকে,1,1
+TEMPORAL,সংক্ষিপ্ত,1,1
+TEMPORAL,১৪ সপ্তাহ,1,1
+TEMPORAL,১৫,1,1
+TEMPORAL,১৯ সপ্তাহ,1,1
+TEMPORAL,২১ সপ্তাহ,1,1
+TEMPORAL,২৩ সপ্তাহ,1,1
+TEMPORAL,৪৫,1,1
+TEMPORAL,৬ দিন ধরে,1,1
+TEMPORAL,৭ দিন ধরে,1,1
+TEMPORAL,৭ দিনের বেশি,1,1
+TEMPORAL,৮-১২,1,1
+TEST,নাড়ির গতি,545,534
+TEST,তাপমাত্রা,505,463
+TEST,রক্তচাপ,450,417
+TEST,শারীরিক পরীক্ষা,307,307
+TEST,ওজন,224,224
+TEST,ভাইটাল সাইন,119,119
+TEST,CBC,88,88
+TEST,SpO₂,77,77
+TEST,দৃষ্টিশক্তি,65,65
+TEST,শ্বাসের হার,65,65
+TEST,বুকের এক্স-রে,63,54
+TEST,স্নায়বিক পরীক্ষা,59,59
+TEST,BMI,55,55
+TEST,কনজাংটিভা,54,54
+TEST,প্লেটলেট কাউন্ট,53,33
+TEST,রক্তে শর্করা,45,40
+TEST,হিমোগ্লোবিন,44,34
+TEST,ফান্ডাস,43,43
+TEST,রক্ত পরীক্ষা,41,41
+TEST,TSH,39,29
+TEST,সাইন,36,36
+TEST,SPF,35,35
+TEST,ভাইটাল,35,35
+TEST,নড়াচড়া,34,34
+TEST,মোট শ্বেতকণিকা,34,34
+TEST,রিফ্লেক্স,31,31
+TEST,ট্যুর্নিকেট টেস্ট,30,30
+TEST,রক্তে শর্করা পরীক্ষা,30,30
+TEST,পেলভিক আলট্রাসনোগ্রাফি,28,21
+TEST,NS1 অ্যান্টিজেন,26,26
+TEST,চোখ পরীক্ষা,26,26
+TEST,হেমাটোক্রিট,26,26
+TEST,CVA,25,25
+TEST,পরীক্ষা,25,25
+TEST,HbA1c,23,23
+TEST,এক্স-রে,23,23
+TEST,কফ পরীক্ষা,23,17
+TEST,কালচার,23,21
+TEST,সিরাম ইউরিক অ্যাসিড,23,21
+TEST,ফাস্টিং রক্তে শর্করা,22,22
+TEST,মেটাটারসোফ্যালানজিয়াল,22,22
+TEST,লিপিড প্রোফাইল,22,22
+TEST,pallor,19,19
+TEST,টাইডট IgM,19,19
+TEST,শব্দ,19,19
+TEST,PA+++,18,18
+TEST,ত্বকের স্থিতিস্থাপকতা,18,18
+TEST,CRP,17,17
+TEST,SGPT,17,17
+TEST,VA,17,17
+TEST,ফুসফুসের কার্যক্ষমতা,17,17
+TEST,সিরাম বিলিরুবিন,17,17
+TEST,FT4,16,16
+TEST,GeneXpert,16,13
+TEST,ডিক্স-হলপাইক টেস্ট,16,12
+TEST,ডিজিটাল রেক্টাল পরীক্ষায়,16,16
+TEST,HAV IgM,15,15
+TEST,MCV,15,15
+TEST,কিডনির পরীক্ষা,15,15
+TEST,খাবারের,15,15
+TEST,বুকের এক্স-রে-তে,15,15
+TEST,মাইক্রোসাইটিক,15,15
+TEST,সিরাম ক্রিয়েটিনিন,15,15
+TEST,O/E,14,14
+TEST,অ্যাবডাকশন,14,14
+TEST,চোখের পরীক্ষা,14,14
+TEST,ডার্মোগ্রাফিজম,14,14
+TEST,পা পরীক্ষা,14,14
+TEST,প্রস্রাবের রুটিনে,14,14
+TEST,ফ্লুরেসিন স্টেনে,14,14
+TEST,মলের রুটিন পরীক্ষা,14,14
+TEST,IPSS স্কোর,13,13
+TEST,Ix,13,13
+TEST,NSAID,13,13
+TEST,পায়ের শক্তি,13,13
+TEST,পিক ফ্লো,13,13
+TEST,রক্তে,13,13
+TEST,সানস্ক্রিন,13,13
+TEST,MRI,12,12
+TEST,SLR,12,12
+TEST,কফের AFB পরীক্ষা,12,12
+TEST,গলার সোয়াব কালচার,12,12
+TEST,টেস্ট,12,11
+TEST,প্রস্রাবের রুটিন,12,12
+TEST,শ্রবণ,12,12
+TEST,শ্লেষ্মা,12,12
+TEST,LS spine,11,11
+TEST,monofilament টেস্টে,11,11
+TEST,ইকোকার্ডিওগ্রাফি,11,11
+TEST,কাঁধের এক্স-রে,11,11
+TEST,চোখ ও,11,11
+TEST,পায়ুপথ পরীক্ষায়,11,11
+TEST,ফান্ডাস পরীক্ষায়,11,11
+TEST,শিরায়,11,11
+TEST,স্যালাইন ইনফিউশন,11,11
+TEST,স্রাবের মাইক্রোস্কোপি,11,11
+TEST,BPPV,10,10
+TEST,KOH স্মিয়ার পরীক্ষা,10,10
+TEST,Straight Leg Raising,10,10
+TEST,TBUT,10,10
+TEST,টিয়ার ব্রেক-আপ টাইম,10,10
+TEST,ত্বকের স্ক্র্যাপিং পরীক্ষা,10,10
+TEST,নাড়ি,10,10
+TEST,বায়োপসির,10,10
+TEST,মলের পরীক্ষা,10,10
+TEST,হিল স্পার,10,10
+TEST,LDL,9,9
+TEST,sign,9,9
+TEST,চোখের নড়াচড়া,9,9
+TEST,টোটাল কোলেস্টেরল,9,9
+TEST,ট্রাইগ্লিসারাইড,9,9
+TEST,ম্যালেরিয়া পরজীবী পরীক্ষা,9,9
+TEST,রেড রিফ্লেক্স,9,9
+TEST,সিরাম IgE,9,9
+TEST,স্কিন প্রিক টেস্ট,9,9
+TEST,NS1,8,8
+TEST,PHQ-9,8,8
+TEST,RBC,8,8
+TEST,অ্যাসিড,8,8
+TEST,আলট্রাসনোগ্রাফি,8,8
+TEST,জিভ,8,8
+TEST,নখ,8,8
+TEST,র্যাপিড স্ট্রেপ টেস্ট,8,8
+TEST,শিরিমার টেস্টে,8,8
+TEST,সোডিয়াম হায়ালুরোনেট,8,8
+TEST,হৃদযন্ত্র,8,8
+TEST,LMN,7,7
+TEST,MTB/RIF,7,7
+TEST,PHQ-9 স্কোর,7,7
+TEST,TSH পরীক্ষা,7,6
+TEST,percussion,7,7
+TEST,perforation,7,7
+TEST,অটো-রিফ্র্যাক্টোমিটারে,7,7
+TEST,অডিওমেট্রি,7,7
+TEST,কাঁধের,7,7
+TEST,কাঁধের সক্রিয়,7,7
+TEST,চশমার পাওয়ার,7,7
+TEST,ডেন্টাল এক্স-রে,7,7
+TEST,পালস,7,7
+TEST,পেটের আলট্রাসনোগ্রাফি,7,7
+TEST,প্রস্রাবের রং,7,7
+TEST,ফান্ডাল উচ্চতা,7,7
+TEST,রক্তের গ্রুপ,7,7
+TEST,শক্তি,7,7
+TEST,সিরাম ইলেক্ট্রোলাইট,7,7
+TEST,স্পার্লিং টেস্ট,7,7
+TEST,স্লিট ল্যাম্প পরীক্ষা,7,7
+TEST,স্লিট ল্যাম্প পরীক্ষায়,7,7
+TEST,BPH,6,6
+TEST,I&C,6,6
+TEST,LH,6,6
+TEST,PCOS,6,6
+TEST,PNS,6,6
+TEST,TMT,6,6
+TEST,অগ্রভাগ,6,6
+TEST,কটিদেশের এক্স-রে,6,6
+TEST,ট্রেডমিল টেস্ট,6,6
+TEST,পেশি,6,6
+TEST,প্রস্রাবের,6,6
+TEST,ফুসফুস,6,6
+TEST,বায়োপসি,6,6
+TEST,ব্রেন MRI,6,6
+TEST,ভ্রূণের হৃদস্পন্দন,6,6
+TEST,শিরায় নর্মাল স্যালাইন ইনফিউশন,6,6
+TEST,সাসপেনশন,6,6
+TEST,সিটি স্ক্যান,6,6
+TEST,সিরাম ভিটামিন বি১২,6,6
+TEST,হাতের শক্তি,6,6
+TEST,ESR,5,5
+TEST,GAD-7 স্কোর,5,5
+TEST,IOPA,5,5
+TEST,অটোস্কপি,5,5
+TEST,অটোস্কপি পরীক্ষা,5,5
+TEST,ইওসিনোফিল,5,5
+TEST,ইসিজি,5,5
+TEST,কফের AFB স্মিয়ার,5,5
+TEST,গ্লিসারিল ট্রাইনাইট্রেট,5,5
+TEST,জিআই,5,5
+TEST,ত্বক,5,5
+TEST,পাওয়ার পুনরায় পরীক্ষা,5,5
+TEST,পেসারি,5,5
+TEST,ফ্লুরেসিন স্টেন,5,5
+TEST,ভাইটাল সাইন পর্যবেক্ষণ,5,5
+TEST,মলে E. histolytica পরীক্ষা,5,5
+TEST,মলের রুটিন,5,5
+TEST,রক্তচাপ পরীক্ষা,5,5
+TEST,হাঁটুর এক্স-রে,5,5
+TEST,FSH,4,4
+TEST,HIV,4,4
+TEST,PNS এক্স-রে,4,4
+TEST,RA ফ্যাক্টর,4,4
+TEST,Rx,4,4
+TEST,অ্যানোমালি স্ক্যান,4,4
+TEST,ইএনটি পরীক্ষা,4,4
+TEST,ইওসিনোফিল গণনা,4,4
+TEST,ইম্পিড্যান্স অডিওমেট্রি,4,4
+TEST,উইডাল পরীক্ষা,4,4
+TEST,কর্নিয়াল ফরেন,4,4
+TEST,কানের নিঃসরণের কালচার,4,4
+TEST,কৃমির,4,4
+TEST,চোখ,4,4
+TEST,চোখের কনজাংটিভা,4,4
+TEST,ট্রাইনাইট্রেট,4,4
+TEST,ডার্মাটোম,4,4
+TEST,ত্বকের স্ক্র্যাপিং,4,4
+TEST,পায়ের এক্স-রে,4,4
+TEST,পিক ফ্লো মিটার পরীক্ষা,4,4
+TEST,পুঁজের কালচার,4,4
+TEST,প্রস্টেট,4,4
+TEST,ফান্ডাস পরীক্ষা,4,4
+TEST,ফেরিম্যান-গ্যালওয়ে স্কোর,4,4
+TEST,রেবিপ্রাজল,4,4
+TEST,স্টেনে,4,4
+TEST,স্থিতিস্থাপকতা,4,4
+TEST,C-spine,3,3
+TEST,CBT,3,3
+TEST,I&D,3,3
+TEST,ILI,3,3
+TEST,IOL পাওয়ার,3,3
+TEST,OPG,3,3
+TEST,PVR,3,3
+TEST,curdy,3,3
+TEST,অ্যাকটিভ,3,3
+TEST,ইলেক্ট্রোলাইট,3,3
+TEST,উড'স,3,3
+TEST,এয়ারে,3,3
+TEST,ক্রিয়েটিনিন,3,3
+TEST,গ্রন্থি,3,3
+TEST,গ্রন্থির,3,3
+TEST,পাওয়ার,3,3
+TEST,পায়ের পালস,3,3
+TEST,পেরিফেরাল ব্লাড স্মিয়ার,3,3
+TEST,প্রস্রাবে অ্যালবুমিন,3,3
+TEST,বায়োমেট্রি,3,3
+TEST,মলের রুটিন ও কালচার,3,3
+TEST,রিবাউন্ড টেন্ডারনেস,3,3
+TEST,র্যাপিড,3,3
+TEST,F/U,2,2
+TEST,GAD-7,2,2
+TEST,HRZE,2,2
+TEST,IgE,2,2
+TEST,KOH,2,2
+TEST,KUB এক্স-রে,2,2
+TEST,L-S spine,2,2
+TEST,OGTT,2,2
+TEST,Straight Leg Raising) টেস্ট,2,2
+TEST,bronchial,2,2
+TEST,crepitation,2,2
+TEST,curdy discharge,2,2
+TEST,dehydration,2,2
+TEST,ইউরিক,2,2
+TEST,ইটোরিকক্সিব,2,2
+TEST,কর্নিয়াল ফরেন বডি,2,2
+TEST,কলচিসিন,2,2
+TEST,গ্লুকোজ,2,2
+TEST,ঘড়ির,2,2
+TEST,টাক্রোলিমাস,2,2
+TEST,ডি৩,2,2
+TEST,দূর,2,2
+TEST,পরজীবী পরীক্ষা,2,2
+TEST,পিক ফ্লো),2,2
+TEST,পিক ফ্লো) পরীক্ষা,2,2
+TEST,ফরেন,2,2
+TEST,ফাস্টিং ব্লাড গ্লুকোজ,2,2
+TEST,ফ্লুরেসিন,2,2
+TEST,ভিটামিন বি১২,2,2
+TEST,মুখে,2,2
+TEST,রং,2,2
+TEST,রিবাউন্ড,2,2
+TEST,র্যাপিড ইনফ্লুয়েঞ্জা,2,2
+TEST,লাইকেনিফিকেশন,2,2
+TEST,সার্ভাইকাল স্পাইনের এক্স-রে,2,2
+TEST,সিরাম,2,2
+TEST,সিরাম ফেরিটিন,2,2
+TEST,সেনসিটিভিটি,2,2
+TEST,স্ক্রিন টাইম,2,2
+TEST,হাত-পায়ের শক্তি,2,2
+TEST,ANC,1,1
+TEST,H/O,1,1
+TEST,L-S,1,1
+TEST,LS,1,1
+TEST,UVB,1,1
+TEST,bronchial breathing,1,1
+TEST,chest,1,1
+TEST,chest indrawing,1,1
+TEST,fluctuant,1,1
+TEST,hyperactive,1,1
+TEST,percussion tender,1,1
+TEST,tender,1,1
+TEST,অ্যাব্রেশন,1,1
+TEST,অ্যালার্জি স্কিন প্রিক টেস্ট,1,1
+TEST,ইউরিক অ্যাসিড,1,1
+TEST,ইনফিউশন,1,1
+TEST,ইনসিশন,1,1
+TEST,কফের কালচার,1,1
+TEST,কর্নিয়া,1,1
+TEST,গর্ভকালীন ডায়াবেটিস পরীক্ষা,1,1
+TEST,গলার আলট্রাসনোগ্রাফি,1,1
+TEST,ঘড়ির স্ট্র্যাপের,1,1
+TEST,জয়েন্টের নড়াচড়া,1,1
+TEST,টাইডট,1,1
+TEST,ট্রপোনিন-I,1,1
+TEST,ডায়াগনস্টিক,1,1
+TEST,ড্রাই,1,1
+TEST,ড্রাই আই,1,1
+TEST,ড্রেনেজ,1,1
+TEST,তলপেটের আলট্রাসনোগ্রাফি,1,1
+TEST,নিস্ট্যাগমাস,1,1
+TEST,পজিশনাল,1,1
+TEST,পাতা,1,1
+TEST,পিক ফ্লো মিটার,1,1
+TEST,প্রস্রাব,1,1
+TEST,প্রিক টেস্ট,1,1
+TEST,ফুড-স্পেসিফিক IgE,1,1
+TEST,ফুসফুসে,1,1
+TEST,ফোসকা,1,1
+TEST,ভ্যাজাইনাল পেসারি,1,1
+TEST,মলে,1,1
+TEST,মাড়ি,1,1
+TEST,মূত্রথলি,1,1
+TEST,মেলাজমা,1,1
+TEST,রক্তের কালচার,1,1
+TEST,রুটিন,1,1
+TEST,রুম এয়ারে,1,1
+TEST,রেটিকুলোসাইট কাউন্ট,1,1
+TEST,রেটিনোপ্যাথির,1,1
+TEST,ল্যাম্প,1,1
+TEST,স্কোর,1,1
+TEST,স্ক্রিনের,1,1
+TEST,স্পাইরোমেট্রি,1,1
+TEST,স্পার,1,1
+TEST,স্মিয়ার পরীক্ষা,1,1
+TEST,হাঁটুর নড়াচড়ার,1,1
+TEST,হায়ালুরোনেট,1,1
+TEST_RESULT,মি.গ্রা,330,244
+TEST_RESULT,স্বাভাবিক,286,247
+TEST_RESULT,লালচে,190,174
+TEST_RESULT,পজিটিভ,134,100
+TEST_RESULT,লাল,120,120
+TEST_RESULT,নরম,67,67
+TEST_RESULT,বর্ধিত,63,63
+TEST_RESULT,ফ্যাকাশে,51,46
+TEST_RESULT,লাল ও,46,46
+TEST_RESULT,০.৫%,45,45
+TEST_RESULT,০.৫ মি.গ্রা,41,41
+TEST_RESULT,wheals,40,40
+TEST_RESULT,ছোট,39,39
+TEST_RESULT,সাদা আস্তরণ,39,39
+TEST_RESULT,০.১%,39,39
+TEST_RESULT,উঁচু লালচে চাকা,37,37
+TEST_RESULT,wheeze,35,35
+TEST_RESULT,ডি,32,11
+TEST_RESULT,১০০/মিনিট,32,32
+TEST_RESULT,৮৬/মিনিট,30,30
+TEST_RESULT,কম,28,28
+TEST_RESULT,সাদা,28,17
+TEST_RESULT,১২০ মি.গ্রা./৫ মি.লি,28,28
+TEST_RESULT,৫০,28,28
+TEST_RESULT,৬/৯,28,26
+TEST_RESULT,বেশি,27,27
+TEST_RESULT,লালচে পাপিউল,27,27
+TEST_RESULT,লাল ও ফোলা,26,26
+TEST_RESULT,হলুদ,26,26
+TEST_RESULT,ক্রাস্ট,25,24
+TEST_RESULT,লালচে বলয়,25,25
+TEST_RESULT,০.৪ মি.গ্রা,25,25
+TEST_RESULT,১০৪/মিনিট,25,25
+TEST_RESULT,মসৃণ,22,22
+TEST_RESULT,স্পর্শযোগ্য,22,22
+TEST_RESULT,৬/২৪,22,19
+TEST_RESULT,৯৪/মিনিট,22,22
+TEST_RESULT,mild,21,21
+TEST_RESULT,ছোট ক্ষত,21,21
+TEST_RESULT,ছোট ছোট,21,21
+TEST_RESULT,ওজন অনুযায়ী ১০-১৫ মি.গ্রা./কেজি,20,20
+TEST_RESULT,ঘোলাটে,20,20
+TEST_RESULT,১০৯/মিনিট,20,20
+TEST_RESULT,১৮/মিনিট,20,20
+TEST_RESULT,৯২/মিনিট,20,20
+TEST_RESULT,৯৮%,20,20
+TEST_RESULT,৬২৫ মি.গ্রা,19,19
+TEST_RESULT,৯০/মিনিট,19,19
+TEST_RESULT,৯৫%,19,19
+TEST_RESULT,আড়াআড়ি দাগ,18,18
+TEST_RESULT,গুচ্ছবদ্ধ ফোসকা,18,18
+TEST_RESULT,বাদামি শক্ত মোম,18,18
+TEST_RESULT,বাদামি সমমাত্রিক ছোপ,18,18
+TEST_RESULT,মিডিয়া,18,18
+TEST_RESULT,সাদাটে,18,18
+TEST_RESULT,হলদে,18,18
+TEST_RESULT,০.০২৫%,18,18
+TEST_RESULT,১০৬/মিনিট,18,18
+TEST_RESULT,১১০/৭০ মি.মি. পারদ,18,18
+TEST_RESULT,২%,18,18
+TEST_RESULT,৭৫ মি.লি./ঘণ্টা,18,18
+TEST_RESULT,৯৯/মিনিট,18,18
+TEST_RESULT,গাঢ়,17,17
+TEST_RESULT,গোলাকার,17,17
+TEST_RESULT,পুরু,17,12
+TEST_RESULT,বড় গর্ত,17,17
+TEST_RESULT,হালকা লাল,17,17
+TEST_RESULT,১০ মি.গ্রা,17,17
+TEST_RESULT,১০৫/মিনিট,17,17
+TEST_RESULT,২১ কেজি,17,17
+TEST_RESULT,২৩ কেজি,17,17
+TEST_RESULT,মৃদু,16,16
+TEST_RESULT,রাবারের মতো,16,16
+TEST_RESULT,সামান্য লাল,16,16
+TEST_RESULT,১০২/মিনিট,16,16
+TEST_RESULT,১৫ কেজি,16,16
+TEST_RESULT,৯১/মিনিট,16,16
+TEST_RESULT,দাগ,15,15
+TEST_RESULT,১৩ কেজি,15,15
+TEST_RESULT,১৭ কেজি,15,15
+TEST_RESULT,৪৪/মিনিট,15,15
+TEST_RESULT,৫০০ মি.গ্রা,15,15
+TEST_RESULT,৭৫ মি.গ্রা,15,15
+TEST_RESULT,৯৫/মিনিট,15,15
+TEST_RESULT,৯৬/মিনিট,15,15
+TEST_RESULT,mild pallor,14,14
+TEST_RESULT,আংশিক বন্ধ,14,14
+TEST_RESULT,উজ্জ্বল সাদা,14,14
+TEST_RESULT,কনসোলিডেশন,14,14
+TEST_RESULT,খালি,14,14
+TEST_RESULT,চাপে,14,14
+TEST_RESULT,নিষ্ক্রিয়,14,14
+TEST_RESULT,ফোলা,14,14
+TEST_RESULT,ব্যাকটেরিয়া,14,14
+TEST_RESULT,শক্ত মল,14,14
+TEST_RESULT,সাদা ঘন,14,14
+TEST_RESULT,সামান্য বর্ধিত,14,14
+TEST_RESULT,সীমানাযুক্ত লালচে দাগ,14,14
+TEST_RESULT,স্পষ্ট সীমানাযুক্ত সম্পূর্ণ সাদা,14,14
+TEST_RESULT,স্বচ্ছ,14,14
+TEST_RESULT,১০১/মিনিট,14,14
+TEST_RESULT,১০২.১°F,14,14
+TEST_RESULT,১০২.৫° ফারেনহাইট,14,14
+TEST_RESULT,১০৭/মিনিট,14,14
+TEST_RESULT,১১০/মিনিট,14,14
+TEST_RESULT,১১১/মিনিট,14,14
+TEST_RESULT,২৯ কেজি,14,14
+TEST_RESULT,৪০ মি.গ্রা,14,14
+TEST_RESULT,আঁশ,13,13
+TEST_RESULT,কোনো কণা,13,13
+TEST_RESULT,ছোট ছোট দানা,13,13
+TEST_RESULT,তৈলাক্ত,13,13
+TEST_RESULT,পুঁজকণা,13,13
+TEST_RESULT,রুপালি আঁশ,13,13
+TEST_RESULT,শুষ্ক,13,13
+TEST_RESULT,সুড়ঙ্গের মতো দাগ,13,13
+TEST_RESULT,১১৩/মিনিট,13,13
+TEST_RESULT,৯৩%,13,13
+TEST_RESULT,অসংখ্য ছোট লালচে পাপিউল,12,12
+TEST_RESULT,কিনারা উঁচু বৃত্তাকার লালচে ছোপ,12,12
+TEST_RESULT,মধুর মতো হলুদ ক্রাস্ট,12,12
+TEST_RESULT,রক্তনালী,12,12
+TEST_RESULT,লালচে আঁশযুক্ত ছোপ,12,12
+TEST_RESULT,লালচে ভিত্তি,12,12
+TEST_RESULT,হলদেটে তৈলাক্ত আঁশ,12,12
+TEST_RESULT,০.০৫%,12,12
+TEST_RESULT,১০০.৫°F,12,12
+TEST_RESULT,১০৩/মিনিট,12,12
+TEST_RESULT,২৫ কেজি,12,12
+TEST_RESULT,২৭ কেজি,12,12
+TEST_RESULT,৩১ কেজি,12,12
+TEST_RESULT,৫০° এ পজিটিভ,12,12
+TEST_RESULT,৯৯.৫°F,12,12
+TEST_RESULT,macule,11,11
+TEST_RESULT,pallor,11,11
+TEST_RESULT,rose petal',11,11
+TEST_RESULT,আঠালো খোসা,11,11
+TEST_RESULT,ওজন অনুযায়ী,11,11
+TEST_RESULT,গোলাকার সাদা-হলুদ ঘা,11,11
+TEST_RESULT,চর্বি বেশি,11,11
+TEST_RESULT,চ্যাপ্টা,11,11
+TEST_RESULT,ছোট ছোট গর্ত,11,11
+TEST_RESULT,জলযুক্ত,11,11
+TEST_RESULT,ধনুকাকৃতি,11,11
+TEST_RESULT,ধীর,11,11
+TEST_RESULT,নর্মাল,11,11
+TEST_RESULT,নিকেল,11,11
+TEST_RESULT,ফিশার,11,11
+TEST_RESULT,ভেজা,11,11
+TEST_RESULT,১০১.৭° ফারেনহাইট,11,11
+TEST_RESULT,১৯ কেজি,11,11
+TEST_RESULT,২২/মিনিট,11,11
+TEST_RESULT,২৬/মিনিট,11,11
+TEST_RESULT,৫০ মি.গ্রা,11,11
+TEST_RESULT,৬/৬০,11,10
+TEST_RESULT,injected),10,10
+TEST_RESULT,maxillary,10,10
+TEST_RESULT,mild dehydration,10,10
+TEST_RESULT,আঠালো,10,10
+TEST_RESULT,উঁচু,10,10
+TEST_RESULT,ঘন,10,10
+TEST_RESULT,ছোট ছিদ্র,10,10
+TEST_RESULT,ছোপ,10,10
+TEST_RESULT,প্যাসিভ রেঞ্জ,10,10
+TEST_RESULT,ফেটে,10,10
+TEST_RESULT,মি.লি,10,10
+TEST_RESULT,মেলিটাস,10,10
+TEST_RESULT,সামান্য,10,10
+TEST_RESULT,স্পষ্ট,10,10
+TEST_RESULT,স্পষ্ট সীমানাযুক্ত লালচে প্লাক,10,10
+TEST_RESULT,হলদে-সবুজ ঘন,10,10
+TEST_RESULT,১০১.৩°F,10,10
+TEST_RESULT,১০২.৩° ফারেনহাইট,10,10
+TEST_RESULT,১০৩.১°F,10,10
+TEST_RESULT,১০৩.৯° ফারেনহাইট,10,10
+TEST_RESULT,১০৮/মিনিট,10,10
+TEST_RESULT,১১৪/মিনিট,10,10
+TEST_RESULT,১৩,10,10
+TEST_RESULT,২.৫ মি.গ্রা,10,10
+TEST_RESULT,২২ কেজি,10,10
+TEST_RESULT,৬/১৮,10,10
+TEST_RESULT,৮২/মিনিট,10,10
+TEST_RESULT,৮৮/মিনিট,10,10
+TEST_RESULT,৯২%,10,10
+TEST_RESULT,+),9,9
+TEST_RESULT,ম্লান,9,9
+TEST_RESULT,১০০.১°F,9,9
+TEST_RESULT,১০০.৩° ফারেনহাইট,9,9
+TEST_RESULT,১০২.৭° ফারেনহাইট,9,9
+TEST_RESULT,১০২.৯° ফারেনহাইট,9,9
+TEST_RESULT,১০২.৯°F,9,9
+TEST_RESULT,১০৩.৫°F,9,9
+TEST_RESULT,১১২/মিনিট,9,9
+TEST_RESULT,১২০ মি.গ্রা,9,9
+TEST_RESULT,১৬ কেজি,9,9
+TEST_RESULT,৮৭/মিনিট,9,9
+TEST_RESULT,৯৯.৯° ফারেনহাইট,9,9
+TEST_RESULT,H. pylori স্টুল অ্যান্টিজেন,8,8
+TEST_RESULT,burrow,8,8
+TEST_RESULT,fluctuant) পুঁজের,8,8
+TEST_RESULT,অশ্রুক্ষরণ কম,8,8
+TEST_RESULT,জ্বরের,8,8
+TEST_RESULT,টিম্পানিক,8,8
+TEST_RESULT,পরিষ্কার জলভরা,8,8
+TEST_RESULT,ফ্যাকাশে ও,8,8
+TEST_RESULT,রুপালি আঁশযুক্ত মোটা দাগ,8,8
+TEST_RESULT,লালচে ছোপ,8,8
+TEST_RESULT,লোহিত কণিকা,8,8
+TEST_RESULT,সাদা দইয়ের মতো,8,8
+TEST_RESULT,সাদাটে পুঁজের দাগ,8,8
+TEST_RESULT,সুড়ঙ্গের মতো,8,8
+TEST_RESULT,১০০.৫° ফারেনহাইট,8,8
+TEST_RESULT,১০০.৯°F,8,8
+TEST_RESULT,১০১.১° ফারেনহাইট,8,8
+TEST_RESULT,১০১.৩° ফারেনহাইট,8,8
+TEST_RESULT,১০১.৫°F,8,8
+TEST_RESULT,১০২.৭°F,8,8
+TEST_RESULT,১০৩.৫° ফারেনহাইট,8,8
+TEST_RESULT,১০৩.৭° ফারেনহাইট,8,8
+TEST_RESULT,১০৩.৭°F,8,8
+TEST_RESULT,১১৬/৮৪ মি.মি. পারদ,8,8
+TEST_RESULT,২০ মি.গ্রা,8,8
+TEST_RESULT,২৪ কেজি,8,8
+TEST_RESULT,২৮/মিনিট,8,8
+TEST_RESULT,৫-১০%,8,8
+TEST_RESULT,৮৪/মিনিট,8,8
+TEST_RESULT,৯৩/মিনিট,8,8
+TEST_RESULT,৯৯.৫° ফারেনহাইট,8,8
+TEST_RESULT,৯৯.৭°F,8,8
+TEST_RESULT,KOH,7,7
+TEST_RESULT,L-S spine,7,7
+TEST_RESULT,caries,7,7
+TEST_RESULT,pale boggy turbinate,7,7
+TEST_RESULT,paraspinal spasm,7,7
+TEST_RESULT,গাঢ় হলুদ,7,7
+TEST_RESULT,জ্বরে,7,7
+TEST_RESULT,দুর্বল,7,7
+TEST_RESULT,নন-সেগমেন্টাল ভিটিলিগো,7,7
+TEST_RESULT,নেগেটিভ,7,7
+TEST_RESULT,পুঁজের,7,7
+TEST_RESULT,ব্যথা,7,7
+TEST_RESULT,ব্রণ,7,7
+TEST_RESULT,রক্তচাপ বেশি,7,7
+TEST_RESULT,সাদা-হলুদ,7,7
+TEST_RESULT,স্পষ্ট সীমানাযুক্ত,7,7
+TEST_RESULT,০.৩%,7,7
+TEST_RESULT,১০০.৩°F,7,7
+TEST_RESULT,১০২.৩°F,7,7
+TEST_RESULT,১০৩.৩°F,7,7
+TEST_RESULT,১০৮/৬৮ মি.মি. পারদ,7,7
+TEST_RESULT,১১৬/মিনিট,7,7
+TEST_RESULT,৬ সেকেন্ড,7,7
+TEST_RESULT,৬/১২,7,6
+TEST_RESULT,৬/৩৬,7,7
+TEST_RESULT,৬০/মিনিট,7,7
+TEST_RESULT,৮০° এর,7,7
+TEST_RESULT,৯৯.২°F,7,7
+TEST_RESULT,৯৯.৯°F,7,7
+TEST_RESULT,plaque,6,6
+TEST_RESULT,উষ্ণ,6,6
+TEST_RESULT,ক্ষুদ্র,6,6
+TEST_RESULT,বর্ধিত),6,6
+TEST_RESULT,রুম এয়ারে,6,6
+TEST_RESULT,লালচে ফোলা,6,6
+TEST_RESULT,সামান্য বেশি,6,6
+TEST_RESULT,সামান্য লাল ও ফোলা,6,6
+TEST_RESULT,সুতোর মতো,6,6
+TEST_RESULT,সুতোর মতো সাদা,6,6
+TEST_RESULT,১০০.১° ফারেনহাইট,6,6
+TEST_RESULT,১০১.১°F,6,6
+TEST_RESULT,১০১.৫° ফারেনহাইট,6,6
+TEST_RESULT,১০১.৬° ফারেনহাইট,6,6
+TEST_RESULT,১০১.৯°F,6,6
+TEST_RESULT,১০৩.১° ফারেনহাইট,6,6
+TEST_RESULT,১০৩.৩° ফারেনহাইট,6,6
+TEST_RESULT,১১ কেজি,6,6
+TEST_RESULT,১২,6,6
+TEST_RESULT,১২ কেজি,6,6
+TEST_RESULT,১২৪/মিনিট,6,6
+TEST_RESULT,১৮ কেজি,6,6
+TEST_RESULT,"৩,",6,6
+TEST_RESULT,৩৩ কেজি,6,6
+TEST_RESULT,৫০০ মি.গ্রা. প্রয়োজনমতো,6,6
+TEST_RESULT,৭৪/মিনিট,6,6
+TEST_RESULT,৮৯/মিনিট,6,6
+TEST_RESULT,৯৪%,6,6
+TEST_RESULT,৯৭%,6,6
+TEST_RESULT,৯৭/মিনিট,6,6
+TEST_RESULT,৯৮/মিনিট,6,6
+TEST_RESULT,MTB/RIF,5,5
+TEST_RESULT,depigmented) ছোপ,5,5
+TEST_RESULT,nail pitting,5,5
+TEST_RESULT,rhonchi,5,5
+TEST_RESULT,sound,5,5
+TEST_RESULT,আউরা,5,5
+TEST_RESULT,উঁচু বৃত্তাকার,5,5
+TEST_RESULT,গোলাকার লালচে,5,5
+TEST_RESULT,নিষ্ক্রিয় নড়াচড়া,5,5
+TEST_RESULT,পাথর,5,5
+TEST_RESULT,রক্তক্ষরণ,5,5
+TEST_RESULT,লাইকেনিফিকেশন,5,5
+TEST_RESULT,শুষ্ক লালচে ছোপ,5,5
+TEST_RESULT,শ্লেষ্মাযুক্ত,5,5
+TEST_RESULT,সাঁ,5,5
+TEST_RESULT,সাঁ সাঁ শব্দ,5,5
+TEST_RESULT,সামান্য ছোট ছোট দাগ,5,5
+TEST_RESULT,স্পর্শে ব্যথা,5,5
+TEST_RESULT,হলুদ পুঁজের বিন্দু,5,5
+TEST_RESULT,হলুদ-সবুজ শ্লেষ্মা,5,5
+TEST_RESULT,১০ কেজি,5,5
+TEST_RESULT,১০০.৪°F,5,5
+TEST_RESULT,১০০.৬° ফারেনহাইট,5,5
+TEST_RESULT,১০০.৬°F,5,5
+TEST_RESULT,১০০.৭°F,5,5
+TEST_RESULT,১০০.৮°F,5,5
+TEST_RESULT,১০১.৪° ফারেনহাইট,5,5
+TEST_RESULT,১০১.৪°F,5,5
+TEST_RESULT,১০১.৭°F,5,5
+TEST_RESULT,১১২/৭৪ মি.মি. পারদ,5,5
+TEST_RESULT,১১২/৮০ মি.মি. পারদ,5,5
+TEST_RESULT,১১৪/৭২ মি.মি. পারদ,5,5
+TEST_RESULT,১১৪/৭৪ মি.মি. পারদ,5,5
+TEST_RESULT,১২০/মিনিট,5,5
+TEST_RESULT,১২২/৭২ মি.মি. পারদ,5,5
+TEST_RESULT,১২৬/মিনিট,5,5
+TEST_RESULT,১২৬/৭৮ মি.মি. পারদ,5,5
+TEST_RESULT,২৬ কেজি,5,5
+TEST_RESULT,৪০০/ঘনমিমি,5,5
+TEST_RESULT,৪৪%,5,5
+TEST_RESULT,৫০০/ঘনমিমি,5,5
+TEST_RESULT,৭০০/ঘনমিমি,5,5
+TEST_RESULT,৮০°,5,5
+TEST_RESULT,৯৯.০°F,5,5
+TEST_RESULT,৯৯.৪°F,5,5
+TEST_RESULT,annular plaque,4,4
+TEST_RESULT,boggy turbinate,4,4
+TEST_RESULT,bowel sound,4,4
+TEST_RESULT,crepitation,4,4
+TEST_RESULT,epigastrium,4,4
+TEST_RESULT,fluctuant,4,4
+TEST_RESULT,fluctuant) পুঁজের স্থান,4,4
+TEST_RESULT,relaxation,4,4
+TEST_RESULT,spasm,4,4
+TEST_RESULT,অনুযায়ী,4,4
+TEST_RESULT,অনুযায়ী ১০-১৫ মি.গ্রা./কেজি,4,4
+TEST_RESULT,ইওসিনোফিল,4,4
+TEST_RESULT,উঁচু বৃত্তাকার লালচে ছোপ,4,4
+TEST_RESULT,উচ্চ ক্যালরিযুক্ত,4,4
+TEST_RESULT,উদ্বিগ্ন,4,4
+TEST_RESULT,কনজাংটিভা লাল,4,4
+TEST_RESULT,কর্কশ,4,4
+TEST_RESULT,কালচে,4,4
+TEST_RESULT,খোসা,4,4
+TEST_RESULT,চর্বির জমাট,4,4
+TEST_RESULT,ছোট ফুসকুড়ি,4,4
+TEST_RESULT,জলযুক্ত ক্ষুদ্র,4,4
+TEST_RESULT,থেকে মাঝারি,4,4
+TEST_RESULT,দানা,4,4
+TEST_RESULT,দুই-ই,4,4
+TEST_RESULT,নেবুলাইজেশন,4,4
+TEST_RESULT,পরিষ্কার,4,4
+TEST_RESULT,বডি,4,4
+TEST_RESULT,বিন্দু,4,4
+TEST_RESULT,বৃদ্ধি,4,4
+TEST_RESULT,রিফ্লাক্স,4,4
+TEST_RESULT,রোগা,4,4
+TEST_RESULT,সামান্য লাল ও,4,4
+TEST_RESULT,১০-১৫ মি.গ্রা./কেজি,4,4
+TEST_RESULT,১০০.০°F,4,4
+TEST_RESULT,১০০.৯° ফারেনহাইট,4,4
+TEST_RESULT,১০১.০° ফারেনহাইট,4,4
+TEST_RESULT,১০১.০°F,4,4
+TEST_RESULT,১০১.২°F,4,4
+TEST_RESULT,১০১.৬°F,4,4
+TEST_RESULT,১০৮/৭০ মি.মি. পারদ,4,4
+TEST_RESULT,১০৮/৭৪ মি.মি. পারদ,4,4
+TEST_RESULT,১০৮/৮০ মি.মি. পারদ,4,4
+TEST_RESULT,১১,4,4
+TEST_RESULT,১১০/৮৪ মি.মি. পারদ,4,4
+TEST_RESULT,১১৪/৭৮ মি.মি. পারদ,4,4
+TEST_RESULT,১১৬/৭৮ মি.মি. পারদ,4,4
+TEST_RESULT,১১৭/মিনিট,4,4
+TEST_RESULT,১১৮/৭৪ মি.মি. পারদ,4,4
+TEST_RESULT,১২০/৭৬ মি.মি. পারদ,4,4
+TEST_RESULT,১২১/মিনিট,4,4
+TEST_RESULT,১২২/৭৪ মি.মি. পারদ,4,4
+TEST_RESULT,১২৪/৭৪ মি.মি. পারদ,4,4
+TEST_RESULT,১২৪/৭৬ মি.মি. পারদ,4,4
+TEST_RESULT,১২৪/৭৮ মি.মি. পারদ,4,4
+TEST_RESULT,১৭,4,4
+TEST_RESULT,২০ কেজি,4,4
+TEST_RESULT,৩০.৩ কেজি/মি²,4,4
+TEST_RESULT,৩০০/ঘনমিমি,4,4
+TEST_RESULT,৪/৫,4,4
+TEST_RESULT,৪৬%,4,4
+TEST_RESULT,৭.৫%,4,4
+TEST_RESULT,৯৯.২° ফারেনহাইট,4,4
+TEST_RESULT,৯৯.৬°F,4,4
+TEST_RESULT,GERD,3,3
+TEST_RESULT,Little's,3,3
+TEST_RESULT,perforation,3,3
+TEST_RESULT,pustule,3,3
+TEST_RESULT,অ্যান্টিজেন,3,3
+TEST_RESULT,ইনফ্লুয়েঞ্জা অ্যান্টিজেন,3,3
+TEST_RESULT,কড়কড়,3,3
+TEST_RESULT,কনজাংটিভা,3,3
+TEST_RESULT,কিনারা উঁচু বৃত্তাকার,3,3
+TEST_RESULT,গণনা,3,3
+TEST_RESULT,গুচ্ছবদ্ধ,3,3
+TEST_RESULT,টিনিয়া করপোরিস,3,3
+TEST_RESULT,পেশিতে,3,3
+TEST_RESULT,ফুসকুড়ি,3,3
+TEST_RESULT,বড়,3,3
+TEST_RESULT,মার্মার,3,3
+TEST_RESULT,মি.গ্রা. প্রয়োজনমতো,3,3
+TEST_RESULT,মোম,3,3
+TEST_RESULT,মোম জমা,3,3
+TEST_RESULT,রক্তে,3,3
+TEST_RESULT,রুপালি আঁশযুক্ত মোটা,3,3
+TEST_RESULT,লালচে ও,3,3
+TEST_RESULT,লালচে চাকা,3,3
+TEST_RESULT,লালচে প্লাক,3,3
+TEST_RESULT,শর্করা,3,3
+TEST_RESULT,সক্রিয়,3,3
+TEST_RESULT,সরু,3,3
+TEST_RESULT,সুতোর মতো সাদা নিঃসরণ,3,3
+TEST_RESULT,সেনসিটিভিটি,3,3
+TEST_RESULT,হলুদ-সবুজ,3,3
+TEST_RESULT,১ মি.গ্রা,3,3
+TEST_RESULT,১০,3,3
+TEST_RESULT,১০০.০° ফারেনহাইট,3,3
+TEST_RESULT,১০০.২°F,3,3
+TEST_RESULT,১০০.৭° ফারেনহাইট,3,3
+TEST_RESULT,১০০.৮° ফারেনহাইট,3,3
+TEST_RESULT,১০০/ঘনমিমি,3,3
+TEST_RESULT,১০১.৮° ফারেনহাইট,3,3
+TEST_RESULT,১০১.৯° ফারেনহাইট,3,3
+TEST_RESULT,১০২.১° ফারেনহাইট,3,3
+TEST_RESULT,১০২.৫°F,3,3
+TEST_RESULT,১০৩.৯°F,3,3
+TEST_RESULT,১০৪/৭০ মি.মি. পারদ,3,3
+TEST_RESULT,১০৬/৭২ মি.মি. পারদ,3,3
+TEST_RESULT,১০৬/৮০ মি.মি. পারদ,3,3
+TEST_RESULT,১১২/৭০ মি.মি. পারদ,3,3
+TEST_RESULT,১১২/৭৬ মি.মি. পারদ,3,3
+TEST_RESULT,১১৬/৮০ মি.মি. পারদ,3,3
+TEST_RESULT,১১৬/৮২ মি.মি. পারদ,3,3
+TEST_RESULT,১১৮/মিনিট,3,3
+TEST_RESULT,১২০/৭৮ মি.মি. পারদ,3,3
+TEST_RESULT,১২০/৮২ মি.মি. পারদ,3,3
+TEST_RESULT,১২২/৭৮ মি.মি. পারদ,3,3
+TEST_RESULT,১২৪/৬৮ মি.মি. পারদ,3,3
+TEST_RESULT,১২৪/৭২ মি.মি. পারদ,3,3
+TEST_RESULT,১২৬/৬৬ মি.মি. পারদ,3,3
+TEST_RESULT,১২৬/৭২ মি.মি. পারদ,3,3
+TEST_RESULT,১২৬/৭৬ মি.মি. পারদ,3,3
+TEST_RESULT,১২৬/৮২ মি.মি. পারদ,3,3
+TEST_RESULT,১২৮/৮০ মি.মি. পারদ,3,3
+TEST_RESULT,১৪ কেজি,3,3
+TEST_RESULT,১৫,3,3
+TEST_RESULT,১৬,3,3
+TEST_RESULT,১৬৮/১০২ মি.মি. পারদ,3,3
+TEST_RESULT,২০-২০-২০,3,3
+TEST_RESULT,২১২ মি.গ্রা./ডেসিলিটার,3,3
+TEST_RESULT,২৭.৬ কেজি/মি²,3,3
+TEST_RESULT,৩%,3,3
+TEST_RESULT,৪/৫ মি.গ্রা,3,3
+TEST_RESULT,৪২%,3,3
+TEST_RESULT,৪৭%,3,3
+TEST_RESULT,৪৯%,3,3
+TEST_RESULT,৫০%,3,3
+TEST_RESULT,"৬০,০০০/ঘনমিমি",3,3
+TEST_RESULT,৭১ fL,3,3
+TEST_RESULT,৭২/মিনিট,3,3
+TEST_RESULT,৭৩/মিনিট,3,3
+TEST_RESULT,"৭৫,০০০/ঘনমিমি",3,3
+TEST_RESULT,৭৭/মিনিট,3,3
+TEST_RESULT,৭৮/মিনিট,3,3
+TEST_RESULT,৮০০/ঘনমিমি,3,3
+TEST_RESULT,৯.৯ মি.গ্রা./ডেসিলিটার,3,3
+TEST_RESULT,৯০ মি.গ্রা,3,3
+TEST_RESULT,"৯৫,০০০/ঘনমিমি",3,3
+TEST_RESULT,৯৬%,3,3
+TEST_RESULT,৯৯.০° ফারেনহাইট,3,3
+TEST_RESULT,৯৯.৪° ফারেনহাইট,3,3
+TEST_RESULT,৯৯.৭° ফারেনহাইট,3,3
+TEST_RESULT,৯৯.৮°F,3,3
+TEST_RESULT,Auspitz,2,2
+TEST_RESULT,CVA,2,2
+TEST_RESULT,I&D,2,2
+TEST_RESULT,IgE,2,2
+TEST_RESULT,IgM,2,2
+TEST_RESULT,NS1,2,2
+TEST_RESULT,TSH,2,2
+TEST_RESULT,fluctuant),2,2
+TEST_RESULT,leukotrichia,2,2
+TEST_RESULT,macule),2,2
+TEST_RESULT,nail,2,2
+TEST_RESULT,pale,2,2
+TEST_RESULT,petal',2,2
+TEST_RESULT,spine,2,2
+TEST_RESULT,stiffness,2,2
+TEST_RESULT,turbinate,2,2
+TEST_RESULT,অ্যান্টি-গ্লেয়ার,2,2
+TEST_RESULT,অ্যাসিড,2,2
+TEST_RESULT,আঁশ ও খোসা,2,2
+TEST_RESULT,আউরাসহ,2,2
+TEST_RESULT,উঁচু লালচে,2,2
+TEST_RESULT,কমেডোন,2,2
+TEST_RESULT,কিছুটা,2,2
+TEST_RESULT,গোলাকার লালচে দাগ,2,2
+TEST_RESULT,জলযুক্ত ছোট,2,2
+TEST_RESULT,দাঁড়ানো অবস্থায়,2,2
+TEST_RESULT,নন-সেগমেন্টাল,2,2
+TEST_RESULT,নিঃসরণ,2,2
+TEST_RESULT,পুঁজযুক্ত ব্রণ,2,2
+TEST_RESULT,পুঁজের স্থান,2,2
+TEST_RESULT,প্যাসিভ,2,2
+TEST_RESULT,প্যাসিভ রেঞ্জ অফ,2,2
+TEST_RESULT,ফ্রোজেন শোল্ডার,2,2
+TEST_RESULT,বিনাইন প্যারক্সিসমাল পজিশনাল ভার্টিগো,2,2
+TEST_RESULT,ভিত্তি,2,2
+TEST_RESULT,মৃদু ব্যথা,2,2
+TEST_RESULT,মোটা,2,2
+TEST_RESULT,রুপালি,2,2
+TEST_RESULT,রেটিনোপ্যাথির,2,2
+TEST_RESULT,লালচে দাগ,2,2
+TEST_RESULT,লালচে দানা,2,2
+TEST_RESULT,লালচে ভাব,2,2
+TEST_RESULT,শুষ্ক লালচে,2,2
+TEST_RESULT,শোল্ডার,2,2
+TEST_RESULT,সম্পূর্ণ সাদা,2,2
+TEST_RESULT,সাঁ সাঁ,2,2
+TEST_RESULT,সামান্য চাপে,2,2
+TEST_RESULT,সামান্য ফোলা,2,2
+TEST_RESULT,সুতোর,2,2
+TEST_RESULT,সেপ্টামে রক্তনালী,2,2
+TEST_RESULT,স্টুল অ্যান্টিজেন,2,2
+TEST_RESULT,স্থিতিশীল,2,2
+TEST_RESULT,স্থিতিশীল অ্যাঞ্জাইনা,2,2
+TEST_RESULT,হলদে নিঃসরণ,2,2
+TEST_RESULT,০০০/ঘনমিমি,2,2
+TEST_RESULT,১.২,2,2
+TEST_RESULT,১০ মি.লি,2,2
+TEST_RESULT,১০-২০ প্রতি HPF,2,2
+TEST_RESULT,১০.৪ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,১০০.২° ফারেনহাইট,2,2
+TEST_RESULT,১০০.৪° ফারেনহাইট,2,2
+TEST_RESULT,১০১.২° ফারেনহাইট,2,2
+TEST_RESULT,১০১.৮°F,2,2
+TEST_RESULT,১০৪/৭২ মি.মি. পারদ,2,2
+TEST_RESULT,১০৪/৭৮ মি.মি. পারদ,2,2
+TEST_RESULT,১০৪/৮০ মি.মি. পারদ,2,2
+TEST_RESULT,১০৪/৮২ মি.মি. পারদ,2,2
+TEST_RESULT,১০৪/৮৪ মি.মি. পারদ,2,2
+TEST_RESULT,১০৬/৬৬ মি.মি. পারদ,2,2
+TEST_RESULT,১০৬/৭০ মি.মি. পারদ,2,2
+TEST_RESULT,১০৬/৭৬ মি.মি. পারদ,2,2
+TEST_RESULT,১০৬/৭৮ মি.মি. পারদ,2,2
+TEST_RESULT,১০৬/৮২ মি.মি. পারদ,2,2
+TEST_RESULT,১০৬/৮৪ মি.মি. পারদ,2,2
+TEST_RESULT,১০৮/৬৬ মি.মি. পারদ,2,2
+TEST_RESULT,১০৮/৮২ মি.মি. পারদ,2,2
+TEST_RESULT,১১০/৮২ মি.মি. পারদ,2,2
+TEST_RESULT,১১২/৬৮ মি.মি. পারদ,2,2
+TEST_RESULT,১১২/৭২ মি.মি. পারদ,2,2
+TEST_RESULT,১১২/৭৮ মি.মি. পারদ,2,2
+TEST_RESULT,১১২/৮৪ মি.মি. পারদ,2,2
+TEST_RESULT,১১৪/৬৮ মি.মি. পারদ,2,2
+TEST_RESULT,১১৫/মিনিট,2,2
+TEST_RESULT,১১৬/৬৮ মি.মি. পারদ,2,2
+TEST_RESULT,১১৬/৭০ মি.মি. পারদ,2,2
+TEST_RESULT,১১৬/৭২ মি.মি. পারদ,2,2
+TEST_RESULT,১১৬/৭৪ মি.মি. পারদ,2,2
+TEST_RESULT,১১৬/৭৬ মি.মি. পারদ,2,2
+TEST_RESULT,১১৮/৭২ মি.মি. পারদ,2,2
+TEST_RESULT,১১৮/৭৬ মি.মি. পারদ,2,2
+TEST_RESULT,১১৮/৮০ মি.মি. পারদ,2,2
+TEST_RESULT,১১৮/৮২ মি.মি. পারদ,2,2
+TEST_RESULT,১২.৫,2,2
+TEST_RESULT,১২০/৬৮ মি.মি. পারদ,2,2
+TEST_RESULT,১২০/৮০ মি.মি. পারদ,2,2
+TEST_RESULT,১২০/৮৪ মি.মি. পারদ,2,2
+TEST_RESULT,১২২/মিনিট,2,2
+TEST_RESULT,১২২/৬৮ মি.মি. পারদ,2,2
+TEST_RESULT,১২২/৭৬ মি.মি. পারদ,2,2
+TEST_RESULT,১২২/৮০ মি.মি. পারদ,2,2
+TEST_RESULT,১২৩/মিনিট,2,2
+TEST_RESULT,১২৪/৭০ মি.মি. পারদ,2,2
+TEST_RESULT,১২৫/মিনিট,2,2
+TEST_RESULT,১২৬/৮০ মি.মি. পারদ,2,2
+TEST_RESULT,১২৬/৮৪ মি.মি. পারদ,2,2
+TEST_RESULT,১২৭/মিনিট,2,2
+TEST_RESULT,১২৮/৭২ মি.মি. পারদ,2,2
+TEST_RESULT,১২৮/৮৪ মি.মি. পারদ,2,2
+TEST_RESULT,১৩০/৬৮ মি.মি. পারদ,2,2
+TEST_RESULT,১৩৫ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,১৪.০ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,১৪৮/৯২ মি.মি. পারদ,2,2
+TEST_RESULT,১৫২/১০২ মি.মি. পারদ,2,2
+TEST_RESULT,১৫৪/১০৬ মি.মি. পারদ,2,2
+TEST_RESULT,১৫৪/৮৮ মি.মি. পারদ,2,2
+TEST_RESULT,"১৫৫,০০০/ঘনমিমি",2,2
+TEST_RESULT,১৫৮/১০৪ মি.মি. পারদ,2,2
+TEST_RESULT,১৬২/১০০ মি.মি. পারদ,2,2
+TEST_RESULT,১৭০/১০২ মি.মি. পারদ,2,2
+TEST_RESULT,১৭২/১০৮ মি.মি. পারদ,2,2
+TEST_RESULT,১৭৩ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,১৭৮/১০২ মি.মি. পারদ,2,2
+TEST_RESULT,১৮,2,2
+TEST_RESULT,১৮০ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,২ নমুনা,2,2
+TEST_RESULT,২০০/ঘনমিমি,2,2
+TEST_RESULT,২০১ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,২২,2,2
+TEST_RESULT,২২.৭ কেজি/মি²,2,2
+TEST_RESULT,২৩.৯ কেজি/মি²,2,2
+TEST_RESULT,২৫.২ কেজি/মি²,2,2
+TEST_RESULT,২৫.৯ কেজি/মি²,2,2
+TEST_RESULT,২৭.৫ কেজি/মি²,2,2
+TEST_RESULT,২৭৫ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,২৮ কেজি,2,2
+TEST_RESULT,২৮.৭ কেজি/মি²,2,2
+TEST_RESULT,২৮.৯ কেজি/মি²,2,2
+TEST_RESULT,২৯২,2,2
+TEST_RESULT,৩% মলম আঁশের,2,2
+TEST_RESULT,৩০ কেজি,2,2
+TEST_RESULT,৩১.১ কেজি/মি²,2,2
+TEST_RESULT,৩২.৪ কেজি/মি²,2,2
+TEST_RESULT,৩২Y/F,2,2
+TEST_RESULT,৩৩.০ কেজি/মি²,2,2
+TEST_RESULT,৩৩.২ কেজি/মি²,2,2
+TEST_RESULT,"৪,",2,2
+TEST_RESULT,৪০০ মি.গ্রা,2,2
+TEST_RESULT,৫ মি.গ্রা,2,2
+TEST_RESULT,৫২%,2,2
+TEST_RESULT,৬.৯%,2,2
+TEST_RESULT,৬০০/ঘনমিমি,2,2
+TEST_RESULT,৬৩ fL,2,2
+TEST_RESULT,৬৮ fL,2,2
+TEST_RESULT,৬৯ fL,2,2
+TEST_RESULT,৭.৮ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,৭.৮%,2,2
+TEST_RESULT,৭.৯ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,৭৫ মি.গ্রা. পেশিতে,2,2
+TEST_RESULT,৭৯/মিনিট,2,2
+TEST_RESULT,৮ কেজি,2,2
+TEST_RESULT,৮-১৮ প্রতি HPF,2,2
+TEST_RESULT,৮-২৭ প্রতি HPF,2,2
+TEST_RESULT,৮.১ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,৮.২ গ্রাম/ডেসিলিটার,2,2
+TEST_RESULT,৮.৩ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,৮.৭ মি.গ্রা./ডেসিলিটার,2,2
+TEST_RESULT,"৮০,০০০/ঘনমিমি",2,2
+TEST_RESULT,"৮৫,০০০/ঘনমিমি",2,2
+TEST_RESULT,৮৫/মিনিট,2,2
+TEST_RESULT,৯ কেজি,2,2
+TEST_RESULT,"৯০,০০০/ঘনমিমি",2,2
+TEST_RESULT,৯০০/ঘনমিমি,2,2
+TEST_RESULT,৯৯.৬° ফারেনহাইট,2,2
+TEST_RESULT,BPH,1,1
+TEST_RESULT,IOPA,1,1
+TEST_RESULT,RA ফ্যাক্টর,1,1
+TEST_RESULT,bronchial breathing,1,1
+TEST_RESULT,colic,1,1
+TEST_RESULT,mild retraction,1,1
+TEST_RESULT,relative bradycardia,1,1
+TEST_RESULT,vesicle,1,1
+TEST_RESULT,wheals),1,1
+TEST_RESULT,অকাল্ট ব্লাড,1,1
+TEST_RESULT,অস্বাভাবিক,1,1
+TEST_RESULT,অ্যান্টি-TPO অ্যান্টিবডি,1,1
+TEST_RESULT,আস্তরণ,1,1
+TEST_RESULT,উঁচু লালচে দাগ,1,1
+TEST_RESULT,উচ্চ,1,1
+TEST_RESULT,কর্কশ ও,1,1
+TEST_RESULT,ক্রেপিটাস,1,1
+TEST_RESULT,ক্ষুদ্র ফোসকা,1,1
+TEST_RESULT,গরম,1,1
+TEST_RESULT,গালের,1,1
+TEST_RESULT,গোলাকার সাদা-হলুদ,1,1
+TEST_RESULT,গ্রন্থি,1,1
+TEST_RESULT,গ্রন্থি ফোলা,1,1
+TEST_RESULT,ঘামে ভেজা,1,1
+TEST_RESULT,চাকা,1,1
+TEST_RESULT,চুলকানির,1,1
+TEST_RESULT,চোখের কনজাংটিভা,1,1
+TEST_RESULT,জয়েন্ট,1,1
+TEST_RESULT,জলযুক্ত ক্ষুদ্র ফোসকা,1,1
+TEST_RESULT,জ্বরে ওজন অনুযায়ী,1,1
+TEST_RESULT,টেন্ডারনেস,1,1
+TEST_RESULT,তীব্র,1,1
+TEST_RESULT,থেকে,1,1
+TEST_RESULT,পুঁজযুক্ত নিঃসরণ,1,1
+TEST_RESULT,ফেরিটিন,1,1
+TEST_RESULT,ফোসকা ফেটে যাওয়া দাগ,1,1
+TEST_RESULT,ফ্যাসফেসে,1,1
+TEST_RESULT,বেলস,1,1
+TEST_RESULT,বেলস প্যালসি,1,1
+TEST_RESULT,ভার্টিগো,1,1
+TEST_RESULT,মধুর মতো হলুদ,1,1
+TEST_RESULT,মধ্যম মাত্রার ব্রণ,1,1
+TEST_RESULT,মধ্যরেখা,1,1
+TEST_RESULT,মিডিয়া),1,1
+TEST_RESULT,মৃদু থেকে মাঝারি,1,1
+TEST_RESULT,রক্তচাপ,1,1
+TEST_RESULT,রক্তে চর্বি বেশি,1,1
+TEST_RESULT,রুম,1,1
+TEST_RESULT,রেঞ্জ,1,1
+TEST_RESULT,র্যাপিড ইনফ্লুয়েঞ্জা অ্যান্টিজেন,1,1
+TEST_RESULT,লাল লাল,1,1
+TEST_RESULT,লালচে চাকা চাকা,1,1
+TEST_RESULT,লিটার/মিনিট,1,1
+TEST_RESULT,লোবে কনসোলিডেশন,1,1
+TEST_RESULT,শক্ত,1,1
+TEST_RESULT,শুষ্ক চোখ,1,1
+TEST_RESULT,সম্পূর্ণ,1,1
+TEST_RESULT,সাদা দইয়ের,1,1
+TEST_RESULT,সামান্য কম,1,1
+TEST_RESULT,সামান্য ভেতরে,1,1
+TEST_RESULT,সিরাম,1,1
+TEST_RESULT,সীমিত,1,1
+TEST_RESULT,হলুদ আস্তরণ,1,1
+TEST_RESULT,হিল,1,1
+TEST_RESULT,হ্রস্বদৃষ্টি,1,1
+TEST_RESULT,০.৪,1,1
+TEST_RESULT,১০-২৪ প্রতি HPF,1,1
+TEST_RESULT,১০-৩০ প্রতি HPF,1,1
+TEST_RESULT,১০.১ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,১০.১%,1,1
+TEST_RESULT,১০.২%,1,1
+TEST_RESULT,১০.৩ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,১০.৬ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,১০.৭%,1,1
+TEST_RESULT,১০.৮ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১০০০ ইউনিট/লিটার,1,1
+TEST_RESULT,১০২ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১০৪ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১০৪/৬৬ মি.মি. পারদ,1,1
+TEST_RESULT,১০৪/৬৮ মি.মি. পারদ,1,1
+TEST_RESULT,১০৪/৭৪ মি.মি. পারদ,1,1
+TEST_RESULT,১০৪/৭৬ মি.মি. পারদ,1,1
+TEST_RESULT,১০৫ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১০৬/৬৮ মি.মি. পারদ,1,1
+TEST_RESULT,১০৮ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১০৮/৭৮ মি.মি. পারদ,1,1
+TEST_RESULT,১০৮/৮৪ মি.মি. পারদ,1,1
+TEST_RESULT,১১-১৭ প্রতি HPF,1,1
+TEST_RESULT,১১-১৮ প্রতি HPF,1,1
+TEST_RESULT,১১-২০ প্রতি HPF,1,1
+TEST_RESULT,১১-২৪ প্রতি HPF,1,1
+TEST_RESULT,১১-২৫ প্রতি HPF,1,1
+TEST_RESULT,১১.১ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১১.৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১১.৭ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১১.৮ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,"১১০,০০০/ঘনমিমি",1,1
+TEST_RESULT,১১০/৬৮ মি.মি. পারদ,1,1
+TEST_RESULT,১১০/৭৪ মি.মি. পারদ,1,1
+TEST_RESULT,১১০/৭৬ মি.মি. পারদ,1,1
+TEST_RESULT,১১০/৭৮ মি.মি. পারদ,1,1
+TEST_RESULT,১১০/৮০ মি.মি. পারদ,1,1
+TEST_RESULT,১১১ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১১২/৬৬ মি.মি. পারদ,1,1
+TEST_RESULT,১১২/৮২ মি.মি. পারদ,1,1
+TEST_RESULT,১১২৩ ইউনিট/লিটার,1,1
+TEST_RESULT,১১৪/৬৬ মি.মি. পারদ,1,1
+TEST_RESULT,১১৪/৭০ মি.মি. পারদ,1,1
+TEST_RESULT,১১৪/৭৬ মি.মি. পারদ,1,1
+TEST_RESULT,১১৪/৮২ মি.মি. পারদ,1,1
+TEST_RESULT,১১৪/৮৪ মি.মি. পারদ,1,1
+TEST_RESULT,"১১৫,০০০/ঘনমিমি",1,1
+TEST_RESULT,১১৮/৬৮ মি.মি. পারদ,1,1
+TEST_RESULT,১১৮/৭০ মি.মি. পারদ,1,1
+TEST_RESULT,১১৮/৭৮ মি.মি. পারদ,1,1
+TEST_RESULT,১১৯/মিনিট,1,1
+TEST_RESULT,১২.১ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১২.৫ মি.গ্রা,1,1
+TEST_RESULT,১২.৬ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১২০/৭২ মি.মি. পারদ,1,1
+TEST_RESULT,১২০/৭৪ মি.মি. পারদ,1,1
+TEST_RESULT,১২২/৭০ মি.মি. পারদ,1,1
+TEST_RESULT,১২২/৮২ মি.মি. পারদ,1,1
+TEST_RESULT,১২২/৮৪ মি.মি. পারদ,1,1
+TEST_RESULT,১২৪/৬৬ মি.মি. পারদ,1,1
+TEST_RESULT,১২৪/৮০ মি.মি. পারদ,1,1
+TEST_RESULT,১২৪/৮৪ মি.মি. পারদ,1,1
+TEST_RESULT,"১২৫,০০০/ঘনমিমি",1,1
+TEST_RESULT,১২৬/৭০ মি.মি. পারদ,1,1
+TEST_RESULT,১২৬/৭৪ মি.মি. পারদ,1,1
+TEST_RESULT,১২৭ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১২৭৭ ইউনিট/লিটার,1,1
+TEST_RESULT,১২৮/৬৬ মি.মি. পারদ,1,1
+TEST_RESULT,১২৮/৭০ মি.মি. পারদ,1,1
+TEST_RESULT,১২৮/৭৬ মি.মি. পারদ,1,1
+TEST_RESULT,১২৮/৭৮ মি.মি. পারদ,1,1
+TEST_RESULT,১২৮/৮২ মি.মি. পারদ,1,1
+TEST_RESULT,১২৯ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,"১৩,০০০/ঘনমিমি",1,1
+TEST_RESULT,"১৩০,০০০/ঘনমিমি",1,1
+TEST_RESULT,১৩০/৭০ মি.মি. পারদ,1,1
+TEST_RESULT,১৩০/৭২ মি.মি. পারদ,1,1
+TEST_RESULT,১৩০/৭৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৩০/৮০ মি.মি. পারদ,1,1
+TEST_RESULT,১৩০/৮২ মি.মি. পারদ,1,1
+TEST_RESULT,১৩০/৮৪ মি.মি. পারদ,1,1
+TEST_RESULT,১৩০০ ইউনিট/লিটার,1,1
+TEST_RESULT,১৩১ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৩৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৩৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৩৮ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৩৮/মিনিট,1,1
+TEST_RESULT,১৩৯১ ইউনিট/লিটার,1,1
+TEST_RESULT,১৩৯৯ ইউনিট/লিটার,1,1
+TEST_RESULT,১৪,1,1
+TEST_RESULT,১৪.১ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৪০ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১৪০/মিনিট,1,1
+TEST_RESULT,১৪২ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১৪২/১০৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৪২/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৪৪/মিনিট,1,1
+TEST_RESULT,১৪৪/৯৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৪৫ মি.গ্রা./লিটার,1,1
+TEST_RESULT,"১৪৫,",1,1
+TEST_RESULT,১৪৫০ ইউনিট/লিটার,1,1
+TEST_RESULT,১৪৬/১০৪ মি.মি. পারদ,1,1
+TEST_RESULT,১৪৬/১০৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৪৬/১০৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৪৭,1,1
+TEST_RESULT,১৪৮/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৪৮/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৪৮২ ইউনিট/লিটার,1,1
+TEST_RESULT,১৫০/মিনিট,1,1
+TEST_RESULT,১৫০/১০০ মি.মি. পারদ,1,1
+TEST_RESULT,১৫০/১০৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৫০/৯৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৫২/১০০ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৫৩০ ইউনিট/লিটার,1,1
+TEST_RESULT,১৫৪/মিনিট,1,1
+TEST_RESULT,১৫৪/১০০ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৪/৯৬ মি.মি. পারদ,1,1
+TEST_RESULT,"১৫৫,",1,1
+TEST_RESULT,১৫৬/মিনিট,1,1
+TEST_RESULT,১৫৬/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৬/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৬/৯৪ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৮/১০৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৮/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৮/৯৪ মি.মি. পারদ,1,1
+TEST_RESULT,১৫৯৫ ইউনিট/লিটার,1,1
+TEST_RESULT,১৬.২ mIU/L,1,1
+TEST_RESULT,১৬২/১০৪ মি.মি. পারদ,1,1
+TEST_RESULT,১৬২/১০৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৬২/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৬২/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৬২/৯৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৬৪,1,1
+TEST_RESULT,১৬৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৬৪/১০০ মি.মি. পারদ,1,1
+TEST_RESULT,১৬৪/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৬৬/১০৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৬৬/৯২ মি.মি. পারদ,1,1
+TEST_RESULT,১৬৭৮ ইউনিট/লিটার,1,1
+TEST_RESULT,১৬৮/৯২ মি.মি. পারদ,1,1
+TEST_RESULT,১৭.৫ mIU/L,1,1
+TEST_RESULT,১৭০/৯২ মি.মি. পারদ,1,1
+TEST_RESULT,১৭২/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৭২/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৭২/৯০ মি.মি. পারদ,1,1
+TEST_RESULT,১৭২/৯৪ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৭৪/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৪/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৫ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৭৬/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৬/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৬/৯২ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৮,1,1
+TEST_RESULT,১৭৮ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৭৮/১০৪ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৮/৮৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৮/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৮/৯০ মি.মি. পারদ,1,1
+TEST_RESULT,১৭৯,1,1
+TEST_RESULT,১৮০ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১৮০/১০৬ মি.মি. পারদ,1,1
+TEST_RESULT,১৮০/৮৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৮০/৯৮ মি.মি. পারদ,1,1
+TEST_RESULT,১৮১ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১৮৩,1,1
+TEST_RESULT,১৮৪,1,1
+TEST_RESULT,১৮৪ মি.গ্রা./লিটার,1,1
+TEST_RESULT,১৮৫,1,1
+TEST_RESULT,১৮৫ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,১৮৫৬ ইউনিট/লিটার,1,1
+TEST_RESULT,১৯,1,1
+TEST_RESULT,১৯২,1,1
+TEST_RESULT,১৯৬,1,1
+TEST_RESULT,১৯৭ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২০৮ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২১,1,1
+TEST_RESULT,২১০ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২১৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২১৫ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২২.৯ কেজি/মি²,1,1
+TEST_RESULT,২২০,1,1
+TEST_RESULT,২২৬ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২২৯ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৩,1,1
+TEST_RESULT,২৩.২ কেজি/মি²,1,1
+TEST_RESULT,২৩.৪ mIU/L,1,1
+TEST_RESULT,২৩.৪ কেজি/মি²,1,1
+TEST_RESULT,২৩৩,1,1
+TEST_RESULT,২৪,1,1
+TEST_RESULT,২৪.১ কেজি/মি²,1,1
+TEST_RESULT,২৪.৫ কেজি/মি²,1,1
+TEST_RESULT,২৪.৭ mIU/L,1,1
+TEST_RESULT,২৪.৮ কেজি/মি²,1,1
+TEST_RESULT,২৪০,1,1
+TEST_RESULT,২৪০ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৪১,1,1
+TEST_RESULT,২৫ মি.গ্রা,1,1
+TEST_RESULT,২৫১ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৫৫ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৫৭,1,1
+TEST_RESULT,২৬.০ কেজি/মি²,1,1
+TEST_RESULT,২৬.৭ কেজি/মি²,1,1
+TEST_RESULT,২৬২ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৬৫ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৬৭ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৬৯ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৭১ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৭২ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৭৩,1,1
+TEST_RESULT,২৭৭ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৮.০ কেজি/মি²,1,1
+TEST_RESULT,২৮.১ কেজি/মি²,1,1
+TEST_RESULT,২৮.৩ কেজি/মি²,1,1
+TEST_RESULT,২৮.৪ কেজি/মি²,1,1
+TEST_RESULT,২৮.৫ কেজি/মি²,1,1
+TEST_RESULT,২৮.৬ কেজি/মি²,1,1
+TEST_RESULT,২৮৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৮৮,1,1
+TEST_RESULT,২৮৮ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,২৯.২ কেজি/মি²,1,1
+TEST_RESULT,২৯.৪ কেজি/মি²,1,1
+TEST_RESULT,২৯৬ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩% মলম,1,1
+TEST_RESULT,"৩,০০০/ঘনমিমি",1,1
+TEST_RESULT,৩.৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩০,1,1
+TEST_RESULT,"৩০,০০০/ঘনমিমি",1,1
+TEST_RESULT,৩০.৬ কেজি/মি²,1,1
+TEST_RESULT,৩০.৭ কেজি/মি²,1,1
+TEST_RESULT,৩০.৯ কেজি/মি²,1,1
+TEST_RESULT,৩০Y/F,1,1
+TEST_RESULT,৩০Y/M,1,1
+TEST_RESULT,৩০০ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩১.৬ কেজি/মি²,1,1
+TEST_RESULT,৩১.৮ কেজি/মি²,1,1
+TEST_RESULT,৩১৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩২ কেজি,1,1
+TEST_RESULT,৩২.০ কেজি/মি²,1,1
+TEST_RESULT,৩২.২ কেজি/মি²,1,1
+TEST_RESULT,৩২.৩ কেজি/মি²,1,1
+TEST_RESULT,৩২৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩৩.১ কেজি/মি²,1,1
+TEST_RESULT,৩৩.৩ কেজি/মি²,1,1
+TEST_RESULT,৩৩১ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩৩২ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩৪৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩৪৭ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩৫.১ mIU/L,1,1
+TEST_RESULT,৩৫Y/F,1,1
+TEST_RESULT,৩৫Y/M,1,1
+TEST_RESULT,৩৫৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩৭৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৩৮.৬ mIU/L,1,1
+TEST_RESULT,৩৮.৮ mIU/L,1,1
+TEST_RESULT,৩৮Y/M,1,1
+TEST_RESULT,"৪,০০০/ঘনমিমি",1,1
+TEST_RESULT,৪.৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৪.৪ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৪০.৩ mIU/L,1,1
+TEST_RESULT,৪০.৫ mIU/L,1,1
+TEST_RESULT,৪২.৪ mIU/L,1,1
+TEST_RESULT,৪২.৭ mIU/L,1,1
+TEST_RESULT,৪৩%,1,1
+TEST_RESULT,৪৩.৬ mIU/L,1,1
+TEST_RESULT,৪৫%,1,1
+TEST_RESULT,৪৫.৩ mIU/L,1,1
+TEST_RESULT,৪৬.৩ mIU/L,1,1
+TEST_RESULT,৪৯৫ ইউনিট/লিটার,1,1
+TEST_RESULT,৫.৭ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৫০Y/M,1,1
+TEST_RESULT,৫১%,1,1
+TEST_RESULT,৫১১ ইউনিট/লিটার,1,1
+TEST_RESULT,৫৪ মি.গ্রা./লিটার,1,1
+TEST_RESULT,৫৯ fL,1,1
+TEST_RESULT,৬.৬ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৬.৭ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৬.৮%,1,1
+TEST_RESULT,৬.৯ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৬০ fL,1,1
+TEST_RESULT,৬০Y/F,1,1
+TEST_RESULT,"৬৫,০০০/ঘনমিমি",1,1
+TEST_RESULT,৬৫Y/F,1,1
+TEST_RESULT,৬৬ fL,1,1
+TEST_RESULT,৬৮ মি.গ্রা./লিটার,1,1
+TEST_RESULT,৬৮/মিনিট,1,1
+TEST_RESULT,৬৯/মিনিট,1,1
+TEST_RESULT,৭.০%,1,1
+TEST_RESULT,৭.৫ mIU/L,1,1
+TEST_RESULT,৭.৭%,1,1
+TEST_RESULT,৭০ fL,1,1
+TEST_RESULT,"৭০,০০০/ঘনমিমি",1,1
+TEST_RESULT,৭১/মিনিট,1,1
+TEST_RESULT,৭২ fL,1,1
+TEST_RESULT,৭৫ fL,1,1
+TEST_RESULT,৮-১৭ প্রতি HPF,1,1
+TEST_RESULT,৮-২০ প্রতি HPF,1,1
+TEST_RESULT,৮-২৯ প্রতি HPF,1,1
+TEST_RESULT,৮.০ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৮.০ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৮.০%,1,1
+TEST_RESULT,৮.১ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৮.১%,1,1
+TEST_RESULT,৮.৪ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৮.৫ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৮.৫ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৮.৫%,1,1
+TEST_RESULT,৮.৬%,1,1
+TEST_RESULT,৮.৭ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৮.৮ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৮.৯ mIU/L,1,1
+TEST_RESULT,৮০/মিনিট,1,1
+TEST_RESULT,৮০° এর বেশি,1,1
+TEST_RESULT,৮০° এর বেশি তোলা,1,1
+TEST_RESULT,৮১ মি.গ্রা./লিটার,1,1
+TEST_RESULT,৮৬৫ ইউনিট/লিটার,1,1
+TEST_RESULT,৯.০%,1,1
+TEST_RESULT,৯.১%,1,1
+TEST_RESULT,৯.৩ মি.গ্রা./ডেসিলিটার,1,1
+TEST_RESULT,৯.৪ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৯.৪%,1,1
+TEST_RESULT,৯.৫ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৯.৫%,1,1
+TEST_RESULT,৯.৯ গ্রাম/ডেসিলিটার,1,1
+TEST_RESULT,৯৯.৮° ফারেনহাইট,1,1
